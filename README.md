@@ -6,4 +6,4 @@ While there ARE existing solutions—notably [ChimpanG's Modding Companion](http
 The Knowledge base is driven by [Obsidian](https://obsidian.md/). If you download the files for offline use or editing. It is recommended you use Obsidian for ease of navigation and editing. Naturally this project also uses Obsidian's flavor of Markdown.
 
 ## How do I contribute?
-See [here](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940) for an intro how contributing works on Github. If you expect to be a regular editor, feel free to contact me to be invited as a collaborator.
+See [here](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940) for an intro how contributing works on Github. If you expect to be a regular editor, feel free to contact me to be invited as a collaborator. Please restrict yourself to editing and creating Markdown files. It is recommended you use Obsidian to at least help you navigate the datatbase.
