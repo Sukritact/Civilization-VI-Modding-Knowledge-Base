@@ -1,20 +1,134 @@
-<!-- Dark theme -->
-<link href="/static/dark-theme.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@700&family=Cormorant:ital,wght@0,600;1,600&family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <script async="" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism.min.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-core.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
 
-<!-- MathJax, math rendering -->
-<script async="" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <style>
 
-<!-- Syntax highlighting -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism-okaidia.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-core.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
+    body .universe {
+      background-color: #202020 !important;
+      color: #dddddd;
+    }
 
-<!-- Mermaid -->
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<script>
-  window.addEventListener("load", mermaid.initialize({
-      'startOnLoad': true,
-      'theme': 'dark'
-  }))
-</script>
-<!-- End of head.html -->
+    a {
+      color: violet;
+    }
+
+    /* Relax width constraint a bit */
+    #zettel-container {
+        max-width: 100% !important;
+        max-height: 100% !important;
+    }
+
+    #zettel-container {
+        max-width: 100% !important;
+        max-height: 100% !important;
+    }
+
+    .ui.raised.raised.segment, .ui.raised.raised.segments {
+      box-shadow: none;
+    }
+
+    .ui.attached.segment {
+      border: none;
+    }
+
+    .ui.segment {
+      border: none;
+      background: #202020 !important;
+    }
+
+    .ui.header + p {
+      margin-top: 1.5em;
+    }
+
+    body .zettel-content h1#title-h1 {
+      background-color: 202020 !important;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      font-family: 'Montserrat', sans-serif !important;
+      font-weight: 500;
+      font-size: 3em;
+      text-align: left;
+    }
+
+    body h1 {
+      background-color: 202020 !important;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      font-family: 'Montserrat', sans-serif !important;
+      font-weight: 500;
+      font-size: 3em;
+      text-align: left;
+    }
+
+    body div.zettel-view .zettel-content h2 {
+      border-bottom: none !important;
+      text-align: left;
+    }
+
+    body h2, h3, h4, h5, h6 {
+      font-family: 'Montserrat', sans-serif !important;
+      font-weight: 400;
+      font-size: 2em;
+    }
+
+    body h3, h4, h5, h6 {
+      font-size: 1.5em;
+      margin: 1.5em 0px 0.5em 0px;
+    }
+
+    body p, li, a {
+      font-family: 'Montserrat', sans-serif !important;
+      font-weight: 400;
+    }
+
+    /* Hide the query divider */
+    div.pandoc section.tag-query-results .divider {
+    display: none !important;
+    }
+
+    div.pandoc section.tag-query-results .ui.list {
+        padding-left: 1em;
+    }
+
+    div.ui.center.aligned.container.footer-version {
+    display: none !important;
+    }
+
+    progress[value] {
+      /* Reset the default appearance */
+      -webkit-appearance: none;
+      -moz-appearance: none;
+       appearance: none;
+
+      border: none;
+
+      width: 50%;
+      height: 20px;
+      background-color: #ececec;
+      border-radius: 10px;
+    }
+    progress[value]::-webkit-progress-bar {
+      background-color: #ececec;
+      width: 50%;
+      border-radius: 10px;
+    }
+    progress[value]::-webkit-progress-value {
+      background-color: #19a6a6;
+      width: 50%;
+      border-radius: 10px;
+    }
+    progress[value]::-moz-progress-bar {
+      background-color: #19a6a6;
+      border-radius: 10px;
+    }
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+        display: block
+    }
+
+  </style>
