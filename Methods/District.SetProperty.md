@@ -3,4 +3,4 @@
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> District:SetProperty()
+See [[About Get-SetProperty]]

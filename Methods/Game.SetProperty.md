@@ -3,4 +3,4 @@
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Game:SetProperty()
+See [[About Get-SetProperty]]

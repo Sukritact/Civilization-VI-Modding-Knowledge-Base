@@ -3,4 +3,4 @@
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Plot:SetProperty()
+See [[About Get-SetProperty]]
