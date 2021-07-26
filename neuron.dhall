@@ -5,5 +5,5 @@
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
 , theme = "violet"
 -- This is used in the "edit" button
-, editUrl = Some "https://github.com/Sukritact/Civilization-VI-Modding-Knowledge-Base/blob/master/index.md"
+, editUrl = Some "https://github.com/Sukritact/Civilization-VI-Modding-Knowledge-Base/blob/master/"
 }
