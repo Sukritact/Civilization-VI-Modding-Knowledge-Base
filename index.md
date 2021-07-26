@@ -1,3 +1,7 @@
+# Index
+## About this site
+Welcome to the Civilization VI Modding Knowledge Base. This site aims to be a comprehensive Lua reference for Civilization VI modders. Check out the [[README]] to learn more about this project.
+
 # Objects
 
 ## Instances
