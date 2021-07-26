@@ -11,6 +11,6 @@ Get/SetProperty is a useful little method that can be used to store persistent d
 
 Get/SetProperty always expects an implicit self argument and MUST be called with `:`, even on the Game object.
 
-Properties stored this way are tied to the save file and will persist when the game is closed and the save is reloaded. Properties are accessible by all scripts in all contexts: you can save the data in 
+Properties stored this way are tied to the save file and will persist when the game is closed and the save is reloaded. Properties are accessible by all scripts in all contexts: you can save the data in a Gameplay script in one mod, and load it from a UI script in another mod: which makes it important that the keys you use are unique to your mod.
 
 The method can store a large variety of different data types, but notably it can also store Lua tables! So you don't have to store every separate piece of data under a separate key.
