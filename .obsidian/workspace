@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "5f340daf2f41e5dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bbf8275d1227e1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Objects/GameCulture.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d02d6ffe74506f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b92dc3709d7ac17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a970065b83acc3f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff5dfd45ffe82fe0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "buildqueue",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb6df1f60e08a3dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c53e9c2c179671ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d57022ec6d784665",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Objects/GameCulture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "df02084bbe3a8d8b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340,
+    "collapsed": true
+  },
+  "active": "1bbf8275d1227e1b",
+  "lastOpenFiles": [
+    "Objects/GameCulture.md",
+    "Objects/GameDiplomacy.md",
+    "Objects/GameEffects.md",
+    "Objects/CityGrowth.md",
+    "Objects/CityCulture.md",
+    "Objects/Area.md",
+    "Objects/CityPlots.md",
+    "Objects/City.md",
+    "Objects/CityBuildings.md",
+    "Objects/GameClimate.md"
+  ]
+}
