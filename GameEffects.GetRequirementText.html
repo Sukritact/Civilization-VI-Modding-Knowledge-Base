@@ -17,18 +17,18 @@
     }
 
     a {
-      color: violet;
+      color: #7f6df2;
     }
 
-    .zettel-content code{
+    .zettel-content code, code{
       background-color: #1a1a1a !important;
       color: #c7254e;
     }
 
-    .zettel-content blockquote{
+    .zettel-content blockquote, blockquote{
       background-color: #202020 !important;
-      border: 1px solid #dddddd;
-      border-left: solid 10px #dddddd;
+      border: 1px solid #333333;
+      border-left: solid 10px #333333;
     }
 
     /* Relax width constraint a bit */
@@ -61,6 +61,17 @@
 
     .ui.header + p {
       margin-top: 1.5em;
+    }
+
+    .ui.table {
+      color: #dddddd;
+      background: #202020 !important;
+    }
+
+    .ui.table > thead > tr > th {
+      color: #dddddd;
+      background: #202020 !important;
+      border-bottom: 1px solid #333333;
     }
 
     body .zettel-content h1#title-h1 {
