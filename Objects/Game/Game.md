@@ -10,9 +10,9 @@ This file is a description of an object. This object is accessible as a global v
 | |✓| |.|[[Game.GetActivePlayerCount\|GetActivePlayerCount]]| |
 | |✓| |.|[[Game.GetArtifactAtPlot\|GetArtifactAtPlot]]| |
 | |✓| |.|[[Game.GetArtifactByIndex\|GetArtifactByIndex]]| |
-|✓|✓|[[Barbarians]]|.|[[Game.GetBarbarianManager\|GetBarbarianManager]]| |
+|✓|✓|<code>[[Barbarians]]</code>|.|[[Game.GetBarbarianManager\|GetBarbarianManager]]| |
 |✓|✓| |.|[[Game.GetComponentID\|GetComponentID]]| |
-| |✓|[[GameCulture]]|.|[[Game.GetCulture\|GetCulture]]| |
+| |✓|<code>[[GameCulture]]</code>|.|[[Game.GetCulture\|GetCulture]]| |
 |✓|✓| |.|[[Game.GetCurrentGameTurn\|GetCurrentGameTurn]]| |
 |✓|✓| |.|[[Game.GetCurrentTurnPhase\|GetCurrentTurnPhase]]| |
 |✓|✓| |.|[[Game.GetCurrentTurnPhaseName\|GetCurrentTurnPhaseName]]| |
@@ -22,12 +22,12 @@ This file is a description of an object. This object is accessible as a global v
 |✓|✓| |.|[[Game.GetDefeatRequirements\|GetDefeatRequirements]]| |
 | |✓| |.|[[Game.GetEconomicManager\|GetEconomicManager]]| |
 | |✓| |.|[[Game.GetEmergencyManager\|GetEmergencyManager]]| |
-|✓|✓|[[GameEras]]|.|[[Game.GetEras\|GetEras]]| |
-|✓|✓|[[GameFalloutManager]]|.|[[Game.GetFalloutManager\|GetFalloutManager]]| |
-|✓|✓|[[GameDiplomacy]]|.|[[Game.GetGameDiplomacy\|GetGameDiplomacy]]| |
+|✓|✓|<code>[[GameEras]]</code>|.|[[Game.GetEras\|GetEras]]| |
+|✓|✓|<code>[[GameFalloutManager]]</code>|.|[[Game.GetFalloutManager\|GetFalloutManager]]| |
+|✓|✓|<code>[[GameDiplomacy]]</code>|.|[[Game.GetGameDiplomacy\|GetGameDiplomacy]]| |
 | |✓| |.|[[Game.GetGameEndTurn\|GetGameEndTurn]]| |
 | |✓| |.|[[Game.GetGossipManager\|GetGossipManager]]| |
-|✓|✓|[[GameGreatPeople]]|.|[[Game.GetGreatPeople\|GetGreatPeople]]| |
+|✓|✓|<code>[[GameGreatPeople]]</code>|.|[[Game.GetGreatPeople\|GetGreatPeople]]| |
 | |✓| |.|[[Game.GetGreatWorkDataFromIndex\|GetGreatWorkDataFromIndex]]| |
 | |✓| |.|[[Game.GetGreatWorkPlayer\|GetGreatWorkPlayer]]| |
 | |✓| |.|[[Game.GetGreatWorkType\|GetGreatWorkType]]| |
@@ -44,19 +44,19 @@ This file is a description of an object. This object is accessible as a global v
 |✓|✓| |.|[[Game.GetPlayers\|GetPlayers]]| |
 |✓|✓| |:|[[Game.GetProperties\|GetProperties]]| |
 |✓|✓| |:|[[Game.GetProperty\|GetProperty]]| |
-|✓|✓|[[QuestsManager]]|.|[[Game.GetQuestsManager\|GetQuestsManager]]| |
+|✓|✓|<code>[[QuestsManager]]</code>|.|[[Game.GetQuestsManager\|GetQuestsManager]]| |
 |✓| | |.|[[Game.GetRandNum\|GetRandNum]]| |
 |✓| | |.|[[Game.GetRandomSeed\|GetRandomSeed]]| |
-|✓|✓|[[GameReligion]]|.|[[Game.GetReligion\|GetReligion]]| |
-| |✓|[[GameTechs]]|.|[[Game.GetTechs\|GetTechs]]| |
-|✓|✓|[[TradeManager]]|.|[[Game.GetTradeManager\|GetTradeManager]]| |
+|✓|✓|<code>[[GameReligion]]</code>|.|[[Game.GetReligion\|GetReligion]]| |
+| |✓|<code>[[GameTechs]]</code>|.|[[Game.GetTechs\|GetTechs]]| |
+|✓|✓|<code>[[TradeManager]]</code>|.|[[Game.GetTradeManager\|GetTradeManager]]| |
 | |✓| |.|[[Game.GetUnitNamePrefix\|GetUnitNamePrefix]]| |
 | |✓| |.|[[Game.GetUnitNameSuffix\|GetUnitNameSuffix]]| |
 | |✓| |.|[[Game.GetUnits\|GetUnits]]| |
 |✓|✓| |.|[[Game.GetVictoryProgressForTeam\|GetVictoryProgressForTeam]]| |
 |✓|✓| |.|[[Game.GetVictoryRequirements\|GetVictoryRequirements]]| |
 |✓|✓| |.|[[Game.GetWinningTeam\|GetWinningTeam]]| |
-| |✓|[[CongressManager]]|.|[[Game.GetWorldCongress\|GetWorldCongress]]| |
+| |✓|<code>[[CongressManager]]</code>|.|[[Game.GetWorldCongress\|GetWorldCongress]]| |
 |✓|✓| |.|[[Game.IsAllowStrategicCommands\|IsAllowStrategicCommands]]| |
 |✓|✓| |.|[[Game.IsAllowTacticalCommands\|IsAllowTacticalCommands]]| |
 |✓|✓| |.|[[Game.IsDefeatEnabled\|IsDefeatEnabled]]| |

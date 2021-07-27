@@ -12,20 +12,20 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 | |✓| |:|[[City.GetAllAssignedGovernors\|GetAllAssignedGovernors]]| |
 | |✓| |:|[[City.GetAmenityAdvice\|GetAmenityAdvice]]| |
 | |✓| |:|[[City.GetAssignedGovernor\|GetAssignedGovernor]]| |
-|✓|✓|[[CityBuildQueue]]|:|[[City.GetBuildQueue\|GetBuildQueue]]| |
+|✓|✓|<code>[[CityBuildQueue]]</code>|:|[[City.GetBuildQueue\|GetBuildQueue]]| |
 |✓| | |:|[[City.GetBuildingFaithPurchaseEnabled\|GetBuildingFaithPurchaseEnabled]]| |
 | |✓| |:|[[City.GetBuildingPotentialYield\|GetBuildingPotentialYield]]| |
 | |✓| |:|[[City.GetBuildingYield\|GetBuildingYield]]| |
-|✓|✓|[[CityBuildings]]|:|[[City.GetBuildings\|GetBuildings]]| |
-|✓|✓|[[CityCitizens]]|:|[[City.GetCitizens\|GetCitizens]]| |
-| |✓|[[AiCityBuild]]|:|[[City.GetCityAI\|GetCityAI]]| |
+|✓|✓|<code>[[CityBuildings]]</code>|:|[[City.GetBuildings\|GetBuildings]]| |
+|✓|✓|<code>[[CityCitizens]]</code>|:|[[City.GetCitizens\|GetCitizens]]| |
+| |✓|<code>[[AiCityBuild]]</code>|:|[[City.GetCityAI\|GetCityAI]]| |
 | |✓| |:|[[City.GetComponentID\|GetComponentID]]| |
-| |✓|[[CityCulturalIdentity]]|:|[[City.GetCulturalIdentity\|GetCulturalIdentity]]| |
-| |✓|[[CityCulture]]|:|[[City.GetCulture\|GetCulture]]| |
+| |✓|<code>[[CityCulturalIdentity]]</code>|:|[[City.GetCulturalIdentity\|GetCulturalIdentity]]| |
+| |✓|<code>[[CityCulture]]</code>|:|[[City.GetCulture\|GetCulture]]| |
 | |✓| |:|[[City.GetDistrictID\|GetDistrictID]]| |
-|✓|✓|[[CityDistricts]]|:|[[City.GetDistricts\|GetDistricts]]| |
-| |✓|[[CityGold]]|:|[[City.GetGold\|GetGold]]| |
-|✓|✓|[[CityGrowth]]|:|[[City.GetGrowth\|GetGrowth]]| |
+|✓|✓|<code>[[CityDistricts]]</code>|:|[[City.GetDistricts\|GetDistricts]]| |
+| |✓|<code>[[CityGold]]</code>|:|[[City.GetGold\|GetGold]]| |
+|✓|✓|<code>[[CityGrowth]]</code>|:|[[City.GetGrowth\|GetGrowth]]| |
 | |✓| |:|[[City.GetHousingAdvice\|GetHousingAdvice]]| |
 |✓|✓| |:|[[City.GetID\|GetID]]| |
 | |✓| |:|[[City.GetJustConqueredFrom\|GetJustConqueredFrom]]| |
@@ -37,14 +37,14 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |✓| | |:|[[City.GetOwnedPlots\|GetOwnedPlots]]| |
 |✓|✓| |:|[[City.GetOwner\|GetOwner]]| |
 | |✓| |:|[[City.GetOwnerBeforeOccupation\|GetOwnerBeforeOccupation]]| |
-|✓| |[[Plot]]|:|[[City.GetPlot\|GetPlot]]| |
+|✓| |<code>[[Plot]]</code>|:|[[City.GetPlot\|GetPlot]]| |
 |✓|✓| |:|[[City.GetPopulation\|GetPopulation]]| |
 | |✓| |:|[[City.GetPower\|GetPower]]| |
 | |✓| |:|[[City.GetPowerAdvice\|GetPowerAdvice]]| |
 |✓|✓| |:|[[City.GetProperties\|GetProperties]]| |
 |✓|✓| |:|[[City.GetProperty\|GetProperty]]| |
-|✓|✓|[[CityReligion]]|:|[[City.GetReligion\|GetReligion]]| |
-| |✓|[[CityTrade]]|:|[[City.GetTrade\|GetTrade]]| |
+|✓|✓|<code>[[CityReligion]]</code>|:|[[City.GetReligion\|GetReligion]]| |
+| |✓|<code>[[CityTrade]]</code>|:|[[City.GetTrade\|GetTrade]]| |
 |✓| | |:|[[City.GetUnitFaithPurchaseEnabled\|GetUnitFaithPurchaseEnabled]]| |
 |✓|✓| |:|[[City.GetX\|GetX]]| |
 |✓|✓| |:|[[City.GetY\|GetY]]| |

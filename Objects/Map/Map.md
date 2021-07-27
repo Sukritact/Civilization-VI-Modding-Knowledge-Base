@@ -9,7 +9,7 @@ This file is a description of an object. This object is accessible as a global v
 |✓| | |.|[[Map.FindWater\|FindWater]]| |
 |✓|✓| |.|[[Map.GetAdjacentPlot\|GetAdjacentPlot]]| |
 |✓|✓| |.|[[Map.GetAdjacentPlots\|GetAdjacentPlots]]| |
-| |✓|[[CityPlots]]|.|[[Map.GetCityPlots\|GetCityPlots]]| |
+| |✓|<code>[[CityPlots]]</code>|.|[[Map.GetCityPlots\|GetCityPlots]]| |
 |✓| | |.|[[Map.GetContinentCoastalPlots\|GetContinentCoastalPlots]]| |
 |✓|✓| |.|[[Map.GetContinentPlots\|GetContinentPlots]]| |
 |✓|✓| |.|[[Map.GetContinentPlotsAppeal\|GetContinentPlotsAppeal]]| |
@@ -23,7 +23,7 @@ This file is a description of an object. This object is accessible as a global v
 |✓|✓| |.|[[Map.GetMapSize\|GetMapSize]]| |
 |✓|✓| |.|[[Map.GetMaxPlotDistance\|GetMaxPlotDistance]]| |
 |✓|✓| |.|[[Map.GetNeighborPlots\|GetNeighborPlots]]| |
-|✓|✓|[[Plot]]|.|[[Map.GetPlot\|GetPlot]]| |
+|✓|✓|<code>[[Plot]]</code>|.|[[Map.GetPlot\|GetPlot]]| |
 |✓|✓| |.|[[Map.GetPlotByIndex\|GetPlotByIndex]]| |
 |✓|✓| |.|[[Map.GetPlotCount\|GetPlotCount]]| |
 |✓|✓| |.|[[Map.GetPlotDistance\|GetPlotDistance]]| |

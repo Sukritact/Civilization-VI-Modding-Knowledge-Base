@@ -12,46 +12,46 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |✓| | |:|[[Player.ChangeScoringScenario3\|ChangeScoringScenario3]]| |
 | |✓| |:|[[Player.GetAgendaTypes\|GetAgendaTypes]]| |
 | |✓| |:|[[Player.GetAgendasAndVisibilities\|GetAgendasAndVisibilities]]| |
-|✓| |[[AiDiplomacy]]|:|[[Player.GetAi_Diplomacy\|GetAi_Diplomacy]]| |
-|✓| |[[AiMilitary]]|:|[[Player.GetAi_Military\|GetAi_Military]]| |
-|✓| |[[AiReligious]]|:|[[Player.GetAi_Religion\|GetAi_Religion]]| |
+|✓| |<code>[[AiDiplomacy]]</code>|:|[[Player.GetAi_Diplomacy\|GetAi_Diplomacy]]| |
+|✓| |<code>[[AiMilitary]]</code>|:|[[Player.GetAi_Military\|GetAi_Military]]| |
+|✓| |<code>[[AiReligious]]</code>|:|[[Player.GetAi_Religion\|GetAi_Religion]]| |
 | |✓| |:|[[Player.GetCategoryScore\|GetCategoryScore]]| |
-|✓|✓|[[PlayerCities]]|:|[[Player.GetCities\|GetCities]]| |
+|✓|✓|<code>[[PlayerCities]]</code>|:|[[Player.GetCities\|GetCities]]| |
 | |✓| |:|[[Player.GetCivilianLoyalty\|GetCivilianLoyalty]]| |
 |✓|✓| |:|[[Player.GetComponentID\|GetComponentID]]| |
-|✓|✓|[[PlayerCulture]]|:|[[Player.GetCulture\|GetCulture]]| |
-|✓|✓|[[TeamDiplomacy]]|:|[[Player.GetDiplomacy\|GetDiplomacy]]| |
-| |✓|[[AiDiplomacy]]|:|[[Player.GetDiplomaticAI\|GetDiplomaticAI]]| |
-|✓|✓|[[PlayerDistricts]]|:|[[Player.GetDistricts\|GetDistricts]]| |
+|✓|✓|<code>[[PlayerCulture]]</code>|:|[[Player.GetCulture\|GetCulture]]| |
+|✓|✓|<code>[[TeamDiplomacy]]</code>|:|[[Player.GetDiplomacy\|GetDiplomacy]]| |
+| |✓|<code>[[AiDiplomacy]]</code>|:|[[Player.GetDiplomaticAI\|GetDiplomaticAI]]| |
+|✓|✓|<code>[[PlayerDistricts]]</code>|:|[[Player.GetDistricts\|GetDistricts]]| |
 |✓|✓| |:|[[Player.GetEra\|GetEra]]| |
-|✓| |[[PlayerEras]]|:|[[Player.GetEras\|GetEras]]| |
+|✓| |<code>[[PlayerEras]]</code>|:|[[Player.GetEras\|GetEras]]| |
 | |✓| |:|[[Player.GetFavor\|GetFavor]]| |
 | |✓| |:|[[Player.GetFavorEnteringCongress\|GetFavorEnteringCongress]]| |
 | |✓| |:|[[Player.GetFavorPerTurn\|GetFavorPerTurn]]| |
 | |✓| |:|[[Player.GetFavorPerTurnToolTip\|GetFavorPerTurnToolTip]]| |
-|✓|✓|[[PlayerGovernors]]|:|[[Player.GetGovernors\|GetGovernors]]| |
-| |✓|[[AiGrandStrategic]]|:|[[Player.GetGrandStrategicAI\|GetGrandStrategicAI]]| |
-|✓|✓|[[PlayerGreatPeoplePoints]]|:|[[Player.GetGreatPeoplePoints\|GetGreatPeoplePoints]]| |
+|✓|✓|<code>[[PlayerGovernors]]</code>|:|[[Player.GetGovernors\|GetGovernors]]| |
+| |✓|<code>[[AiGrandStrategic]]</code>|:|[[Player.GetGrandStrategicAI\|GetGrandStrategicAI]]| |
+|✓|✓|<code>[[PlayerGreatPeoplePoints]]</code>|:|[[Player.GetGreatPeoplePoints\|GetGreatPeoplePoints]]| |
 |✓|✓| |:|[[Player.GetID\|GetID]]| |
-| |✓|[[PlayerImprovements]]|:|[[Player.GetImprovements\|GetImprovements]]| |
-|✓|✓|[[PlayerInfluence]]|:|[[Player.GetInfluence\|GetInfluence]]| |
-| |✓|[[InfluenceMap]]|:|[[Player.GetInfluenceMap\|GetInfluenceMap]]| |
+| |✓|<code>[[PlayerImprovements]]</code>|:|[[Player.GetImprovements\|GetImprovements]]| |
+|✓|✓|<code>[[PlayerInfluence]]</code>|:|[[Player.GetInfluence\|GetInfluence]]| |
+| |✓|<code>[[InfluenceMap]]</code>|:|[[Player.GetInfluenceMap\|GetInfluenceMap]]| |
 | |✓| |:|[[Player.GetProperties\|GetProperties]]| |
 |✓|✓| |:|[[Player.GetProperty\|GetProperty]]| |
-|✓|✓|[[PlayerReligion]]|:|[[Player.GetReligion\|GetReligion]]| |
-|✓|✓|[[PlayerResources]]|:|[[Player.GetResources\|GetResources]]| |
+|✓|✓|<code>[[PlayerReligion]]</code>|:|[[Player.GetReligion\|GetReligion]]| |
+|✓|✓|<code>[[PlayerResources]]</code>|:|[[Player.GetResources\|GetResources]]| |
 |✓|✓| |:|[[Player.GetScore\|GetScore]]| |
 |✓| | |:|[[Player.GetScoringScenario1\|GetScoringScenario1]]| |
 |✓| | |:|[[Player.GetScoringScenario2\|GetScoringScenario2]]| |
 |✓| | |:|[[Player.GetScoringScenario3\|GetScoringScenario3]]| |
 |✓| | |:|[[Player.GetStartingPlot\|GetStartingPlot]]| |
-|✓|✓|[[PlayerStats]]|:|[[Player.GetStats\|GetStats]]| |
+|✓|✓|<code>[[PlayerStats]]</code>|:|[[Player.GetStats\|GetStats]]| |
 |✓|✓| |:|[[Player.GetTeam\|GetTeam]]| |
-|✓|✓|[[PlayerTechs]]|:|[[Player.GetTechs\|GetTechs]]| |
-|✓|✓|[[PlayerTrade]]|:|[[Player.GetTrade\|GetTrade]]| |
-|✓|✓|[[PlayerTreasury]]|:|[[Player.GetTreasury\|GetTreasury]]| |
-|✓|✓|[[PlayerUnits]]|:|[[Player.GetUnits\|GetUnits]]| |
-|✓|✓|[[PlayerWMDs]]|:|[[Player.GetWMDs\|GetWMDs]]| |
+|✓|✓|<code>[[PlayerTechs]]</code>|:|[[Player.GetTechs\|GetTechs]]| |
+|✓|✓|<code>[[PlayerTrade]]</code>|:|[[Player.GetTrade\|GetTrade]]| |
+|✓|✓|<code>[[PlayerTreasury]]</code>|:|[[Player.GetTreasury\|GetTreasury]]| |
+|✓|✓|<code>[[PlayerUnits]]</code>|:|[[Player.GetUnits\|GetUnits]]| |
+|✓|✓|<code>[[PlayerWMDs]]</code>|:|[[Player.GetWMDs\|GetWMDs]]| |
 |✓| | |:|[[Player.GrantWMDs\|GrantWMDs]]| |
 |✓| | |:|[[Player.GrantYield\|GrantYield]]| |
 | |✓| |:|[[Player.IsAI\|IsAI]]| |

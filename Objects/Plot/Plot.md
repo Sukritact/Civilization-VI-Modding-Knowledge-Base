@@ -12,14 +12,14 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |✓|✓| |:|[[Plot.GetAdjacencyYield\|GetAdjacencyYield]]| |
 |✓|✓| |:|[[Plot.GetAirUnits\|GetAirUnits]]| |
 |✓|✓| |:|[[Plot.GetAppeal\|GetAppeal]]| |
-|✓|✓|[[Area]]|:|[[Plot.GetArea\|GetArea]]| |
+|✓|✓|<code>[[Area]]</code>|:|[[Plot.GetArea\|GetArea]]| |
 |✓|✓| |:|[[Plot.GetAreaID\|GetAreaID]]| |
 |✓|✓| |:|[[Plot.GetComponentID\|GetComponentID]]| |
 |✓|✓| |:|[[Plot.GetContinentType\|GetContinentType]]| |
 |✓|✓| |:|[[Plot.GetDefenseModifier\|GetDefenseModifier]]| |
 |✓|✓| |:|[[Plot.GetDistrictID\|GetDistrictID]]| |
 |✓|✓| |:|[[Plot.GetDistrictType\|GetDistrictType]]| |
-|✓|✓|[[MapFeature]]|:|[[Plot.GetFeature\|GetFeature]]| |
+|✓|✓|<code>[[MapFeature]]</code>|:|[[Plot.GetFeature\|GetFeature]]| |
 |✓|✓| |:|[[Plot.GetFeatureType\|GetFeatureType]]| |
 |✓|✓| |:|[[Plot.GetImprovementOwner\|GetImprovementOwner]]| |
 |✓|✓| |:|[[Plot.GetImprovementType\|GetImprovementType]]| |
