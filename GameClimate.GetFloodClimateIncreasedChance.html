@@ -16,7 +16,7 @@
       color: #dddddd;
     }
 
-    a {
+    a, .zettel-link a {
       color: #7f6df2;
     }
 
@@ -40,6 +40,16 @@
     #zettel-container {
         max-width: 100% !important;
         max-height: 100% !important;
+    }
+
+    .ui.label.zettel-tag {
+      color: #dddddd;
+      background-color: #202020;
+      border: 1px solid #333333;
+    }
+
+    .ui.violet.menu{
+      background-color: #483699;
     }
 
     .ui.raised.raised.segment, .ui.raised.raised.segments {
@@ -69,10 +79,10 @@
       border: 1px solid #333333;
     }
 
-    .ui.table > thead > tr > th {
+    .ui.table > thead > tr > th, .ui.table > tbody > tr > td, .ui.table > tr > td {
       color: #dddddd;
       background: #202020 !important;
-      border-bottom: 1px solid #333333;
+      border: 0.5px solid #333;
     }
 
     body .zettel-content h1#title-h1 {
