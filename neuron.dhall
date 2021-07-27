@@ -6,4 +6,5 @@
 , theme = "violet"
 -- This is used in the "edit" button
 , editUrl = Some "https://github.com/Sukritact/Civilization-VI-Modding-Knowledge-Base/blob/master/"
+, plugins = [ "neuronignore", "links", "tags", "uptree", "dirtree" ]
 }
