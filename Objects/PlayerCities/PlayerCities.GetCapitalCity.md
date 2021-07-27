@@ -3,4 +3,4 @@
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerCities:GetCapitalCity()
+> <code>[[City]]</code> PlayerCities:GetCapitalCity()

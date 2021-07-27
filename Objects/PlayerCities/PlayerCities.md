@@ -9,7 +9,7 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |✓| | |:|[[PlayerCities.Destroy\|Destroy]]| |
 |✓|✓| |:|[[PlayerCities.FindClosest\|FindClosest]]| |
 |✓|✓| |:|[[PlayerCities.FindID\|FindID]]| |
-|✓|✓| |:|[[PlayerCities.GetCapitalCity\|GetCapitalCity]]| |
+|✓|✓| <code>[[City]]</code>|:|[[PlayerCities.GetCapitalCity\|GetCapitalCity]]| |
 |✓|✓| |:|[[PlayerCities.GetCount\|GetCount]]| |
 | |✓| |:|[[PlayerCities.GetFirstRangedAttackCity\|GetFirstRangedAttackCity]]| |
 | |✓| |:|[[PlayerCities.GetNextCapturedCity\|GetNextCapturedCity]]| |
