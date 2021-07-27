@@ -2,16 +2,23 @@
 ## About this site
 Welcome to the Civilization VI Modding Knowledge Base. This site aims to be a comprehensive Lua reference for Civilization VI modders. Check out the [[README]] to learn more about this project.
 
-# Objects
+## Links
+- [[Knowledge Index]]
 
-## Instances
+## Objects
+
+### Events
+- [[Events]]
+- [[GameEvents]]
+
+### Instances
 - [[City]]
 - [[District]]
 - [[Player]]
 - [[Plot]]
 - [[Unit]]
 
-## Static objects
+### Static objects
 - [[Cities]]
 - [[CityManager]]
 - [[CombatManager]]
