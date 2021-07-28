@@ -1,9 +1,24 @@
+---
+Function: 'GameGreatPeople:GrantPerson'
+Returns:
+- '`[nil]`'
+Arguments:
+- '`IndividualID [number]`'
+- '`GreatPersonClassID [number]`'
+- '`EraID [number]`'
+- '`Cost [number]`'
+- '`PlayerID [number]`'
+- '`Unknown [boolean]`'
+---
+
 # GameGreatPeople:GrantPerson
 > this function is a member of [[GameGreatPeople]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> GameGreatPeople:GrantPerson(`IndividualID [number]`, `GreatPersonClassID [number]`, `EraID [number]`, `Cost [number]`, `PlayerID [number]`, `Unknown [boolean]`)
+| Returns          | Function          | Arguments |
+| ---------------- | ----------------- | --------- |
+| `= this.Returns` | `= this.Function` | `= this.Arguments`          |
 
 Grants the specified Great Person Individual. The Great Person seems to be placed in the most appropriate location as it would be were the Great Person earned via normal gameplay.
 
