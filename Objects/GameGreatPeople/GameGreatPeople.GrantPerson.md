@@ -1,3 +1,17 @@
+---
+tags:
+- function
+returns: 
+- "`[nil]`"
+arguments:
+- "`IndividualID [number]`"
+- "`GreatPersonClassID [number]`"
+- "`EraID [number]`"
+- "`Cost [number]`"
+- "`PlayerID [number]`"
+- "`Unknown [boolean]`"
+---
+
 # GameGreatPeople:GrantPerson
 > this function is a member of [[GameGreatPeople]]
 > this method expects an implicit "self" argument. invoke it with `:`

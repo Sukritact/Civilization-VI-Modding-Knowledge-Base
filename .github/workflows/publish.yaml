@@ -9,6 +9,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: setup python
+      uses: actions/setup-python@v2
+            with:
+              python-version: 3.8 #install the python needed
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pyyaml
+    - name: execute py script
+      run: |
+        cd statc
+        python Obsidian-Dataview-Cache.py
+        cd ../
     - name: Build neuron site 🔧
       run: |
         mkdir -p .neuron/output && touch .neuron/output/.nojekyll
