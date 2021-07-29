@@ -16,7 +16,7 @@ for path in filePaths:
 	with open(path) as file:
 
 		filename = os.path.basename(path)
-		trimfilename = filename.replace('.md', '')
+		trimfilename = filename.replace('.md', '').replace(' ', '_')
 		content = file.read()
 
 		cache[trimfilename] = {}
