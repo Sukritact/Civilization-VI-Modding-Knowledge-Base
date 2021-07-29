@@ -19,7 +19,7 @@ jobs:
         pip install pyyaml
     - name: execute py script
       run: |
-        cd statc
+        cd static
         python Obsidian-Dataview-Cache.py
         cd ../
     - name: Build neuron site 🔧
