@@ -10,10 +10,10 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-| |✓||:|[[GameDiplomacy.GetAllianceBenefitsString\|GetAllianceBenefitsString]]||
-| |✓||:|[[GameDiplomacy.GetDenounceTimeLimit\|GetDenounceTimeLimit]]||
+|✓| ||:|[[GameDiplomacy.GetAllianceBenefitsString\|GetAllianceBenefitsString]]||
+|✓| ||:|[[GameDiplomacy.GetDenounceTimeLimit\|GetDenounceTimeLimit]]||
 |✓|✓||:|[[GameDiplomacy.GetGrievanceChangePerTurn\|GetGrievanceChangePerTurn]]||
 |✓|✓||:|[[GameDiplomacy.GetGrievanceChangeTooltip\|GetGrievanceChangeTooltip]]||
 |✓|✓||:|[[GameDiplomacy.GetGrievanceLogEntries\|GetGrievanceLogEntries]]||
-| |✓||:|[[GameDiplomacy.GetMinPeaceDuration\|GetMinPeaceDuration]]||
-|✓| ||:|[[GameDiplomacy.SetAlliesShareVisFlag\|SetAlliesShareVisFlag]]||
+|✓| ||:|[[GameDiplomacy.GetMinPeaceDuration\|GetMinPeaceDuration]]||
+| |✓||:|[[GameDiplomacy.SetAlliesShareVisFlag\|SetAlliesShareVisFlag]]||

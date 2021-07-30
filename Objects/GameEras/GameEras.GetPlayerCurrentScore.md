@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetPlayerCurrentScore
 returns: []
-script: true
+script: false
 tags:
 - Game/GameEras/_function
-- function/script
+- function/UI
 ---
 # GameEras:GetPlayerCurrentScore
 > this function is a member of [[GameEras]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameEras:GetPlayerCurrentScore||
+|✓| ||GameEras:GetPlayerCurrentScore||

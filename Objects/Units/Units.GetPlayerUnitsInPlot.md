@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Units
 methodname: GetPlayerUnitsInPlot
 returns: []
-script: true
+script: false
 tags:
 - Units/_function
-- function/script
+- function/UI
 ---
 # Units.GetPlayerUnitsInPlot
 > this function is a member of [[Units]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||Units.GetPlayerUnitsInPlot||
+|✓| ||Units.GetPlayerUnitsInPlot||

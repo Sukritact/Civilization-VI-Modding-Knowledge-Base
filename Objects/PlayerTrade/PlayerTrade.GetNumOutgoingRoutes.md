@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetNumOutgoingRoutes
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerTrade/_function
-- function/script
+- function/UI
 ---
 # PlayerTrade:GetNumOutgoingRoutes
 > this function is a member of [[PlayerTrade]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerTrade:GetNumOutgoingRoutes||
+|✓| ||PlayerTrade:GetNumOutgoingRoutes||

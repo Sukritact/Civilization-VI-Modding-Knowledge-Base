@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetGrowthThreshold
 returns: []
-script: true
+script: false
 tags:
 - City/CityGrowth/_function
-- function/script
+- function/UI
 ---
 # CityGrowth:GetGrowthThreshold
 > this function is a member of [[CityGrowth]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityGrowth:GetGrowthThreshold||
+|✓| ||CityGrowth:GetGrowthThreshold||

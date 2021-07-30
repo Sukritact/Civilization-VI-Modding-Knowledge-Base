@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: Map
 methodname: GetContinentCoastalPlots
 returns: []
-script: false
+script: true
 tags:
 - Map/_function
-- function/UI
+- function/script
 ---
 # Map.GetContinentCoastalPlots
 > this function is a member of [[Map]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||Map.GetContinentCoastalPlots||
+| |✓||Map.GetContinentCoastalPlots||

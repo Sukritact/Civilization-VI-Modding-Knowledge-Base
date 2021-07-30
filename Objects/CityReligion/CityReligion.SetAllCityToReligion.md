@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: SetAllCityToReligion
 returns: []
-script: false
+script: true
 tags:
 - City/CityReligion/_function
-- function/UI
+- function/script
 ---
 # CityReligion:SetAllCityToReligion
 > this function is a member of [[CityReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||CityReligion:SetAllCityToReligion||
+| |✓||CityReligion:SetAllCityToReligion||

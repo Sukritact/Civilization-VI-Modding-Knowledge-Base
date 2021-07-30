@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: TerrainManager
 methodname: SubmergeCoast
 returns: []
-script: false
+script: true
 tags:
 - TerrainManager/_function
-- function/UI
+- function/script
 ---
 # TerrainManager.SubmergeCoast
 > this function is a member of [[TerrainManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||TerrainManager.SubmergeCoast||
+| |✓||TerrainManager.SubmergeCoast||

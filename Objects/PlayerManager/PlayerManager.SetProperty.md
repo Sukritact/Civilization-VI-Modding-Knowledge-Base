@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: PlayerManager
 methodname: SetProperty
 returns: []
-script: false
+script: true
 tags:
 - PlayerManager/_function
-- function/UI
+- function/script
 ---
 # PlayerManager.SetProperty
 > this function is a member of [[PlayerManager]]

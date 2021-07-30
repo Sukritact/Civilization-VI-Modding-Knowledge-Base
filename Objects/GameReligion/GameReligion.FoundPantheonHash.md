@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: FoundPantheonHash
 returns: []
-script: false
+script: true
 tags:
 - Game/GameReligion/_function
-- function/UI
+- function/script
 ---
 # GameReligion:FoundPantheonHash
 > this function is a member of [[GameReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||GameReligion:FoundPantheonHash||
+| |✓||GameReligion:FoundPantheonHash||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: QuestsManager
 methodname: GetActiveQuestDescription
 returns: []
-script: true
+script: false
 tags:
 - QuestsManager/_function
-- function/script
+- function/UI
 ---
 # QuestsManager:GetActiveQuestDescription
 > this function is a member of [[QuestsManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||QuestsManager:GetActiveQuestDescription||
+|✓| ||QuestsManager:GetActiveQuestDescription||

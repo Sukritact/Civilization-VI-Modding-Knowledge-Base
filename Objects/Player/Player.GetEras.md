@@ -1,15 +1,15 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetEras
 returns:
 - PlayerEras
-script: false
+script: true
 tags:
 - Player/_function
-- function/UI
+- function/script
 ---
 # Player:GetEras
 > this function is a member of [[Player]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |<code>[[PlayerEras]]<code/>|Player:GetEras||
+| |✓|<code>[[PlayerEras]]<code/>|Player:GetEras||

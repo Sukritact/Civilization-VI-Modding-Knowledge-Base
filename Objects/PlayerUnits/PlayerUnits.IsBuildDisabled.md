@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: IsBuildDisabled
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerUnits/_function
-- function/UI
+- function/script
 ---
 # PlayerUnits:IsBuildDisabled
 > this function is a member of [[PlayerUnits]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerUnits:IsBuildDisabled||
+| |✓||PlayerUnits:IsBuildDisabled||

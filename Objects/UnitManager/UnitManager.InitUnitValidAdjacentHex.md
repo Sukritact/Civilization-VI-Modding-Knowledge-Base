@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: UnitManager
 methodname: InitUnitValidAdjacentHex
 returns: []
-script: false
+script: true
 tags:
 - UnitManager/_function
-- function/UI
+- function/script
 ---
 # UnitManager.InitUnitValidAdjacentHex
 > this function is a member of [[UnitManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||UnitManager.InitUnitValidAdjacentHex||
+| |✓||UnitManager.InitUnitValidAdjacentHex||

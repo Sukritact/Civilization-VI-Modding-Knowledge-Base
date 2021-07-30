@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: PlayerManager
 methodname: IsBarbarian
 returns: []
-script: true
+script: false
 tags:
 - PlayerManager/_function
-- function/script
+- function/UI
 ---
 # PlayerManager.IsBarbarian
 > this function is a member of [[PlayerManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerManager.IsBarbarian||
+|✓| ||PlayerManager.IsBarbarian||

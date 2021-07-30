@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetReactorAge
 returns: []
-script: true
+script: false
 tags:
 - Game/GameFalloutManager/_function
-- function/script
+- function/UI
 ---
 # GameFalloutManager:GetReactorAge
 > this function is a member of [[GameFalloutManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameFalloutManager:GetReactorAge||
+|✓| ||GameFalloutManager:GetReactorAge||

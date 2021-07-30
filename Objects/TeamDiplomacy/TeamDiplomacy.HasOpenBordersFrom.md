@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: TeamDiplomacy
 methodname: HasOpenBordersFrom
 returns: []
-script: true
+script: false
 tags:
 - TeamDiplomacy/_function
-- function/script
+- function/UI
 ---
 # TeamDiplomacy:HasOpenBordersFrom
 > this function is a member of [[TeamDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||TeamDiplomacy:HasOpenBordersFrom||
+|✓| ||TeamDiplomacy:HasOpenBordersFrom||

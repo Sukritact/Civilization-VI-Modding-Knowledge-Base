@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: UnitManager
 methodname: GetUnitTypeBaseLifespan
 returns: []
-script: true
+script: false
 tags:
 - UnitManager/_function
-- function/script
+- function/UI
 ---
 # UnitManager.GetUnitTypeBaseLifespan
 > this function is a member of [[UnitManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||UnitManager.GetUnitTypeBaseLifespan||
+|✓| ||UnitManager.GetUnitTypeBaseLifespan||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: UnitManager
 methodname: CanStartOperation
 returns: []
-script: true
+script: false
 tags:
 - UnitManager/_function
-- function/script
+- function/UI
 ---
 # UnitManager.CanStartOperation
 > this function is a member of [[UnitManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||UnitManager.CanStartOperation||
+|✓| ||UnitManager.CanStartOperation||

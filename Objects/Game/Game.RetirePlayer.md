@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: Game
 methodname: RetirePlayer
 returns: []
-script: false
+script: true
 tags:
 - Game/_function
-- function/UI
+- function/script
 ---
 # Game.RetirePlayer
 > this function is a member of [[Game]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||Game.RetirePlayer||
+| |✓||Game.RetirePlayer||

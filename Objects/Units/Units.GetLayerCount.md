@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Units
 methodname: GetLayerCount
 returns: []
-script: true
+script: false
 tags:
 - Units/_function
-- function/script
+- function/UI
 ---
 # Units.GetLayerCount
 > this function is a member of [[Units]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||Units.GetLayerCount||
+|✓| ||Units.GetLayerCount||

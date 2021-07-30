@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: MapConfiguration
 methodname: SetMapWrap
 returns: []
-script: true
+script: false
 tags:
 - MapConfiguration/_function
-- function/script
+- function/UI
 ---
 # MapConfiguration.SetMapWrap
 > this function is a member of [[MapConfiguration]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||MapConfiguration.SetMapWrap||
+|✓| ||MapConfiguration.SetMapWrap||

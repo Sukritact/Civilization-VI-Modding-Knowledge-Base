@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: ChangePlayerEraScore
 returns: []
-script: false
+script: true
 tags:
 - Game/GameEras/_function
-- function/UI
+- function/script
 ---
 # GameEras:ChangePlayerEraScore
 > this function is a member of [[GameEras]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||GameEras:ChangePlayerEraScore||
+| |✓||GameEras:ChangePlayerEraScore||

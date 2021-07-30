@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetName
 returns: []
-script: true
+script: false
 tags:
 - Game/GameReligion/_function
-- function/script
+- function/UI
 ---
 # GameReligion:GetName
 > this function is a member of [[GameReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameReligion:GetName||
+|✓| ||GameReligion:GetName||

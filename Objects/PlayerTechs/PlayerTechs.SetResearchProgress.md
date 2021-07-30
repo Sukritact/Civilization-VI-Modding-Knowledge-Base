@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: SetResearchProgress
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerTechs/_function
-- function/UI
+- function/script
 ---
 # PlayerTechs:SetResearchProgress
 > this function is a member of [[PlayerTechs]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerTechs:SetResearchProgress||
+| |✓||PlayerTechs:SetResearchProgress||

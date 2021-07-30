@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: District
 methodname: SetDamage
 returns: []
-script: false
+script: true
 tags:
 - District/_function
-- function/UI
+- function/script
 ---
 # District:SetDamage
 > this function is a member of [[District]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||District:SetDamage||
+| |✓||District:SetDamage||

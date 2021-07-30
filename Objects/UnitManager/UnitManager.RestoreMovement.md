@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: UnitManager
 methodname: RestoreMovement
 returns: []
-script: false
+script: true
 tags:
 - UnitManager/_function
-- function/UI
+- function/script
 ---
 # UnitManager.RestoreMovement
 > this function is a member of [[UnitManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||UnitManager.RestoreMovement||
+| |✓||UnitManager.RestoreMovement||

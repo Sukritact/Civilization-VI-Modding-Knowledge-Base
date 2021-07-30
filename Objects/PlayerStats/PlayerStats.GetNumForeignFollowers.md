@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetNumForeignFollowers
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerStats/_function
-- function/UI
+- function/script
 ---
 # PlayerStats:GetNumForeignFollowers
 > this function is a member of [[PlayerStats]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerStats:GetNumForeignFollowers||
+| |✓||PlayerStats:GetNumForeignFollowers||

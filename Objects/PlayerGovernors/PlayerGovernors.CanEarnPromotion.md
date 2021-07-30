@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: CanEarnPromotion
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerGovernors/_function
-- function/script
+- function/UI
 ---
 # PlayerGovernors:CanEarnPromotion
 > this function is a member of [[PlayerGovernors]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerGovernors:CanEarnPromotion||
+|✓| ||PlayerGovernors:CanEarnPromotion||

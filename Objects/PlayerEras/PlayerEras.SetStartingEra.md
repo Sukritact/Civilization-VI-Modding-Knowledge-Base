@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: SetStartingEra
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerEras/_function
-- function/UI
+- function/script
 ---
 # PlayerEras:SetStartingEra
 > this function is a member of [[PlayerEras]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerEras:SetStartingEra||
+| |✓||PlayerEras:SetStartingEra||

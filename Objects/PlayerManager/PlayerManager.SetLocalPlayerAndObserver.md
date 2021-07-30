@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: PlayerManager
 methodname: SetLocalPlayerAndObserver
 returns: []
-script: false
+script: true
 tags:
 - PlayerManager/_function
-- function/UI
+- function/script
 ---
 # PlayerManager.SetLocalPlayerAndObserver
 > this function is a member of [[PlayerManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerManager.SetLocalPlayerAndObserver||
+| |✓||PlayerManager.SetLocalPlayerAndObserver||

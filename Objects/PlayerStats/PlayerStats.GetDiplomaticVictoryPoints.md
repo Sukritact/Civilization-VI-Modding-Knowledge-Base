@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetDiplomaticVictoryPoints
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerStats/_function
-- function/script
+- function/UI
 ---
 # PlayerStats:GetDiplomaticVictoryPoints
 > this function is a member of [[PlayerStats]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerStats:GetDiplomaticVictoryPoints||
+|✓| ||PlayerStats:GetDiplomaticVictoryPoints||

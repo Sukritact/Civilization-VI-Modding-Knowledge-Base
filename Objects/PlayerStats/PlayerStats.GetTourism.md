@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetTourism
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerStats/_function
-- function/script
+- function/UI
 ---
 # PlayerStats:GetTourism
 > this function is a member of [[PlayerStats]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerStats:GetTourism||
+|✓| ||PlayerStats:GetTourism||

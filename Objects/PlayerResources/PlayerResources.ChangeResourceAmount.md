@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: ChangeResourceAmount
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerResources/_function
-- function/UI
+- function/script
 ---
 # PlayerResources:ChangeResourceAmount
 > this function is a member of [[PlayerResources]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerResources:ChangeResourceAmount||
+| |✓||PlayerResources:ChangeResourceAmount||

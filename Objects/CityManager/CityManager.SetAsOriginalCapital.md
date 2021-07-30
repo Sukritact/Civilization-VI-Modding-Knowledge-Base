@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: CityManager
 methodname: SetAsOriginalCapital
 returns: []
-script: false
+script: true
 tags:
 - CityManager/_function
-- function/UI
+- function/script
 ---
 # CityManager.SetAsOriginalCapital
 > this function is a member of [[CityManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||CityManager.SetAsOriginalCapital||
+| |✓||CityManager.SetAsOriginalCapital||

@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: ChangeNumBeliefsEarned
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerReligion/_function
-- function/UI
+- function/script
 ---
 # PlayerReligion:ChangeNumBeliefsEarned
 > this function is a member of [[PlayerReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerReligion:ChangeNumBeliefsEarned||
+| |✓||PlayerReligion:ChangeNumBeliefsEarned||

@@ -78,11 +78,10 @@ for object_entry in data["Objects"]:
 
 		for method in object_entry["Methods"]:
 			# ========================================================
-			#  yeah, mixed up script and method
-			ui			= "✓" if method["Script"] == 1 else " "
-			isUI		= method["Script"] == 1
-			script		= "✓" if method["UI"] == 1 else " "
-			isScript	= method["UI"] == 1
+			ui			= "✓" if method["UI"] == 1 else " "
+			isUI		= method["UI"] == 1
+			script		= "✓" if method["Script"] == 1 else " "
+			isScript	= method["Script"] == 1
 
 			returns, arguments = [], []
 			for pair in [(returns, method["Returns"]), (arguments, method["Arguments"])]:

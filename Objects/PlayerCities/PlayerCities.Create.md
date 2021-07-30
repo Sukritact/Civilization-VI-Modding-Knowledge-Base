@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: Create
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerCities/_function
-- function/UI
+- function/script
 ---
 # PlayerCities:Create
 > this function is a member of [[PlayerCities]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerCities:Create||
+| |✓||PlayerCities:Create||

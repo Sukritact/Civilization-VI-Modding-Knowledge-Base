@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetDistrictByID
 returns: []
-script: false
+script: true
 tags:
 - City/CityDistricts/_function
-- function/UI
+- function/script
 ---
 # CityDistricts:GetDistrictByID
 > this function is a member of [[CityDistricts]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||CityDistricts:GetDistrictByID||
+| |✓||CityDistricts:GetDistrictByID||

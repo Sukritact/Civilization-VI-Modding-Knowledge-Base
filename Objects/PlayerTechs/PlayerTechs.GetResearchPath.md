@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetResearchPath
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerTechs/_function
-- function/script
+- function/UI
 ---
 # PlayerTechs:GetResearchPath
 > this function is a member of [[PlayerTechs]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerTechs:GetResearchPath||
+|✓| ||PlayerTechs:GetResearchPath||

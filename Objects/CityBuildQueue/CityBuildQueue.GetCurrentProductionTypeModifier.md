@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetCurrentProductionTypeModifier
 returns: []
-script: true
+script: false
 tags:
 - City/CityBuildQueue/_function
-- function/script
+- function/UI
 ---
 # CityBuildQueue:GetCurrentProductionTypeModifier
 > this function is a member of [[CityBuildQueue]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityBuildQueue:GetCurrentProductionTypeModifier||
+|✓| ||CityBuildQueue:GetCurrentProductionTypeModifier||

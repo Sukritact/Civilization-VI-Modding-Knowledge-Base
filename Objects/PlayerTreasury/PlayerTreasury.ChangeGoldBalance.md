@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: ChangeGoldBalance
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerTreasury/_function
-- function/UI
+- function/script
 ---
 # PlayerTreasury:ChangeGoldBalance
 > this function is a member of [[PlayerTreasury]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerTreasury:ChangeGoldBalance||
+| |✓||PlayerTreasury:ChangeGoldBalance||

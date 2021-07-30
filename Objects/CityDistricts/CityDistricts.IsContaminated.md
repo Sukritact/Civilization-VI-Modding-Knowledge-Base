@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: IsContaminated
 returns: []
-script: true
+script: false
 tags:
 - City/CityDistricts/_function
-- function/script
+- function/UI
 ---
 # CityDistricts:IsContaminated
 > this function is a member of [[CityDistricts]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityDistricts:IsContaminated||
+|✓| ||CityDistricts:IsContaminated||

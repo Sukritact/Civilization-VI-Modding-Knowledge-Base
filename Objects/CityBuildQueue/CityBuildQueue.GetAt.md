@@ -1,5 +1,5 @@
 ---
-UI: false
+UI: true
 arguments:
 - QueuePosition [number]
 invoke: ':'
@@ -7,10 +7,10 @@ memberOf: City
 methodname: GetAt
 returns:
 - QueueEntry [table]
-script: true
+script: false
 tags:
 - City/CityBuildQueue/_function
-- function/script
+- function/UI
 ---
 # CityBuildQueue:GetAt
 > this function is a member of [[CityBuildQueue]]

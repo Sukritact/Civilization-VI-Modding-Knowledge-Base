@@ -1,5 +1,5 @@
 ---
-UI: true
+UI: false
 arguments:
 - PlayerID [number]
 - IndividualID [number]
@@ -9,10 +9,10 @@ invoke: ':'
 memberOf: Game
 methodname: CreatePerson
 returns: []
-script: false
+script: true
 tags:
 - Game/GameGreatPeople/_function
-- function/UI
+- function/script
 ---
 # GameGreatPeople:CreatePerson
 > this function is a member of [[GameGreatPeople]]

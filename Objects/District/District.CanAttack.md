@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: District
 methodname: CanAttack
 returns: []
-script: true
+script: false
 tags:
 - District/_function
-- function/script
+- function/UI
 ---
 # District:CanAttack
 > this function is a member of [[District]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||District:CanAttack||
+|✓| ||District:CanAttack||

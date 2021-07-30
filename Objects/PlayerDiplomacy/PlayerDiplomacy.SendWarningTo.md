@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: PlayerDiplomacy
 methodname: SendWarningTo
 returns: []
-script: false
+script: true
 tags:
 - PlayerDiplomacy/_function
-- function/UI
+- function/script
 ---
 # PlayerDiplomacy:SendWarningTo
 > this function is a member of [[PlayerDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerDiplomacy:SendWarningTo||
+| |✓||PlayerDiplomacy:SendWarningTo||

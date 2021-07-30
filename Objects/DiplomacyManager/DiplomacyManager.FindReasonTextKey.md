@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: DiplomacyManager
 methodname: FindReasonTextKey
 returns: []
-script: true
+script: false
 tags:
 - DiplomacyManager/_function
-- function/script
+- function/UI
 ---
 # DiplomacyManager.FindReasonTextKey
 > this function is a member of [[DiplomacyManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||DiplomacyManager.FindReasonTextKey||
+|✓| ||DiplomacyManager.FindReasonTextKey||

@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: District
 methodname: SetProperty
 returns: []
-script: false
+script: true
 tags:
 - District/_function
-- function/UI
+- function/script
 ---
 # District:SetProperty
 > this function is a member of [[District]]

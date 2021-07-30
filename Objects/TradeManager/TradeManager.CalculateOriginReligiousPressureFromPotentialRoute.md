@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: TradeManager
 methodname: CalculateOriginReligiousPressureFromPotentialRoute
 returns: []
-script: true
+script: false
 tags:
 - TradeManager/_function
-- function/script
+- function/UI
 ---
 # TradeManager:CalculateOriginReligiousPressureFromPotentialRoute
 > this function is a member of [[TradeManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||TradeManager:CalculateOriginReligiousPressureFromPotentialRoute||
+|✓| ||TradeManager:CalculateOriginReligiousPressureFromPotentialRoute||

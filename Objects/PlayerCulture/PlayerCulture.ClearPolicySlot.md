@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: ClearPolicySlot
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerCulture/_function
-- function/UI
+- function/script
 ---
 # PlayerCulture:ClearPolicySlot
 > this function is a member of [[PlayerCulture]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerCulture:ClearPolicySlot||
+| |✓||PlayerCulture:ClearPolicySlot||

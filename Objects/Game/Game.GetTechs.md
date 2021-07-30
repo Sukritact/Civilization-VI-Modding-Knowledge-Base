@@ -1,15 +1,15 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Game
 methodname: GetTechs
 returns:
 - GameTechs
-script: true
+script: false
 tags:
 - Game/_function
-- function/script
+- function/UI
 ---
 # Game.GetTechs
 > this function is a member of [[Game]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|<code>[[GameTechs]]<code/>|Game.GetTechs||
+|✓| |<code>[[GameTechs]]<code/>|Game.GetTechs||

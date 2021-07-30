@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: Cities
 methodname: IsCityInPlot
 returns: []
-script: false
+script: true
 tags:
 - Cities/_function
-- function/UI
+- function/script
 ---
 # Cities.IsCityInPlot
 > this function is a member of [[Cities]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||Cities.IsCityInPlot||
+| |✓||Cities.IsCityInPlot||

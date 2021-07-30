@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetAllianceBenefitsString
 returns: []
-script: true
+script: false
 tags:
 - Game/GameDiplomacy/_function
-- function/script
+- function/UI
 ---
 # GameDiplomacy:GetAllianceBenefitsString
 > this function is a member of [[GameDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameDiplomacy:GetAllianceBenefitsString||
+|✓| ||GameDiplomacy:GetAllianceBenefitsString||

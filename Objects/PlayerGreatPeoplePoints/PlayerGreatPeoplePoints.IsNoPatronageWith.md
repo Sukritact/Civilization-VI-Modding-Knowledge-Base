@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: IsNoPatronageWith
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerGreatPeoplePoints/_function
-- function/script
+- function/UI
 ---
 # PlayerGreatPeoplePoints:IsNoPatronageWith
 > this function is a member of [[PlayerGreatPeoplePoints]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerGreatPeoplePoints:IsNoPatronageWith||
+|✓| ||PlayerGreatPeoplePoints:IsNoPatronageWith||

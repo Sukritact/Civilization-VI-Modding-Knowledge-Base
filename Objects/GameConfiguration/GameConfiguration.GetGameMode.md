@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: GameConfiguration
 methodname: GetGameMode
 returns: []
-script: true
+script: false
 tags:
 - GameConfiguration/_function
-- function/script
+- function/UI
 ---
 # GameConfiguration.GetGameMode
 > this function is a member of [[GameConfiguration]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameConfiguration.GetGameMode||
+|✓| ||GameConfiguration.GetGameMode||

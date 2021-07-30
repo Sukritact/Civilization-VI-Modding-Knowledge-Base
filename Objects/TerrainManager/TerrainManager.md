@@ -10,10 +10,10 @@ This file is a description of an object. This object is accessible as a global v
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-|✓| ||.|[[TerrainManager.ClearCoastalFlooding\|ClearCoastalFlooding]]||
-|✓| ||.|[[TerrainManager.FloodCoast\|FloodCoast]]||
+| |✓||.|[[TerrainManager.ClearCoastalFlooding\|ClearCoastalFlooding]]||
+| |✓||.|[[TerrainManager.FloodCoast\|FloodCoast]]||
 |✓|✓||.|[[TerrainManager.GetCoastalLowlandType\|GetCoastalLowlandType]]||
 |✓|✓||.|[[TerrainManager.IsFlooded\|IsFlooded]]||
 |✓|✓||.|[[TerrainManager.IsProtected\|IsProtected]]||
 |✓|✓||.|[[TerrainManager.IsSubmerged\|IsSubmerged]]||
-|✓| ||.|[[TerrainManager.SubmergeCoast\|SubmergeCoast]]||
+| |✓||.|[[TerrainManager.SubmergeCoast\|SubmergeCoast]]||

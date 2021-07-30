@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: ChangeTokensToGive
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerInfluence/_function
-- function/UI
+- function/script
 ---
 # PlayerInfluence:ChangeTokensToGive
 > this function is a member of [[PlayerInfluence]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerInfluence:ChangeTokensToGive||
+| |✓||PlayerInfluence:ChangeTokensToGive||

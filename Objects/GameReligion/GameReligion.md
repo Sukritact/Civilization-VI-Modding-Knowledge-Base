@@ -10,14 +10,14 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-|✓| ||:|[[GameReligion.AddBelief\|AddBelief]]||
-|✓| ||:|[[GameReligion.AddBeliefHash\|AddBeliefHash]]||
-|✓| ||:|[[GameReligion.AddBuilding\|AddBuilding]]||
-|✓| ||:|[[GameReligion.FoundPantheon\|FoundPantheon]]||
-|✓| ||:|[[GameReligion.FoundPantheonHash\|FoundPantheonHash]]||
-|✓| ||:|[[GameReligion.FoundReligion\|FoundReligion]]||
-| |✓||:|[[GameReligion.GetMinimumFaithNextPantheon\|GetMinimumFaithNextPantheon]]||
-| |✓||:|[[GameReligion.GetName\|GetName]]||
+| |✓||:|[[GameReligion.AddBelief\|AddBelief]]||
+| |✓||:|[[GameReligion.AddBeliefHash\|AddBeliefHash]]||
+| |✓||:|[[GameReligion.AddBuilding\|AddBuilding]]||
+| |✓||:|[[GameReligion.FoundPantheon\|FoundPantheon]]||
+| |✓||:|[[GameReligion.FoundPantheonHash\|FoundPantheonHash]]||
+| |✓||:|[[GameReligion.FoundReligion\|FoundReligion]]||
+|✓| ||:|[[GameReligion.GetMinimumFaithNextPantheon\|GetMinimumFaithNextPantheon]]||
+|✓| ||:|[[GameReligion.GetName\|GetName]]||
 |✓|✓||:|[[GameReligion.GetReligions\|GetReligions]]||
 |✓|✓||:|[[GameReligion.HasBeenFounded\|HasBeenFounded]]||
 |✓|✓||:|[[GameReligion.HasBeliefEachType\|HasBeliefEachType]]||

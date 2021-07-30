@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: ImprovementBuilder
 methodname: CanHaveImprovement
 returns: []
-script: false
+script: true
 tags:
 - ImprovementBuilder/_function
-- function/UI
+- function/script
 ---
 # ImprovementBuilder.CanHaveImprovement
 > this function is a member of [[ImprovementBuilder]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||ImprovementBuilder.CanHaveImprovement||
+| |✓||ImprovementBuilder.CanHaveImprovement||

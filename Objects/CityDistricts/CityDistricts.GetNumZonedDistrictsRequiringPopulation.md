@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetNumZonedDistrictsRequiringPopulation
 returns: []
-script: true
+script: false
 tags:
 - City/CityDistricts/_function
-- function/script
+- function/UI
 ---
 # CityDistricts:GetNumZonedDistrictsRequiringPopulation
 > this function is a member of [[CityDistricts]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityDistricts:GetNumZonedDistrictsRequiringPopulation||
+|✓| ||CityDistricts:GetNumZonedDistrictsRequiringPopulation||

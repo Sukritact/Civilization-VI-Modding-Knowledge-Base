@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: TeamDiplomacy
 methodname: IsAtWarWithHumans
 returns: []
-script: true
+script: false
 tags:
 - TeamDiplomacy/_function
-- function/script
+- function/UI
 ---
 # TeamDiplomacy:IsAtWarWithHumans
 > this function is a member of [[TeamDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||TeamDiplomacy:IsAtWarWithHumans||
+|✓| ||TeamDiplomacy:IsAtWarWithHumans||

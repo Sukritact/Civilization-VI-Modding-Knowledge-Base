@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: AiDiplomacy
 methodname: GetTrustFrom
 returns: []
-script: true
+script: false
 tags:
 - AiDiplomacy/_function
-- function/script
+- function/UI
 ---
 # AiDiplomacy:GetTrustFrom
 > this function is a member of [[AiDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||AiDiplomacy:GetTrustFrom||
+|✓| ||AiDiplomacy:GetTrustFrom||

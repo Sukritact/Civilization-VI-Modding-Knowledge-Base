@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: AiMilitary
 methodname: SetRival
 returns: []
-script: false
+script: true
 tags:
 - AiMilitary/_function
-- function/UI
+- function/script
 ---
 # AiMilitary:SetRival
 > this function is a member of [[AiMilitary]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||AiMilitary:SetRival||
+| |✓||AiMilitary:SetRival||

@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: SetFalloutTurnsRemaining
 returns: []
-script: false
+script: true
 tags:
 - Game/GameFalloutManager/_function
-- function/UI
+- function/script
 ---
 # GameFalloutManager:SetFalloutTurnsRemaining
 > this function is a member of [[GameFalloutManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||GameFalloutManager:SetFalloutTurnsRemaining||
+| |✓||GameFalloutManager:SetFalloutTurnsRemaining||

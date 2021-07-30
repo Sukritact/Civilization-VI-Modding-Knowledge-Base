@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: DealManager
 methodname: ViewPendingDeal
 returns: []
-script: true
+script: false
 tags:
 - DealManager/_function
-- function/script
+- function/UI
 ---
 # DealManager.ViewPendingDeal
 > this function is a member of [[DealManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||DealManager.ViewPendingDeal||
+|✓| ||DealManager.ViewPendingDeal||

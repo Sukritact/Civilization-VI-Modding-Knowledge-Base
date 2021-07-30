@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: HasActiveTradingPost
 returns: []
-script: true
+script: false
 tags:
 - City/CityTrade/_function
-- function/script
+- function/UI
 ---
 # CityTrade:HasActiveTradingPost
 > this function is a member of [[CityTrade]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityTrade:HasActiveTradingPost||
+|✓| ||CityTrade:HasActiveTradingPost||

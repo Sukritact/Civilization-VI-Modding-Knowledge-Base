@@ -23,4 +23,4 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |✓|✓||:|[[Territory.IsLake\|IsLake]]||
 |✓|✓||:|[[Territory.IsNone\|IsNone]]||
 |✓|✓||:|[[Territory.IsSea\|IsSea]]||
-|✓| ||:|[[Territory.SetName\|SetName]]||
+| |✓||:|[[Territory.SetName\|SetName]]||

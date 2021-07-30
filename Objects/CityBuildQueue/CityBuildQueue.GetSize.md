@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetSize
 returns: []
-script: true
+script: false
 tags:
 - City/CityBuildQueue/_function
-- function/script
+- function/UI
 ---
 # CityBuildQueue:GetSize
 > this function is a member of [[CityBuildQueue]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityBuildQueue:GetSize||
+|✓| ||CityBuildQueue:GetSize||

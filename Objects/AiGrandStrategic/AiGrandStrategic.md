@@ -10,6 +10,6 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-| |✓||:|[[AiGrandStrategic.GetCivicsRecommendations\|GetCivicsRecommendations]]||
-| |✓||:|[[AiGrandStrategic.GetSettlementRecommendations\|GetSettlementRecommendations]]||
-| |✓||:|[[AiGrandStrategic.GetTechRecommendations\|GetTechRecommendations]]||
+|✓| ||:|[[AiGrandStrategic.GetCivicsRecommendations\|GetCivicsRecommendations]]||
+|✓| ||:|[[AiGrandStrategic.GetSettlementRecommendations\|GetSettlementRecommendations]]||
+|✓| ||:|[[AiGrandStrategic.GetTechRecommendations\|GetTechRecommendations]]||

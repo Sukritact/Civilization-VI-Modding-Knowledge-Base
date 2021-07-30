@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Units
 methodname: GetPlayerUnitsInPlotLayerID
 returns: []
-script: true
+script: false
 tags:
 - Units/_function
-- function/script
+- function/UI
 ---
 # Units.GetPlayerUnitsInPlotLayerID
 > this function is a member of [[Units]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||Units.GetPlayerUnitsInPlotLayerID||
+|✓| ||Units.GetPlayerUnitsInPlotLayerID||

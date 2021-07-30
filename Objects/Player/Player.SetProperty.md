@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: SetProperty
 returns: []
-script: false
+script: true
 tags:
 - Player/_function
-- function/UI
+- function/script
 ---
 # Player:SetProperty
 > this function is a member of [[Player]]

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetPurchaseCost
 returns: []
-script: true
+script: false
 tags:
 - City/CityGold/_function
-- function/script
+- function/UI
 ---
 # CityGold:GetPurchaseCost
 > this function is a member of [[CityGold]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityGold:GetPurchaseCost||
+|✓| ||CityGold:GetPurchaseCost||

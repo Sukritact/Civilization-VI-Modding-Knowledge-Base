@@ -21,11 +21,11 @@ This file is a description of an object. This object is accessible as a global v
 |✓|✓||.|[[PlayerManager.GetAliveMinorIDs\|GetAliveMinorIDs]]||
 |✓|✓||.|[[PlayerManager.GetAliveMinors\|GetAliveMinors]]||
 |✓|✓||.|[[PlayerManager.GetAliveMinorsCount\|GetAliveMinorsCount]]||
-|✓| ||.|[[PlayerManager.GetDefaultProperty\|GetDefaultProperty]]||
-|✓| ||.|[[PlayerManager.GetFreeCitiesPlayer\|GetFreeCitiesPlayer]]||
-|✓| ||.|[[PlayerManager.GetFreeCitiesPlayerID\|GetFreeCitiesPlayerID]]||
-|✓| ||.|[[PlayerManager.GetPlayer\|GetPlayer]]||
-|✓| ||.|[[PlayerManager.GetProperty\|GetProperty]]||
+| |✓||.|[[PlayerManager.GetDefaultProperty\|GetDefaultProperty]]||
+| |✓||.|[[PlayerManager.GetFreeCitiesPlayer\|GetFreeCitiesPlayer]]||
+| |✓||.|[[PlayerManager.GetFreeCitiesPlayerID\|GetFreeCitiesPlayerID]]||
+| |✓||.|[[PlayerManager.GetPlayer\|GetPlayer]]||
+| |✓||.|[[PlayerManager.GetProperty\|GetProperty]]||
 |✓|✓||.|[[PlayerManager.GetWasEverAlive\|GetWasEverAlive]]||
 |✓|✓||.|[[PlayerManager.GetWasEverAliveCount\|GetWasEverAliveCount]]||
 |✓|✓||.|[[PlayerManager.GetWasEverAliveIDs\|GetWasEverAliveIDs]]||
@@ -33,12 +33,12 @@ This file is a description of an object. This object is accessible as a global v
 |✓|✓||.|[[PlayerManager.GetWasEverAliveMajors\|GetWasEverAliveMajors]]||
 |✓|✓||.|[[PlayerManager.GetWasEverAliveMajorsCount\|GetWasEverAliveMajorsCount]]||
 |✓|✓||.|[[PlayerManager.IsAlive\|IsAlive]]||
-| |✓||.|[[PlayerManager.IsBarbarian\|IsBarbarian]]||
-| |✓||.|[[PlayerManager.IsMajor\|IsMajor]]||
+|✓| ||.|[[PlayerManager.IsBarbarian\|IsBarbarian]]||
+|✓| ||.|[[PlayerManager.IsMajor\|IsMajor]]||
 |✓|✓||.|[[PlayerManager.IsValid\|IsValid]]||
-|✓| ||.|[[PlayerManager.IsValidID\|IsValidID]]||
-|✓| ||.|[[PlayerManager.SetDefaultProperty\|SetDefaultProperty]]||
-|✓| ||.|[[PlayerManager.SetLocalObserverTo\|SetLocalObserverTo]]||
-|✓| ||.|[[PlayerManager.SetLocalPlayerAndObserver\|SetLocalPlayerAndObserver]]||
-|✓| ||.|[[PlayerManager.SetProperty\|SetProperty]]||
-|✓| ||.|[[PlayerManager.WasEverAlive\|WasEverAlive]]||
+| |✓||.|[[PlayerManager.IsValidID\|IsValidID]]||
+| |✓||.|[[PlayerManager.SetDefaultProperty\|SetDefaultProperty]]||
+| |✓||.|[[PlayerManager.SetLocalObserverTo\|SetLocalObserverTo]]||
+| |✓||.|[[PlayerManager.SetLocalPlayerAndObserver\|SetLocalPlayerAndObserver]]||
+| |✓||.|[[PlayerManager.SetProperty\|SetProperty]]||
+| |✓||.|[[PlayerManager.WasEverAlive\|WasEverAlive]]||

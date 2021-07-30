@@ -1,15 +1,15 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetPlot
 returns:
 - Plot
-script: false
+script: true
 tags:
 - City/_function
-- function/UI
+- function/script
 ---
 # City:GetPlot
 > this function is a member of [[City]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |<code>[[Plot]]<code/>|City:GetPlot||
+| |✓|<code>[[Plot]]<code/>|City:GetPlot||

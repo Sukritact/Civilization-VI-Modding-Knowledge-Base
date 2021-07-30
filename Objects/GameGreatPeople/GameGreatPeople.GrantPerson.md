@@ -1,5 +1,5 @@
 ---
-UI: true
+UI: false
 arguments:
 - IndividualID [number]
 - GreatPersonClassID [number]
@@ -11,10 +11,10 @@ invoke: ':'
 memberOf: Game
 methodname: GrantPerson
 returns: []
-script: false
+script: true
 tags:
 - Game/GameGreatPeople/_function
-- function/UI
+- function/script
 ---
 # GameGreatPeople:GrantPerson
 > this function is a member of [[GameGreatPeople]]

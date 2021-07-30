@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetLastTransferType
 returns: []
-script: true
+script: false
 tags:
 - City/_function
-- function/script
+- function/UI
 ---
 # City:GetLastTransferType
 > this function is a member of [[City]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||City:GetLastTransferType||
+|✓| ||City:GetLastTransferType||

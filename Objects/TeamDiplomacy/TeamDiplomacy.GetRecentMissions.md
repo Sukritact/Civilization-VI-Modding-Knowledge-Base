@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: TeamDiplomacy
 methodname: GetRecentMissions
 returns: []
-script: true
+script: false
 tags:
 - TeamDiplomacy/_function
-- function/script
+- function/UI
 ---
 # TeamDiplomacy:GetRecentMissions
 > this function is a member of [[TeamDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||TeamDiplomacy:GetRecentMissions||
+|✓| ||TeamDiplomacy:GetRecentMissions||

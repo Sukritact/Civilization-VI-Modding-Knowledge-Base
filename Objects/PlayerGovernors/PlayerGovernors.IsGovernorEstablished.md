@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: IsGovernorEstablished
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerGovernors/_function
-- function/script
+- function/UI
 ---
 # PlayerGovernors:IsGovernorEstablished
 > this function is a member of [[PlayerGovernors]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerGovernors:IsGovernorEstablished||
+|✓| ||PlayerGovernors:IsGovernorEstablished||

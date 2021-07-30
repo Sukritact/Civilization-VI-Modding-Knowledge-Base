@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetScoringScenario1
 returns: []
-script: false
+script: true
 tags:
 - Player/_function
-- function/UI
+- function/script
 ---
 # Player:GetScoringScenario1
 > this function is a member of [[Player]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||Player:GetScoringScenario1||
+| |✓||Player:GetScoringScenario1||

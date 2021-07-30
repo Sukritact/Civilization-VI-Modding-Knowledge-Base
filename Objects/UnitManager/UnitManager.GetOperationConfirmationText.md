@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: UnitManager
 methodname: GetOperationConfirmationText
 returns: []
-script: true
+script: false
 tags:
 - UnitManager/_function
-- function/script
+- function/UI
 ---
 # UnitManager.GetOperationConfirmationText
 > this function is a member of [[UnitManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||UnitManager.GetOperationConfirmationText||
+|✓| ||UnitManager.GetOperationConfirmationText||

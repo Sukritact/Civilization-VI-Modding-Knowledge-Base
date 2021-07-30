@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetMinimumFaithNextPantheon
 returns: []
-script: true
+script: false
 tags:
 - Game/GameReligion/_function
-- function/script
+- function/UI
 ---
 # GameReligion:GetMinimumFaithNextPantheon
 > this function is a member of [[GameReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameReligion:GetMinimumFaithNextPantheon||
+|✓| ||GameReligion:GetMinimumFaithNextPantheon||

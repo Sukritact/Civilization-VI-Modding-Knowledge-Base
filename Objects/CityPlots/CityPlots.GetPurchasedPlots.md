@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: CityPlots
 methodname: GetPurchasedPlots
 returns: []
-script: true
+script: false
 tags:
 - CityPlots/_function
-- function/script
+- function/UI
 ---
 # CityPlots:GetPurchasedPlots
 > this function is a member of [[CityPlots]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityPlots:GetPurchasedPlots||
+|✓| ||CityPlots:GetPurchasedPlots||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetActiveTechNodes
 returns: []
-script: true
+script: false
 tags:
 - Game/GameTechs/_function
-- function/script
+- function/UI
 ---
 # GameTechs:GetActiveTechNodes
 > this function is a member of [[GameTechs]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameTechs:GetActiveTechNodes||
+|✓| ||GameTechs:GetActiveTechNodes||

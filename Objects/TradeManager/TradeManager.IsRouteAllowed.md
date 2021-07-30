@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: TradeManager
 methodname: IsRouteAllowed
 returns: []
-script: true
+script: false
 tags:
 - TradeManager/_function
-- function/script
+- function/UI
 ---
 # TradeManager:IsRouteAllowed
 > this function is a member of [[TradeManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||TradeManager:IsRouteAllowed||
+|✓| ||TradeManager:IsRouteAllowed||

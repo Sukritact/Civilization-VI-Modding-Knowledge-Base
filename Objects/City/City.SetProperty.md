@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: SetProperty
 returns: []
-script: false
+script: true
 tags:
 - City/_function
-- function/UI
+- function/script
 ---
 # City:SetProperty
 > this function is a member of [[City]]

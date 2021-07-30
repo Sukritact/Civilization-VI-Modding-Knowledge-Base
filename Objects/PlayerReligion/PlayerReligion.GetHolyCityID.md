@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetHolyCityID
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerReligion/_function
-- function/script
+- function/UI
 ---
 # PlayerReligion:GetHolyCityID
 > this function is a member of [[PlayerReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerReligion:GetHolyCityID||
+|✓| ||PlayerReligion:GetHolyCityID||

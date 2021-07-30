@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetFaithYieldToolTip
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerReligion/_function
-- function/script
+- function/UI
 ---
 # PlayerReligion:GetFaithYieldToolTip
 > this function is a member of [[PlayerReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerReligion:GetFaithYieldToolTip||
+|✓| ||PlayerReligion:GetFaithYieldToolTip||

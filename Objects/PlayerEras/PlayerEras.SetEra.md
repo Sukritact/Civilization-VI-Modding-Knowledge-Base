@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: SetEra
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerEras/_function
-- function/UI
+- function/script
 ---
 # PlayerEras:SetEra
 > this function is a member of [[PlayerEras]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerEras:SetEra||
+| |✓||PlayerEras:SetEra||

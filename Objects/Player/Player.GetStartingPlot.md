@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetStartingPlot
 returns: []
-script: false
+script: true
 tags:
 - Player/_function
-- function/UI
+- function/script
 ---
 # Player:GetStartingPlot
 > this function is a member of [[Player]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||Player:GetStartingPlot||
+| |✓||Player:GetStartingPlot||

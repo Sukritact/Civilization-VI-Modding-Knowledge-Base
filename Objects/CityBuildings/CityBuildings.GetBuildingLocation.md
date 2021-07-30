@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetBuildingLocation
 returns: []
-script: false
+script: true
 tags:
 - City/CityBuildings/_function
-- function/UI
+- function/script
 ---
 # CityBuildings:GetBuildingLocation
 > this function is a member of [[CityBuildings]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||CityBuildings:GetBuildingLocation||
+| |✓||CityBuildings:GetBuildingLocation||

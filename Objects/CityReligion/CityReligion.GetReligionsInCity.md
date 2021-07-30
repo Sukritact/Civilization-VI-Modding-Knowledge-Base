@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetReligionsInCity
 returns: []
-script: true
+script: false
 tags:
 - City/CityReligion/_function
-- function/script
+- function/UI
 ---
 # CityReligion:GetReligionsInCity
 > this function is a member of [[CityReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityReligion:GetReligionsInCity||
+|✓| ||CityReligion:GetReligionsInCity||

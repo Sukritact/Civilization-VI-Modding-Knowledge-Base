@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetLevyTurnCounter
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerInfluence/_function
-- function/script
+- function/UI
 ---
 # PlayerInfluence:GetLevyTurnCounter
 > this function is a member of [[PlayerInfluence]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerInfluence:GetLevyTurnCounter||
+|✓| ||PlayerInfluence:GetLevyTurnCounter||

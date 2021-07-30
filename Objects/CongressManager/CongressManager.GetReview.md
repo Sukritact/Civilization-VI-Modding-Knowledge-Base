@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: CongressManager
 methodname: GetReview
 returns: []
-script: true
+script: false
 tags:
 - CongressManager/_function
-- function/script
+- function/UI
 ---
 # CongressManager:GetReview
 > this function is a member of [[CongressManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CongressManager:GetReview||
+|✓| ||CongressManager:GetReview||

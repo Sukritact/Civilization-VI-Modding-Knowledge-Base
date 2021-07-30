@@ -1,15 +1,15 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Game
 methodname: GetWorldCongress
 returns:
 - CongressManager
-script: true
+script: false
 tags:
 - Game/_function
-- function/script
+- function/UI
 ---
 # Game.GetWorldCongress
 > this function is a member of [[Game]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|<code>[[CongressManager]]<code/>|Game.GetWorldCongress||
+|✓| |<code>[[CongressManager]]<code/>|Game.GetWorldCongress||

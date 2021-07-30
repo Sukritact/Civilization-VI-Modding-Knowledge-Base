@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: DiplomacyManager
 methodname: SendAction
 returns: []
-script: true
+script: false
 tags:
 - DiplomacyManager/_function
-- function/script
+- function/UI
 ---
 # DiplomacyManager.SendAction
 > this function is a member of [[DiplomacyManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||DiplomacyManager.SendAction||
+|✓| ||DiplomacyManager.SendAction||

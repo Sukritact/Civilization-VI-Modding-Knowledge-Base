@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: GameRandomEvents
 methodname: ApplyEvent
 returns: []
-script: false
+script: true
 tags:
 - GameRandomEvents/_function
-- function/UI
+- function/script
 ---
 # GameRandomEvents.ApplyEvent
 > this function is a member of [[GameRandomEvents]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||GameRandomEvents.ApplyEvent||
+| |✓||GameRandomEvents.ApplyEvent||

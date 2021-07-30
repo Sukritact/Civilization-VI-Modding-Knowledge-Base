@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetReligiousPressureSources
 returns: []
-script: true
+script: false
 tags:
 - City/CityReligion/_function
-- function/script
+- function/UI
 ---
 # CityReligion:GetReligiousPressureSources
 > this function is a member of [[CityReligion]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityReligion:GetReligiousPressureSources||
+|✓| ||CityReligion:GetReligiousPressureSources||

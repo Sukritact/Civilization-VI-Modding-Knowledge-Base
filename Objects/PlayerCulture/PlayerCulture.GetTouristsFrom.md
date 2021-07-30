@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetTouristsFrom
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerCulture/_function
-- function/script
+- function/UI
 ---
 # PlayerCulture:GetTouristsFrom
 > this function is a member of [[PlayerCulture]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerCulture:GetTouristsFrom||
+|✓| ||PlayerCulture:GetTouristsFrom||

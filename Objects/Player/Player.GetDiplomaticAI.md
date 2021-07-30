@@ -1,15 +1,15 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetDiplomaticAI
 returns:
 - AiDiplomacy
-script: true
+script: false
 tags:
 - Player/_function
-- function/script
+- function/UI
 ---
 # Player:GetDiplomaticAI
 > this function is a member of [[Player]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|<code>[[AiDiplomacy]]<code/>|Player:GetDiplomaticAI||
+|✓| |<code>[[AiDiplomacy]]<code/>|Player:GetDiplomaticAI||

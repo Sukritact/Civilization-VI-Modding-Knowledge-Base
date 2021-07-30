@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: SetProperty
 returns: []
-script: false
+script: true
 tags:
 - Game/_function
-- function/UI
+- function/script
 ---
 # Game:SetProperty
 > this function is a member of [[Game]]

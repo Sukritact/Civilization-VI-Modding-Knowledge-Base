@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetPlayerDarkAgeThresholdBreakdown
 returns: []
-script: true
+script: false
 tags:
 - Game/GameEras/_function
-- function/script
+- function/UI
 ---
 # GameEras:GetPlayerDarkAgeThresholdBreakdown
 > this function is a member of [[GameEras]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameEras:GetPlayerDarkAgeThresholdBreakdown||
+|✓| ||GameEras:GetPlayerDarkAgeThresholdBreakdown||

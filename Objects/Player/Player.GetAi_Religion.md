@@ -1,15 +1,15 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetAi_Religion
 returns:
 - AiReligious
-script: false
+script: true
 tags:
 - Player/_function
-- function/UI
+- function/script
 ---
 # Player:GetAi_Religion
 > this function is a member of [[Player]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |<code>[[AiReligious]]<code/>|Player:GetAi_Religion||
+| |✓|<code>[[AiReligious]]<code/>|Player:GetAi_Religion||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Game
 methodname: GetUnitNamePrefix
 returns: []
-script: true
+script: false
 tags:
 - Game/_function
-- function/script
+- function/UI
 ---
 # Game.GetUnitNamePrefix
 > this function is a member of [[Game]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||Game.GetUnitNamePrefix||
+|✓| ||Game.GetUnitNamePrefix||

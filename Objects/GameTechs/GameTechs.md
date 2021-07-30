@@ -10,4 +10,4 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-| |✓||:|[[GameTechs.GetActiveTechNodes\|GetActiveTechNodes]]||
+|✓| ||:|[[GameTechs.GetActiveTechNodes\|GetActiveTechNodes]]||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: CanAfford
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerTreasury/_function
-- function/script
+- function/UI
 ---
 # PlayerTreasury:CanAfford
 > this function is a member of [[PlayerTreasury]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerTreasury:CanAfford||
+|✓| ||PlayerTreasury:CanAfford||

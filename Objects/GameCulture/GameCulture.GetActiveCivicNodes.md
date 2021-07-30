@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetActiveCivicNodes
 returns: []
-script: true
+script: false
 tags:
 - Game/GameCulture/_function
-- function/script
+- function/UI
 ---
 # GameCulture:GetActiveCivicNodes
 > this function is a member of [[GameCulture]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameCulture:GetActiveCivicNodes||
+|✓| ||GameCulture:GetActiveCivicNodes||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetPower
 returns: []
-script: true
+script: false
 tags:
 - City/_function
-- function/script
+- function/UI
 ---
 # City:GetPower
 > this function is a member of [[City]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||City:GetPower||
+|✓| ||City:GetPower||

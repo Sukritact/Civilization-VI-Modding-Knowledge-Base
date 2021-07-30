@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Plot
 methodname: SetProperty
 returns: []
-script: false
+script: true
 tags:
 - Plot/_function
-- function/UI
+- function/script
 ---
 # Plot:SetProperty
 > this function is a member of [[Plot]]

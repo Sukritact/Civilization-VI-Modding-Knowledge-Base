@@ -1,15 +1,15 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Game
 methodname: GetCulture
 returns:
 - GameCulture
-script: true
+script: false
 tags:
 - Game/_function
-- function/script
+- function/UI
 ---
 # Game.GetCulture
 > this function is a member of [[Game]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|<code>[[GameCulture]]<code/>|Game.GetCulture||
+|✓| |<code>[[GameCulture]]<code/>|Game.GetCulture||

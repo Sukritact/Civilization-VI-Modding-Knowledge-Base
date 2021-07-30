@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: SetPointsTotal
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerGreatPeoplePoints/_function
-- function/UI
+- function/script
 ---
 # PlayerGreatPeoplePoints:SetPointsTotal
 > this function is a member of [[PlayerGreatPeoplePoints]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerGreatPeoplePoints:SetPointsTotal||
+| |✓||PlayerGreatPeoplePoints:SetPointsTotal||

@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: AiDiplomacy
 methodname: GetDiplomaticState
 returns: []
-script: false
+script: true
 tags:
 - AiDiplomacy/_function
-- function/UI
+- function/script
 ---
 # AiDiplomacy:GetDiplomaticState
 > this function is a member of [[AiDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||AiDiplomacy:GetDiplomaticState||
+| |✓||AiDiplomacy:GetDiplomaticState||

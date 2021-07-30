@@ -10,7 +10,7 @@ This file is a description of an object. This object is accessible as a global v
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-|✓| ||.|[[GameRandomEvents.ApplyEvent\|ApplyEvent]]||
+| |✓||.|[[GameRandomEvents.ApplyEvent\|ApplyEvent]]||
 |✓|✓||.|[[GameRandomEvents.GetCurrentAffectedCities\|GetCurrentAffectedCities]]||
 |✓|✓||.|[[GameRandomEvents.GetCurrentTurnEvent\|GetCurrentTurnEvent]]||
 |✓|✓||.|[[GameRandomEvents.GetCurrentTurnEventAtPlot\|GetCurrentTurnEventAtPlot]]||

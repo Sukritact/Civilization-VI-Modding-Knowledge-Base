@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: Destroy
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerCities/_function
-- function/UI
+- function/script
 ---
 # PlayerCities:Destroy
 > this function is a member of [[PlayerCities]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerCities:Destroy||
+| |✓||PlayerCities:Destroy||

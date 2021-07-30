@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetNextExtractingArchaeologist
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerUnits/_function
-- function/script
+- function/UI
 ---
 # PlayerUnits:GetNextExtractingArchaeologist
 > this function is a member of [[PlayerUnits]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerUnits:GetNextExtractingArchaeologist||
+|✓| ||PlayerUnits:GetNextExtractingArchaeologist||

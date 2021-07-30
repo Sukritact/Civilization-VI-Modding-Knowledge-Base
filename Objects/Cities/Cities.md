@@ -10,8 +10,8 @@ This file is a description of an object. This object is accessible as a global v
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-|✓| ||.|[[Cities.DestroyCity\|DestroyCity]]||
+| |✓||.|[[Cities.DestroyCity\|DestroyCity]]||
 |✓|✓||.|[[Cities.GetCityInPlot\|GetCityInPlot]]||
 |✓|✓||.|[[Cities.GetPlotPurchaseCity\|GetPlotPurchaseCity]]||
 |✓|✓||.|[[Cities.GetPlotWorkingCity\|GetPlotWorkingCity]]||
-|✓| ||.|[[Cities.IsCityInPlot\|IsCityInPlot]]||
+| |✓||.|[[Cities.IsCityInPlot\|IsCityInPlot]]||

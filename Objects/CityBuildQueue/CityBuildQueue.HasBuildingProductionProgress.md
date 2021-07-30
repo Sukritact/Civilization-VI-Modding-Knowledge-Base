@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: HasBuildingProductionProgress
 returns: []
-script: false
+script: true
 tags:
 - City/CityBuildQueue/_function
-- function/UI
+- function/script
 ---
 # CityBuildQueue:HasBuildingProductionProgress
 > this function is a member of [[CityBuildQueue]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||CityBuildQueue:HasBuildingProductionProgress||
+| |✓||CityBuildQueue:HasBuildingProductionProgress||

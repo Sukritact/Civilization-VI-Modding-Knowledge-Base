@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: AiGrandStrategic
 methodname: GetTechRecommendations
 returns: []
-script: true
+script: false
 tags:
 - AiGrandStrategic/_function
-- function/script
+- function/UI
 ---
 # AiGrandStrategic:GetTechRecommendations
 > this function is a member of [[AiGrandStrategic]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||AiGrandStrategic:GetTechRecommendations||
+|✓| ||AiGrandStrategic:GetTechRecommendations||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: CanPlaceUnit
 returns: []
-script: true
+script: false
 tags:
 - City/CityGold/_function
-- function/script
+- function/UI
 ---
 # CityGold:CanPlaceUnit
 > this function is a member of [[CityGold]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityGold:CanPlaceUnit||
+|✓| ||CityGold:CanPlaceUnit||

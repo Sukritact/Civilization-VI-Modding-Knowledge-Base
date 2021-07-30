@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: SetFalloutPreventsWork
 returns: []
-script: false
+script: true
 tags:
 - Game/GameFalloutManager/_function
-- function/UI
+- function/script
 ---
 # GameFalloutManager:SetFalloutPreventsWork
 > this function is a member of [[GameFalloutManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||GameFalloutManager:SetFalloutPreventsWork||
+| |✓||GameFalloutManager:SetFalloutPreventsWork||

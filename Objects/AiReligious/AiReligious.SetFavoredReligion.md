@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: AiReligious
 methodname: SetFavoredReligion
 returns: []
-script: false
+script: true
 tags:
 - AiReligious/_function
-- function/UI
+- function/script
 ---
 # AiReligious:SetFavoredReligion
 > this function is a member of [[AiReligious]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||AiReligious:SetFavoredReligion||
+| |✓||AiReligious:SetFavoredReligion||

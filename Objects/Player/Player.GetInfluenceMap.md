@@ -1,15 +1,15 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetInfluenceMap
 returns:
 - InfluenceMap
-script: true
+script: false
 tags:
 - Player/_function
-- function/script
+- function/UI
 ---
 # Player:GetInfluenceMap
 > this function is a member of [[Player]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|<code>[[InfluenceMap]]<code/>|Player:GetInfluenceMap||
+|✓| |<code>[[InfluenceMap]]<code/>|Player:GetInfluenceMap||

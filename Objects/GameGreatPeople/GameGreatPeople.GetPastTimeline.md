@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: GetPastTimeline
 returns: []
-script: true
+script: false
 tags:
 - Game/GameGreatPeople/_function
-- function/script
+- function/UI
 ---
 # GameGreatPeople:GetPastTimeline
 > this function is a member of [[GameGreatPeople]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameGreatPeople:GetPastTimeline||
+|✓| ||GameGreatPeople:GetPastTimeline||

@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: TerrainBuilder
 methodname: CanHaveFeature
 returns: []
-script: false
+script: true
 tags:
 - TerrainBuilder/_function
-- function/UI
+- function/script
 ---
 # TerrainBuilder.CanHaveFeature
 > this function is a member of [[TerrainBuilder]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||TerrainBuilder.CanHaveFeature||
+| |✓||TerrainBuilder.CanHaveFeature||

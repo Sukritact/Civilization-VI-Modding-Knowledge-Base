@@ -1,15 +1,15 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Map
 methodname: GetCityPlots
 returns:
 - CityPlots
-script: true
+script: false
 tags:
 - Map/_function
-- function/script
+- function/UI
 ---
 # Map.GetCityPlots
 > this function is a member of [[Map]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|<code>[[CityPlots]]<code/>|Map.GetCityPlots||
+|✓| |<code>[[CityPlots]]<code/>|Map.GetCityPlots||

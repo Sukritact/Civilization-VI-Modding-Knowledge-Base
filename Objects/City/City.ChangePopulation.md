@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: ChangePopulation
 returns: []
-script: false
+script: true
 tags:
 - City/_function
-- function/UI
+- function/script
 ---
 # City:ChangePopulation
 > this function is a member of [[City]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||City:ChangePopulation||
+| |✓||City:ChangePopulation||

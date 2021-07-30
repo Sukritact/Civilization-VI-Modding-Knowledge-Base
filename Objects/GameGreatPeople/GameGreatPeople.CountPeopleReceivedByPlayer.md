@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: CountPeopleReceivedByPlayer
 returns: []
-script: true
+script: false
 tags:
 - Game/GameGreatPeople/_function
-- function/script
+- function/UI
 ---
 # GameGreatPeople:CountPeopleReceivedByPlayer
 > this function is a member of [[GameGreatPeople]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameGreatPeople:CountPeopleReceivedByPlayer||
+|✓| ||GameGreatPeople:CountPeopleReceivedByPlayer||

@@ -1,15 +1,15 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetTrade
 returns:
 - CityTrade
-script: true
+script: false
 tags:
 - City/_function
-- function/script
+- function/UI
 ---
 # City:GetTrade
 > this function is a member of [[City]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|<code>[[CityTrade]]<code/>|City:GetTrade||
+|✓| |<code>[[CityTrade]]<code/>|City:GetTrade||

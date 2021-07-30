@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: TerrainBuilder
 methodname: GetInlandCorner
 returns: []
-script: false
+script: true
 tags:
 - TerrainBuilder/_function
-- function/UI
+- function/script
 ---
 # TerrainBuilder.GetInlandCorner
 > this function is a member of [[TerrainBuilder]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||TerrainBuilder.GetInlandCorner||
+| |✓||TerrainBuilder.GetInlandCorner||

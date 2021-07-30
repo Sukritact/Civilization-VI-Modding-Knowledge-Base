@@ -1,15 +1,15 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetCulturalIdentity
 returns:
 - CityCulturalIdentity
-script: true
+script: false
 tags:
 - City/_function
-- function/script
+- function/UI
 ---
 # City:GetCulturalIdentity
 > this function is a member of [[City]]
@@ -18,4 +18,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|<code>[[CityCulturalIdentity]]<code/>|City:GetCulturalIdentity||
+|✓| |<code>[[CityCulturalIdentity]]<code/>|City:GetCulturalIdentity||

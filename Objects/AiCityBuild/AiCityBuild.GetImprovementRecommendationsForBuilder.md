@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: AiCityBuild
 methodname: GetImprovementRecommendationsForBuilder
 returns: []
-script: true
+script: false
 tags:
 - AiCityBuild/_function
-- function/script
+- function/UI
 ---
 # AiCityBuild:GetImprovementRecommendationsForBuilder
 > this function is a member of [[AiCityBuild]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||AiCityBuild:GetImprovementRecommendationsForBuilder||
+|✓| ||AiCityBuild:GetImprovementRecommendationsForBuilder||

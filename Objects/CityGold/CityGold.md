@@ -10,8 +10,8 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-| |✓||:|[[CityGold.CanPlaceUnit\|CanPlaceUnit]]||
-| |✓||:|[[CityGold.GetPlotPurchaseCost\|GetPlotPurchaseCost]]||
-| |✓||:|[[CityGold.GetPurchaseCost\|GetPurchaseCost]]||
-| |✓||:|[[CityGold.IsBuildingFaithPurchaseEnabled\|IsBuildingFaithPurchaseEnabled]]||
-| |✓||:|[[CityGold.IsUnitFaithPurchaseEnabled\|IsUnitFaithPurchaseEnabled]]||
+|✓| ||:|[[CityGold.CanPlaceUnit\|CanPlaceUnit]]||
+|✓| ||:|[[CityGold.GetPlotPurchaseCost\|GetPlotPurchaseCost]]||
+|✓| ||:|[[CityGold.GetPurchaseCost\|GetPurchaseCost]]||
+|✓| ||:|[[CityGold.IsBuildingFaithPurchaseEnabled\|IsBuildingFaithPurchaseEnabled]]||
+|✓| ||:|[[CityGold.IsUnitFaithPurchaseEnabled\|IsUnitFaithPurchaseEnabled]]||

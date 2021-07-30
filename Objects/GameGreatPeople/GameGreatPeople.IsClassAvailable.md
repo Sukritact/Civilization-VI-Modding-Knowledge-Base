@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: IsClassAvailable
 returns: []
-script: false
+script: true
 tags:
 - Game/GameGreatPeople/_function
-- function/UI
+- function/script
 ---
 # GameGreatPeople:IsClassAvailable
 > this function is a member of [[GameGreatPeople]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||GameGreatPeople:IsClassAvailable||
+| |✓||GameGreatPeople:IsClassAvailable||

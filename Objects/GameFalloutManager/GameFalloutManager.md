@@ -10,16 +10,16 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-|✓| ||:|[[GameFalloutManager.AddFallout\|AddFallout]]||
+| |✓||:|[[GameFalloutManager.AddFallout\|AddFallout]]||
 |✓|✓||:|[[GameFalloutManager.GetFalloutDamageOverride\|GetFalloutDamageOverride]]||
 |✓|✓||:|[[GameFalloutManager.GetFalloutPreventsWork\|GetFalloutPreventsWork]]||
 |✓|✓||:|[[GameFalloutManager.GetFalloutTurnsRemaining\|GetFalloutTurnsRemaining]]||
-| |✓||:|[[GameFalloutManager.GetReactorAccidentThreshold\|GetReactorAccidentThreshold]]||
-| |✓||:|[[GameFalloutManager.GetReactorAge\|GetReactorAge]]||
+|✓| ||:|[[GameFalloutManager.GetReactorAccidentThreshold\|GetReactorAccidentThreshold]]||
+|✓| ||:|[[GameFalloutManager.GetReactorAge\|GetReactorAge]]||
 |✓|✓||:|[[GameFalloutManager.GetReactorByIndex\|GetReactorByIndex]]||
 |✓|✓||:|[[GameFalloutManager.GetReactorCount\|GetReactorCount]]||
 |✓|✓||:|[[GameFalloutManager.HasFallout\|HasFallout]]||
-|✓| ||:|[[GameFalloutManager.RemoveFallout\|RemoveFallout]]||
-|✓| ||:|[[GameFalloutManager.SetFalloutDamageOverride\|SetFalloutDamageOverride]]||
-|✓| ||:|[[GameFalloutManager.SetFalloutPreventsWork\|SetFalloutPreventsWork]]||
-|✓| ||:|[[GameFalloutManager.SetFalloutTurnsRemaining\|SetFalloutTurnsRemaining]]||
+| |✓||:|[[GameFalloutManager.RemoveFallout\|RemoveFallout]]||
+| |✓||:|[[GameFalloutManager.SetFalloutDamageOverride\|SetFalloutDamageOverride]]||
+| |✓||:|[[GameFalloutManager.SetFalloutPreventsWork\|SetFalloutPreventsWork]]||
+| |✓||:|[[GameFalloutManager.SetFalloutTurnsRemaining\|SetFalloutTurnsRemaining]]||

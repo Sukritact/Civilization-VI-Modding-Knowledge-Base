@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: District
 methodname: GetAirUnits
 returns: []
-script: true
+script: false
 tags:
 - District/_function
-- function/script
+- function/UI
 ---
 # District:GetAirUnits
 > this function is a member of [[District]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||District:GetAirUnits||
+|✓| ||District:GetAirUnits||

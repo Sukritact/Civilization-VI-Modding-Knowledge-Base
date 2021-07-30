@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Territory
 methodname: SetName
 returns: []
-script: false
+script: true
 tags:
 - Territory/_function
-- function/UI
+- function/script
 ---
 # Territory:SetName
 > this function is a member of [[Territory]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||Territory:SetName||
+| |✓||Territory:SetName||

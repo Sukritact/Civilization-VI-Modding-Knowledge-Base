@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: IsDisfavoredYield
 returns: []
-script: true
+script: false
 tags:
 - City/CityCitizens/_function
-- function/script
+- function/UI
 ---
 # CityCitizens:IsDisfavoredYield
 > this function is a member of [[CityCitizens]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityCitizens:IsDisfavoredYield||
+|✓| ||CityCitizens:IsDisfavoredYield||

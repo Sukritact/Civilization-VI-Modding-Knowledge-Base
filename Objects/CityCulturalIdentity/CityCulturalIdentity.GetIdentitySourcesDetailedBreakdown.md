@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetIdentitySourcesDetailedBreakdown
 returns: []
-script: true
+script: false
 tags:
 - City/CityCulturalIdentity/_function
-- function/script
+- function/UI
 ---
 # CityCulturalIdentity:GetIdentitySourcesDetailedBreakdown
 > this function is a member of [[CityCulturalIdentity]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityCulturalIdentity:GetIdentitySourcesDetailedBreakdown||
+|✓| ||CityCulturalIdentity:GetIdentitySourcesDetailedBreakdown||

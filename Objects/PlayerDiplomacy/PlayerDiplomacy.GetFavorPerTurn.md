@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: PlayerDiplomacy
 methodname: GetFavorPerTurn
 returns: []
-script: false
+script: true
 tags:
 - PlayerDiplomacy/_function
-- function/UI
+- function/script
 ---
 # PlayerDiplomacy:GetFavorPerTurn
 > this function is a member of [[PlayerDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerDiplomacy:GetFavorPerTurn||
+| |✓||PlayerDiplomacy:GetFavorPerTurn||

@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: ChangeWeaponCount
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerWMDs/_function
-- function/UI
+- function/script
 ---
 # PlayerWMDs:ChangeWeaponCount
 > this function is a member of [[PlayerWMDs]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerWMDs:ChangeWeaponCount||
+| |✓||PlayerWMDs:ChangeWeaponCount||

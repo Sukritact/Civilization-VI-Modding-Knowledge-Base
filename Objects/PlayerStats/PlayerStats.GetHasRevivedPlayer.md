@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetHasRevivedPlayer
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerStats/_function
-- function/script
+- function/UI
 ---
 # PlayerStats:GetHasRevivedPlayer
 > this function is a member of [[PlayerStats]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerStats:GetHasRevivedPlayer||
+|✓| ||PlayerStats:GetHasRevivedPlayer||

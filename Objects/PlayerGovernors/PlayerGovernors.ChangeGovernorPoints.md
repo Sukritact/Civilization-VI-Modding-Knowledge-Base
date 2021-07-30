@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: ChangeGovernorPoints
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerGovernors/_function
-- function/UI
+- function/script
 ---
 # PlayerGovernors:ChangeGovernorPoints
 > this function is a member of [[PlayerGovernors]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerGovernors:ChangeGovernorPoints||
+| |✓||PlayerGovernors:ChangeGovernorPoints||

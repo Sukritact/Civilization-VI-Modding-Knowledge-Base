@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetUnitFaithPurchaseEnabled
 returns: []
-script: false
+script: true
 tags:
 - City/_function
-- function/UI
+- function/script
 ---
 # City:GetUnitFaithPurchaseEnabled
 > this function is a member of [[City]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||City:GetUnitFaithPurchaseEnabled||
+| |✓||City:GetUnitFaithPurchaseEnabled||

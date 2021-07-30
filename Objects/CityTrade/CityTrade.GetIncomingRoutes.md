@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetIncomingRoutes
 returns: []
-script: true
+script: false
 tags:
 - City/CityTrade/_function
-- function/script
+- function/UI
 ---
 # CityTrade:GetIncomingRoutes
 > this function is a member of [[CityTrade]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityTrade:GetIncomingRoutes||
+|✓| ||CityTrade:GetIncomingRoutes||

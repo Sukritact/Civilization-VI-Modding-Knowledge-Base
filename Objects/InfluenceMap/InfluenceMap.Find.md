@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: InfluenceMap
 methodname: Find
 returns: []
-script: true
+script: false
 tags:
 - InfluenceMap/_function
-- function/script
+- function/UI
 ---
 # InfluenceMap:Find
 > this function is a member of [[InfluenceMap]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||InfluenceMap:Find||
+|✓| ||InfluenceMap:Find||

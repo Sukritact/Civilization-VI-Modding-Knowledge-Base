@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetNumDistrictsFollowingReligion
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerStats/_function
-- function/UI
+- function/script
 ---
 # PlayerStats:GetNumDistrictsFollowingReligion
 > this function is a member of [[PlayerStats]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerStats:GetNumDistrictsFollowingReligion||
+| |✓||PlayerStats:GetNumDistrictsFollowingReligion||

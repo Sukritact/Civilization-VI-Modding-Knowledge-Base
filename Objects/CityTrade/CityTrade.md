@@ -10,9 +10,9 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-| |✓||:|[[CityTrade.GetCity\|GetCity]]||
-| |✓||:|[[CityTrade.GetIncomingRoutes\|GetIncomingRoutes]]||
-| |✓||:|[[CityTrade.GetOutgoingRoutes\|GetOutgoingRoutes]]||
-| |✓||:|[[CityTrade.HasActiveTradingPost\|HasActiveTradingPost]]||
-| |✓||:|[[CityTrade.HasInactiveTradingPost\|HasInactiveTradingPost]]||
-| |✓||:|[[CityTrade.HasTradeRouteFrom\|HasTradeRouteFrom]]||
+|✓| ||:|[[CityTrade.GetCity\|GetCity]]||
+|✓| ||:|[[CityTrade.GetIncomingRoutes\|GetIncomingRoutes]]||
+|✓| ||:|[[CityTrade.GetOutgoingRoutes\|GetOutgoingRoutes]]||
+|✓| ||:|[[CityTrade.HasActiveTradingPost\|HasActiveTradingPost]]||
+|✓| ||:|[[CityTrade.HasInactiveTradingPost\|HasInactiveTradingPost]]||
+|✓| ||:|[[CityTrade.HasTradeRouteFrom\|HasTradeRouteFrom]]||

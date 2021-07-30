@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetImprovementPlots
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerImprovements/_function
-- function/script
+- function/UI
 ---
 # PlayerImprovements:GetImprovementPlots
 > this function is a member of [[PlayerImprovements]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerImprovements:GetImprovementPlots||
+|✓| ||PlayerImprovements:GetImprovementPlots||

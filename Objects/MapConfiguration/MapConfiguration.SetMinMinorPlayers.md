@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: MapConfiguration
 methodname: SetMinMinorPlayers
 returns: []
-script: true
+script: false
 tags:
 - MapConfiguration/_function
-- function/script
+- function/UI
 ---
 # MapConfiguration.SetMinMinorPlayers
 > this function is a member of [[MapConfiguration]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||MapConfiguration.SetMinMinorPlayers||
+|✓| ||MapConfiguration.SetMinMinorPlayers||

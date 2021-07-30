@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: CountOutgoingRoutes
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerTrade/_function
-- function/UI
+- function/script
 ---
 # PlayerTrade:CountOutgoingRoutes
 > this function is a member of [[PlayerTrade]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerTrade:CountOutgoingRoutes||
+| |✓||PlayerTrade:CountOutgoingRoutes||

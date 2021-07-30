@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: TerrainManager
 methodname: FloodCoast
 returns: []
-script: false
+script: true
 tags:
 - TerrainManager/_function
-- function/UI
+- function/script
 ---
 # TerrainManager.FloodCoast
 > this function is a member of [[TerrainManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||TerrainManager.FloodCoast||
+| |✓||TerrainManager.FloodCoast||

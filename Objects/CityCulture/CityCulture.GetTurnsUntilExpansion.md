@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: GetTurnsUntilExpansion
 returns: []
-script: true
+script: false
 tags:
 - City/CityCulture/_function
-- function/script
+- function/UI
 ---
 # CityCulture:GetTurnsUntilExpansion
 > this function is a member of [[CityCulture]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityCulture:GetTurnsUntilExpansion||
+|✓| ||CityCulture:GetTurnsUntilExpansion||

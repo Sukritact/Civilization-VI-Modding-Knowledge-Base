@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Game
 methodname: SetAlliesShareVisFlag
 returns: []
-script: false
+script: true
 tags:
 - Game/GameDiplomacy/_function
-- function/UI
+- function/script
 ---
 # GameDiplomacy:SetAlliesShareVisFlag
 > this function is a member of [[GameDiplomacy]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||GameDiplomacy:SetAlliesShareVisFlag||
+| |✓||GameDiplomacy:SetAlliesShareVisFlag||

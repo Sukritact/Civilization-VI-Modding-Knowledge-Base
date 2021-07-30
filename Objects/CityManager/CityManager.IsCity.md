@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: CityManager
 methodname: IsCity
 returns: []
-script: true
+script: false
 tags:
 - CityManager/_function
-- function/script
+- function/UI
 ---
 # CityManager.IsCity
 > this function is a member of [[CityManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityManager.IsCity||
+|✓| ||CityManager.IsCity||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Barbarians
 methodname: GetTribeNameType
 returns: []
-script: true
+script: false
 tags:
 - Barbarians/_function
-- function/script
+- function/UI
 ---
 # Barbarians:GetTribeNameType
 > this function is a member of [[Barbarians]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||Barbarians:GetTribeNameType||
+|✓| ||Barbarians:GetTribeNameType||

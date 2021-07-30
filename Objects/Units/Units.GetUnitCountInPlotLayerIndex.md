@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: .
 memberOf: Units
 methodname: GetUnitCountInPlotLayerIndex
 returns: []
-script: true
+script: false
 tags:
 - Units/_function
-- function/script
+- function/UI
 ---
 # Units.GetUnitCountInPlotLayerIndex
 > this function is a member of [[Units]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||Units.GetUnitCountInPlotLayerIndex||
+|✓| ||Units.GetUnitCountInPlotLayerIndex||

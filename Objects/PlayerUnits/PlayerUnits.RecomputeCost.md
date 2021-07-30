@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: RecomputeCost
 returns: []
-script: false
+script: true
 tags:
 - Player/PlayerUnits/_function
-- function/UI
+- function/script
 ---
 # PlayerUnits:RecomputeCost
 > this function is a member of [[PlayerUnits]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||PlayerUnits:RecomputeCost||
+| |✓||PlayerUnits:RecomputeCost||

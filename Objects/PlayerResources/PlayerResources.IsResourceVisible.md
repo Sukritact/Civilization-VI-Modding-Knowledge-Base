@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: IsResourceVisible
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerResources/_function
-- function/script
+- function/UI
 ---
 # PlayerResources:IsResourceVisible
 > this function is a member of [[PlayerResources]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerResources:IsResourceVisible||
+|✓| ||PlayerResources:IsResourceVisible||

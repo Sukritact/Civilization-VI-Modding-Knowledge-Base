@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetCategoryScore
 returns: []
-script: true
+script: false
 tags:
 - Player/_function
-- function/script
+- function/UI
 ---
 # Player:GetCategoryScore
 > this function is a member of [[Player]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||Player:GetCategoryScore||
+|✓| ||Player:GetCategoryScore||

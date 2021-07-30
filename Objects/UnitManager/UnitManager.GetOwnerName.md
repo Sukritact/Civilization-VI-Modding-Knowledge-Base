@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: UnitManager
 methodname: GetOwnerName
 returns: []
-script: false
+script: true
 tags:
 - UnitManager/_function
-- function/UI
+- function/script
 ---
 # UnitManager.GetOwnerName
 > this function is a member of [[UnitManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||UnitManager.GetOwnerName||
+| |✓||UnitManager.GetOwnerName||

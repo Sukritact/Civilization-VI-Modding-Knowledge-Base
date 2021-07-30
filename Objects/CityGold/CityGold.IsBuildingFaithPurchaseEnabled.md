@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: City
 methodname: IsBuildingFaithPurchaseEnabled
 returns: []
-script: true
+script: false
 tags:
 - City/CityGold/_function
-- function/script
+- function/UI
 ---
 # CityGold:IsBuildingFaithPurchaseEnabled
 > this function is a member of [[CityGold]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||CityGold:IsBuildingFaithPurchaseEnabled||
+|✓| ||CityGold:IsBuildingFaithPurchaseEnabled||

@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetNumTechsResearched
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerStats/_function
-- function/script
+- function/UI
 ---
 # PlayerStats:GetNumTechsResearched
 > this function is a member of [[PlayerStats]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerStats:GetNumTechsResearched||
+|✓| ||PlayerStats:GetNumTechsResearched||

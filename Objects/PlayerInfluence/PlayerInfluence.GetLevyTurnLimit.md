@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: GetLevyTurnLimit
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerInfluence/_function
-- function/script
+- function/UI
 ---
 # PlayerInfluence:GetLevyTurnLimit
 > this function is a member of [[PlayerInfluence]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerInfluence:GetLevyTurnLimit||
+|✓| ||PlayerInfluence:GetLevyTurnLimit||

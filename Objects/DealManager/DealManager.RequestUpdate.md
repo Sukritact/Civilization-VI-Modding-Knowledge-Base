@@ -1,14 +1,14 @@
 ---
-UI: true
+UI: false
 arguments: []
 invoke: .
 memberOf: DealManager
 methodname: RequestUpdate
 returns: []
-script: false
+script: true
 tags:
 - DealManager/_function
-- function/UI
+- function/script
 ---
 # DealManager.RequestUpdate
 > this function is a member of [[DealManager]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||DealManager.RequestUpdate||
+| |✓||DealManager.RequestUpdate||

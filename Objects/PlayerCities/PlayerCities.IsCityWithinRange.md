@@ -1,14 +1,14 @@
 ---
-UI: false
+UI: true
 arguments: []
 invoke: ':'
 memberOf: Player
 methodname: IsCityWithinRange
 returns: []
-script: true
+script: false
 tags:
 - Player/PlayerCities/_function
-- function/script
+- function/UI
 ---
 # PlayerCities:IsCityWithinRange
 > this function is a member of [[PlayerCities]]
@@ -17,4 +17,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||PlayerCities:IsCityWithinRange||
+|✓| ||PlayerCities:IsCityWithinRange||
