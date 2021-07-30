@@ -10,9 +10,9 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-|✓| ||:|[[CityPlots.GetPurchasedByCity\|GetPurchasedByCity]]||
-|✓| ||:|[[CityPlots.GetPurchasedByCityID\|GetPurchasedByCityID]]||
-|✓| ||:|[[CityPlots.GetPurchasedPlots\|GetPurchasedPlots]]||
-|✓| ||:|[[CityPlots.GetVisiblePurchasedPlots\|GetVisiblePurchasedPlots]]||
-|✓| ||:|[[CityPlots.GetWorkingCity\|GetWorkingCity]]||
-|✓| ||:|[[CityPlots.GetWorkingCityID\|GetWorkingCityID]]||
+| |✓||:|[[CityPlots.GetPurchasedByCity\|GetPurchasedByCity]]||
+| |✓||:|[[CityPlots.GetPurchasedByCityID\|GetPurchasedByCityID]]||
+| |✓||:|[[CityPlots.GetPurchasedPlots\|GetPurchasedPlots]]||
+| |✓||:|[[CityPlots.GetVisiblePurchasedPlots\|GetVisiblePurchasedPlots]]||
+| |✓||:|[[CityPlots.GetWorkingCity\|GetWorkingCity]]||
+| |✓||:|[[CityPlots.GetWorkingCityID\|GetWorkingCityID]]||

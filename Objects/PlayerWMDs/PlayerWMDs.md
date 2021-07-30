@@ -11,5 +11,5 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
 |✓|✓||:|[[PlayerWMDs.CanDeployWMD\|CanDeployWMD]]||
-| |✓||:|[[PlayerWMDs.ChangeWeaponCount\|ChangeWeaponCount]]||
+|✓| ||:|[[PlayerWMDs.ChangeWeaponCount\|ChangeWeaponCount]]||
 |✓|✓||:|[[PlayerWMDs.GetWeaponCount\|GetWeaponCount]]||

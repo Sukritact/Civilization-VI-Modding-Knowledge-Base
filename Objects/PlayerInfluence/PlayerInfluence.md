@@ -11,13 +11,13 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
 |✓|✓||:|[[PlayerInfluence.CanGiveInfluence\|CanGiveInfluence]]||
-|✓| ||:|[[PlayerInfluence.CanGiveTokensToPlayer\|CanGiveTokensToPlayer]]||
-|✓| ||:|[[PlayerInfluence.CanLevyMilitary\|CanLevyMilitary]]||
+| |✓||:|[[PlayerInfluence.CanGiveTokensToPlayer\|CanGiveTokensToPlayer]]||
+| |✓||:|[[PlayerInfluence.CanLevyMilitary\|CanLevyMilitary]]||
 |✓|✓||:|[[PlayerInfluence.CanReceiveInfluence\|CanReceiveInfluence]]||
-| |✓||:|[[PlayerInfluence.ChangeTokensToGive\|ChangeTokensToGive]]||
-|✓| ||:|[[PlayerInfluence.GetLevyMilitaryCost\|GetLevyMilitaryCost]]||
-|✓| ||:|[[PlayerInfluence.GetLevyTurnCounter\|GetLevyTurnCounter]]||
-|✓| ||:|[[PlayerInfluence.GetLevyTurnLimit\|GetLevyTurnLimit]]||
+|✓| ||:|[[PlayerInfluence.ChangeTokensToGive\|ChangeTokensToGive]]||
+| |✓||:|[[PlayerInfluence.GetLevyMilitaryCost\|GetLevyMilitaryCost]]||
+| |✓||:|[[PlayerInfluence.GetLevyTurnCounter\|GetLevyTurnCounter]]||
+| |✓||:|[[PlayerInfluence.GetLevyTurnLimit\|GetLevyTurnLimit]]||
 |✓|✓||:|[[PlayerInfluence.GetMostTokensReceived\|GetMostTokensReceived]]||
 |✓|✓||:|[[PlayerInfluence.GetPointsEarned\|GetPointsEarned]]||
 |✓|✓||:|[[PlayerInfluence.GetPointsPerTurn\|GetPointsPerTurn]]||
@@ -26,7 +26,7 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |✓|✓||:|[[PlayerInfluence.GetTokensPerThreshold\|GetTokensPerThreshold]]||
 |✓|✓||:|[[PlayerInfluence.GetTokensReceived\|GetTokensReceived]]||
 |✓|✓||:|[[PlayerInfluence.GetTokensToGive\|GetTokensToGive]]||
-| |✓||:|[[PlayerInfluence.GiveFreeTokenToPlayer\|GiveFreeTokenToPlayer]]||
-|✓| ||:|[[PlayerInfluence.IsGivingTokensConsidered\|IsGivingTokensConsidered]]||
-|✓| ||:|[[PlayerInfluence.IsSuzerainUniqueBonusDisabled\|IsSuzerainUniqueBonusDisabled]]||
-|✓| ||:|[[PlayerInfluence.SetGivingTokensConsidered\|SetGivingTokensConsidered]]||
+|✓| ||:|[[PlayerInfluence.GiveFreeTokenToPlayer\|GiveFreeTokenToPlayer]]||
+| |✓||:|[[PlayerInfluence.IsGivingTokensConsidered\|IsGivingTokensConsidered]]||
+| |✓||:|[[PlayerInfluence.IsSuzerainUniqueBonusDisabled\|IsSuzerainUniqueBonusDisabled]]||
+| |✓||:|[[PlayerInfluence.SetGivingTokensConsidered\|SetGivingTokensConsidered]]||

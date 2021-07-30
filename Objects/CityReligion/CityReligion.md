@@ -10,18 +10,18 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-| |✓||:|[[CityReligion.AddOneFollower\|AddOneFollower]]||
-| |✓||:|[[CityReligion.AddReligiousPressure\|AddReligiousPressure]]||
+|✓| ||:|[[CityReligion.AddOneFollower\|AddOneFollower]]||
+|✓| ||:|[[CityReligion.AddReligiousPressure\|AddReligiousPressure]]||
 |✓|✓||:|[[CityReligion.GetActivePantheon\|GetActivePantheon]]||
-|✓| ||:|[[CityReligion.GetCity\|GetCity]]||
+| |✓||:|[[CityReligion.GetCity\|GetCity]]||
 |✓|✓||:|[[CityReligion.GetMajorityReligion\|GetMajorityReligion]]||
-|✓| ||:|[[CityReligion.GetNextReligion\|GetNextReligion]]||
-| |✓||:|[[CityReligion.GetNumFollowers\|GetNumFollowers]]||
-|✓| ||:|[[CityReligion.GetPressureFromCity\|GetPressureFromCity]]||
-|✓| ||:|[[CityReligion.GetReligionsInCity\|GetReligionsInCity]]||
-|✓| ||:|[[CityReligion.GetReligiousPressureSources\|GetReligiousPressureSources]]||
-|✓| ||:|[[CityReligion.GetTotalPressureOnCity\|GetTotalPressureOnCity]]||
-|✓| ||:|[[CityReligion.GetTurnsToNextReligion\|GetTurnsToNextReligion]]||
-| |✓||:|[[CityReligion.RemoveOtherReligions\|RemoveOtherReligions]]||
-| |✓||:|[[CityReligion.RemovePressureOneReligion\|RemovePressureOneReligion]]||
-| |✓||:|[[CityReligion.SetAllCityToReligion\|SetAllCityToReligion]]||
+| |✓||:|[[CityReligion.GetNextReligion\|GetNextReligion]]||
+|✓| ||:|[[CityReligion.GetNumFollowers\|GetNumFollowers]]||
+| |✓||:|[[CityReligion.GetPressureFromCity\|GetPressureFromCity]]||
+| |✓||:|[[CityReligion.GetReligionsInCity\|GetReligionsInCity]]||
+| |✓||:|[[CityReligion.GetReligiousPressureSources\|GetReligiousPressureSources]]||
+| |✓||:|[[CityReligion.GetTotalPressureOnCity\|GetTotalPressureOnCity]]||
+| |✓||:|[[CityReligion.GetTurnsToNextReligion\|GetTurnsToNextReligion]]||
+|✓| ||:|[[CityReligion.RemoveOtherReligions\|RemoveOtherReligions]]||
+|✓| ||:|[[CityReligion.RemovePressureOneReligion\|RemovePressureOneReligion]]||
+|✓| ||:|[[CityReligion.SetAllCityToReligion\|SetAllCityToReligion]]||

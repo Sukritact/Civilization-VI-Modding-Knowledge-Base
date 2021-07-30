@@ -11,8 +11,8 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
 |✓|✓||:|[[PlayerTrade.CalcFavorPerTurnFromTradePartners\|CalcFavorPerTurnFromTradePartners]]||
-| |✓||:|[[PlayerTrade.CountOutgoingRoutes\|CountOutgoingRoutes]]||
-|✓| ||:|[[PlayerTrade.GetLandRangeRefuel\|GetLandRangeRefuel]]||
-|✓| ||:|[[PlayerTrade.GetNumOutgoingRoutes\|GetNumOutgoingRoutes]]||
+|✓| ||:|[[PlayerTrade.CountOutgoingRoutes\|CountOutgoingRoutes]]||
+| |✓||:|[[PlayerTrade.GetLandRangeRefuel\|GetLandRangeRefuel]]||
+| |✓||:|[[PlayerTrade.GetNumOutgoingRoutes\|GetNumOutgoingRoutes]]||
 |✓|✓||:|[[PlayerTrade.GetOutgoingRouteCapacity\|GetOutgoingRouteCapacity]]||
-|✓| ||:|[[PlayerTrade.GetWaterRangeRefuel\|GetWaterRangeRefuel]]||
+| |✓||:|[[PlayerTrade.GetWaterRangeRefuel\|GetWaterRangeRefuel]]||

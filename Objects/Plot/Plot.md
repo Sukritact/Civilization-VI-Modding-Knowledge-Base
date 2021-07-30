@@ -97,6 +97,6 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |✓|✓||:|[[Plot.IsWOfRiver\|IsWOfRiver]]||
 |✓|✓||:|[[Plot.IsWater\|IsWater]]||
 |✓|✓||:|[[Plot.IsWonderComplete\|IsWonderComplete]]||
-| |✓||:|[[Plot.SetOwner\|SetOwner]]||
-| |✓||:|[[Plot.SetProperty\|SetProperty]]||
+|✓| ||:|[[Plot.SetOwner\|SetOwner]]||
+|✓| ||:|[[Plot.SetProperty\|SetProperty]]||
 |✓|✓||:|[[Plot.SharesAdjacentArea\|SharesAdjacentArea]]||

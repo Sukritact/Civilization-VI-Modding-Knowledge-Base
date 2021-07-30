@@ -123,7 +123,7 @@ for object_entry in data["Objects"]:
 			method_yaml["script"]		= isScript
 			# ========================================================
 
-			object_file.write('|' + ui + '|' + script + '|' + returnsString + '|' + invoke + '|[[' + link + ']]|' + argumentsString + '|\n')
+			object_file.write('|' + script + '|' + ui + '|' + returnsString + '|' + invoke + '|[[' + link + ']]|' + argumentsString + '|\n')
 
 			with open("../Objects/" + objectName + "/" + filename + ".md", "w", encoding='utf-8') as method_file:
 

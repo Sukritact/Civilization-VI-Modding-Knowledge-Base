@@ -10,15 +10,15 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-| |✓||:|[[PlayerUnits.Create\|Create]]||
-| |✓||:|[[PlayerUnits.Destroy\|Destroy]]||
+|✓| ||:|[[PlayerUnits.Create\|Create]]||
+|✓| ||:|[[PlayerUnits.Destroy\|Destroy]]||
 |✓|✓||:|[[PlayerUnits.FindID\|FindID]]||
 |✓|✓||:|[[PlayerUnits.GetCount\|GetCount]]||
-|✓| ||:|[[PlayerUnits.GetFirstReadyUnit\|GetFirstReadyUnit]]||
-|✓| ||:|[[PlayerUnits.GetNextExtractingArchaeologist\|GetNextExtractingArchaeologist]]||
-|✓| ||:|[[PlayerUnits.GetProcessingState\|GetProcessingState]]||
-| |✓||:|[[PlayerUnits.IsBuildDisabled\|IsBuildDisabled]]||
+| |✓||:|[[PlayerUnits.GetFirstReadyUnit\|GetFirstReadyUnit]]||
+| |✓||:|[[PlayerUnits.GetNextExtractingArchaeologist\|GetNextExtractingArchaeologist]]||
+| |✓||:|[[PlayerUnits.GetProcessingState\|GetProcessingState]]||
+|✓| ||:|[[PlayerUnits.IsBuildDisabled\|IsBuildDisabled]]||
 |✓|✓||:|[[PlayerUnits.Members\|Members]]||
-| |✓||:|[[PlayerUnits.RecomputeAllCosts\|RecomputeAllCosts]]||
-| |✓||:|[[PlayerUnits.RecomputeCost\|RecomputeCost]]||
-| |✓||:|[[PlayerUnits.SetBuildDisabled\|SetBuildDisabled]]||
+|✓| ||:|[[PlayerUnits.RecomputeAllCosts\|RecomputeAllCosts]]||
+|✓| ||:|[[PlayerUnits.RecomputeCost\|RecomputeCost]]||
+|✓| ||:|[[PlayerUnits.SetBuildDisabled\|SetBuildDisabled]]||

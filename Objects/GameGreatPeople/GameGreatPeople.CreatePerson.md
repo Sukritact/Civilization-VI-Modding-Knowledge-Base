@@ -21,7 +21,7 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| ||GameGreatPeople:CreatePerson|`PlayerID [number]`<br>`IndividualID [number]`<br>`X [number]`<br>`Y [number]`|
+| |✓||GameGreatPeople:CreatePerson|`PlayerID [number]`<br>`IndividualID [number]`<br>`X [number]`<br>`Y [number]`|
 
 ## Notes
   

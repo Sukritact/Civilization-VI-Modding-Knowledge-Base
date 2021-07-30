@@ -10,6 +10,6 @@ This file is a description of an object. This object is accessible as a global v
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-| |✓||.|[[ImprovementBuilder.CanHaveImprovement\|CanHaveImprovement]]||
-| |✓||.|[[ImprovementBuilder.SetImprovementPillaged\|SetImprovementPillaged]]||
-| |✓||.|[[ImprovementBuilder.SetImprovementType\|SetImprovementType]]||
+|✓| ||.|[[ImprovementBuilder.CanHaveImprovement\|CanHaveImprovement]]||
+|✓| ||.|[[ImprovementBuilder.SetImprovementPillaged\|SetImprovementPillaged]]||
+|✓| ||.|[[ImprovementBuilder.SetImprovementType\|SetImprovementType]]||

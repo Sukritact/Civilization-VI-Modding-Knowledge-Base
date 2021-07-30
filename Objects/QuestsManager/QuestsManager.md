@@ -10,7 +10,7 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 ## Methods
 | Script | UI  | Returns | . or : | Name | Arguments |
 |:------:|:---:| -------:|:---- |:---- |:--------- |
-|✓| ||:|[[QuestsManager.GetActiveQuestDescription\|GetActiveQuestDescription]]||
-|✓| ||:|[[QuestsManager.GetActiveQuestName\|GetActiveQuestName]]||
-|✓| ||:|[[QuestsManager.GetActiveQuestReward\|GetActiveQuestReward]]||
+| |✓||:|[[QuestsManager.GetActiveQuestDescription\|GetActiveQuestDescription]]||
+| |✓||:|[[QuestsManager.GetActiveQuestName\|GetActiveQuestName]]||
+| |✓||:|[[QuestsManager.GetActiveQuestReward\|GetActiveQuestReward]]||
 |✓|✓||:|[[QuestsManager.HasActiveQuestFromPlayer\|HasActiveQuestFromPlayer]]||
