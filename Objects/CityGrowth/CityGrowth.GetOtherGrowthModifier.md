@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetOtherGrowthModifier
+returns: []
+script: true
+tags:
+- City/CityGrowth/_function
+- function/script
+---
 # CityGrowth:GetOtherGrowthModifier
 > this function is a member of [[CityGrowth]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityGrowth:GetOtherGrowthModifier()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityGrowth:GetOtherGrowthModifier||

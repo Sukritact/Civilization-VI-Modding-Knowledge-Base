@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Game
+methodname: SetFalloutTurnsRemaining
+returns: []
+script: false
+tags:
+- Game/GameFalloutManager/_function
+- function/UI
+---
 # GameFalloutManager:SetFalloutTurnsRemaining
 > this function is a member of [[GameFalloutManager]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> GameFalloutManager:SetFalloutTurnsRemaining()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||GameFalloutManager:SetFalloutTurnsRemaining||

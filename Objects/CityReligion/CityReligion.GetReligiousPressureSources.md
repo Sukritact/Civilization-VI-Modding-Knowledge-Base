@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetReligiousPressureSources
+returns: []
+script: true
+tags:
+- City/CityReligion/_function
+- function/script
+---
 # CityReligion:GetReligiousPressureSources
 > this function is a member of [[CityReligion]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityReligion:GetReligiousPressureSources()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityReligion:GetReligiousPressureSources||

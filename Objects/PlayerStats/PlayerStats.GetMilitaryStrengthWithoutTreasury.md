@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: GetMilitaryStrengthWithoutTreasury
+returns: []
+script: true
+tags:
+- Player/PlayerStats/_function
+- function/script
+---
 # PlayerStats:GetMilitaryStrengthWithoutTreasury
 > this function is a member of [[PlayerStats]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerStats:GetMilitaryStrengthWithoutTreasury()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||PlayerStats:GetMilitaryStrengthWithoutTreasury||

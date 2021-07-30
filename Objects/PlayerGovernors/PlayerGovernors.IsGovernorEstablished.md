@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: IsGovernorEstablished
+returns: []
+script: true
+tags:
+- Player/PlayerGovernors/_function
+- function/script
+---
 # PlayerGovernors:IsGovernorEstablished
 > this function is a member of [[PlayerGovernors]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerGovernors:IsGovernorEstablished()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||PlayerGovernors:IsGovernorEstablished||

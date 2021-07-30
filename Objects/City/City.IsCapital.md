@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: IsCapital
+returns: []
+script: true
+tags:
+- City/_function
+- function/script
+---
 # City:IsCapital
 > this function is a member of [[City]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> City:IsCapital()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||City:IsCapital||

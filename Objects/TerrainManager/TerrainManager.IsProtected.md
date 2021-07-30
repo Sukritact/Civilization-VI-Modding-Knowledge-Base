@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: TerrainManager
+methodname: IsProtected
+returns: []
+script: true
+tags:
+- TerrainManager/_function
+- function/UI
+- function/script
+---
 # TerrainManager.IsProtected
 > this function is a member of [[TerrainManager]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> TerrainManager.IsProtected()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||TerrainManager.IsProtected||

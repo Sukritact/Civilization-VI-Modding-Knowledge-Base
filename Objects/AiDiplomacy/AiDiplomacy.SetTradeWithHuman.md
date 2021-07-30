@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: AiDiplomacy
+methodname: SetTradeWithHuman
+returns: []
+script: false
+tags:
+- AiDiplomacy/_function
+- function/UI
+---
 # AiDiplomacy:SetTradeWithHuman
 > this function is a member of [[AiDiplomacy]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> AiDiplomacy:SetTradeWithHuman()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||AiDiplomacy:SetTradeWithHuman||

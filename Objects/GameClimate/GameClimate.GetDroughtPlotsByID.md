@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: GameClimate
+methodname: GetDroughtPlotsByID
+returns: []
+script: true
+tags:
+- GameClimate/_function
+- function/UI
+- function/script
+---
 # GameClimate.GetDroughtPlotsByID
 > this function is a member of [[GameClimate]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> GameClimate.GetDroughtPlotsByID()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||GameClimate.GetDroughtPlotsByID||

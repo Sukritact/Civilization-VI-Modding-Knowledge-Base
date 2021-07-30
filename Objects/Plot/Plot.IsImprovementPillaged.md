@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Plot
+methodname: IsImprovementPillaged
+returns: []
+script: true
+tags:
+- Plot/_function
+- function/UI
+- function/script
+---
 # Plot:IsImprovementPillaged
 > this function is a member of [[Plot]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Plot:IsImprovementPillaged()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||Plot:IsImprovementPillaged||

@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: .
+memberOf: GameConfiguration
+methodname: GetPossibleParticipatingPlayerIDs
+returns: []
+script: true
+tags:
+- GameConfiguration/_function
+- function/script
+---
 # GameConfiguration.GetPossibleParticipatingPlayerIDs
 > this function is a member of [[GameConfiguration]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> GameConfiguration.GetPossibleParticipatingPlayerIDs()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||GameConfiguration.GetPossibleParticipatingPlayerIDs||

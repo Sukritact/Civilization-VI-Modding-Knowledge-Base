@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: UnitManager
+methodname: ReportActivation
+returns: []
+script: false
+tags:
+- UnitManager/_function
+- function/UI
+---
 # UnitManager.ReportActivation
 > this function is a member of [[UnitManager]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> UnitManager.ReportActivation()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||UnitManager.ReportActivation||

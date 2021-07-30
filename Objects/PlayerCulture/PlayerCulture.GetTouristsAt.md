@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: GetTouristsAt
+returns: []
+script: true
+tags:
+- Player/PlayerCulture/_function
+- function/script
+---
 # PlayerCulture:GetTouristsAt
 > this function is a member of [[PlayerCulture]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerCulture:GetTouristsAt()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||PlayerCulture:GetTouristsAt||

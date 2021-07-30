@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: GetMaintDiscountPerUnit
+returns: []
+script: true
+tags:
+- Player/PlayerTreasury/_function
+- function/script
+---
 # PlayerTreasury:GetMaintDiscountPerUnit
 > this function is a member of [[PlayerTreasury]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerTreasury:GetMaintDiscountPerUnit()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||PlayerTreasury:GetMaintDiscountPerUnit||

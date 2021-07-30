@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: IsPolicyActive
+returns: []
+script: true
+tags:
+- Player/PlayerCulture/_function
+- function/UI
+- function/script
+---
 # PlayerCulture:IsPolicyActive
 > this function is a member of [[PlayerCulture]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerCulture:IsPolicyActive()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||PlayerCulture:IsPolicyActive||

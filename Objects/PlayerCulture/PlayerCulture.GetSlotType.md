@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: GetSlotType
+returns: []
+script: true
+tags:
+- Player/PlayerCulture/_function
+- function/script
+---
 # PlayerCulture:GetSlotType
 > this function is a member of [[PlayerCulture]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerCulture:GetSlotType()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||PlayerCulture:GetSlotType||

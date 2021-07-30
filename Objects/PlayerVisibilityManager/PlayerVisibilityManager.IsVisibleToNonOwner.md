@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: PlayerVisibilityManager
+methodname: IsVisibleToNonOwner
+returns: []
+script: true
+tags:
+- PlayerVisibilityManager/_function
+- function/UI
+- function/script
+---
 # PlayerVisibilityManager.IsVisibleToNonOwner
 > this function is a member of [[PlayerVisibilityManager]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> PlayerVisibilityManager.IsVisibleToNonOwner()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||PlayerVisibilityManager.IsVisibleToNonOwner||

@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: .
+memberOf: DiplomacyManager
+methodname: AddStatement
+returns: []
+script: true
+tags:
+- DiplomacyManager/_function
+- function/script
+---
 # DiplomacyManager.AddStatement
 > this function is a member of [[DiplomacyManager]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> DiplomacyManager.AddStatement()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||DiplomacyManager.AddStatement||

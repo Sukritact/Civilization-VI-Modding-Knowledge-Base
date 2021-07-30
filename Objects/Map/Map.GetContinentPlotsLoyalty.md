@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: .
+memberOf: Map
+methodname: GetContinentPlotsLoyalty
+returns: []
+script: true
+tags:
+- Map/_function
+- function/script
+---
 # Map.GetContinentPlotsLoyalty
 > this function is a member of [[Map]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> Map.GetContinentPlotsLoyalty()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||Map.GetContinentPlotsLoyalty||

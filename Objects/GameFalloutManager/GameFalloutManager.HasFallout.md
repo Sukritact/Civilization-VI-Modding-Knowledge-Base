@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Game
+methodname: HasFallout
+returns: []
+script: true
+tags:
+- Game/GameFalloutManager/_function
+- function/UI
+- function/script
+---
 # GameFalloutManager:HasFallout
 > this function is a member of [[GameFalloutManager]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> GameFalloutManager:HasFallout()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||GameFalloutManager:HasFallout||

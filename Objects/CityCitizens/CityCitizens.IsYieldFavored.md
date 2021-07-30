@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: IsYieldFavored
+returns: []
+script: false
+tags:
+- City/CityCitizens/_function
+- function/UI
+---
 # CityCitizens:IsYieldFavored
 > this function is a member of [[CityCitizens]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityCitizens:IsYieldFavored()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||CityCitizens:IsYieldFavored||

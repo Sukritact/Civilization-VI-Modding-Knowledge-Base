@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: CityPlots
+methodname: GetPurchasedByCityID
+returns: []
+script: true
+tags:
+- CityPlots/_function
+- function/script
+---
 # CityPlots:GetPurchasedByCityID
 > this function is a member of [[CityPlots]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityPlots:GetPurchasedByCityID()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityPlots:GetPurchasedByCityID||

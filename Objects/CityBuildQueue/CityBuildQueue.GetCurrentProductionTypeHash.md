@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetCurrentProductionTypeHash
+returns: []
+script: true
+tags:
+- City/CityBuildQueue/_function
+- function/script
+---
 # CityBuildQueue:GetCurrentProductionTypeHash
 > this function is a member of [[CityBuildQueue]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityBuildQueue:GetCurrentProductionTypeHash()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityBuildQueue:GetCurrentProductionTypeHash||

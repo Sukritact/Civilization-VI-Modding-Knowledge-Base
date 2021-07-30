@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: TradeManager
+methodname: CalculateOriginYieldFromModifiers
+returns: []
+script: true
+tags:
+- TradeManager/_function
+- function/UI
+- function/script
+---
 # TradeManager:CalculateOriginYieldFromModifiers
 > this function is a member of [[TradeManager]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> TradeManager:CalculateOriginYieldFromModifiers()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||TradeManager:CalculateOriginYieldFromModifiers||

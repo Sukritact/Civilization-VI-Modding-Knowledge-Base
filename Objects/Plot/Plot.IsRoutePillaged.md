@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Plot
+methodname: IsRoutePillaged
+returns: []
+script: true
+tags:
+- Plot/_function
+- function/UI
+- function/script
+---
 # Plot:IsRoutePillaged
 > this function is a member of [[Plot]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Plot:IsRoutePillaged()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||Plot:IsRoutePillaged||

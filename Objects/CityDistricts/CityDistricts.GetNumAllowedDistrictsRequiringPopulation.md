@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetNumAllowedDistrictsRequiringPopulation
+returns: []
+script: true
+tags:
+- City/CityDistricts/_function
+- function/script
+---
 # CityDistricts:GetNumAllowedDistrictsRequiringPopulation
 > this function is a member of [[CityDistricts]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityDistricts:GetNumAllowedDistrictsRequiringPopulation()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityDistricts:GetNumAllowedDistrictsRequiringPopulation||

@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: SetPointsTotal
+returns: []
+script: false
+tags:
+- Player/PlayerGreatPeoplePoints/_function
+- function/UI
+---
 # PlayerGreatPeoplePoints:SetPointsTotal
 > this function is a member of [[PlayerGreatPeoplePoints]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerGreatPeoplePoints:SetPointsTotal()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerGreatPeoplePoints:SetPointsTotal||

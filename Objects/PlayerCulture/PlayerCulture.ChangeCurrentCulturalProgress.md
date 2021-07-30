@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: ChangeCurrentCulturalProgress
+returns: []
+script: false
+tags:
+- Player/PlayerCulture/_function
+- function/UI
+---
 # PlayerCulture:ChangeCurrentCulturalProgress
 > this function is a member of [[PlayerCulture]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerCulture:ChangeCurrentCulturalProgress()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerCulture:ChangeCurrentCulturalProgress||

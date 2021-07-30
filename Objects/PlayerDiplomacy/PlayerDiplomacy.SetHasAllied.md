@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: PlayerDiplomacy
+methodname: SetHasAllied
+returns: []
+script: false
+tags:
+- PlayerDiplomacy/_function
+- function/UI
+---
 # PlayerDiplomacy:SetHasAllied
 > this function is a member of [[PlayerDiplomacy]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerDiplomacy:SetHasAllied()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerDiplomacy:SetHasAllied||

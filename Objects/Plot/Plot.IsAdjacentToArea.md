@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Plot
+methodname: IsAdjacentToArea
+returns: []
+script: true
+tags:
+- Plot/_function
+- function/UI
+- function/script
+---
 # Plot:IsAdjacentToArea
 > this function is a member of [[Plot]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Plot:IsAdjacentToArea()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||Plot:IsAdjacentToArea||

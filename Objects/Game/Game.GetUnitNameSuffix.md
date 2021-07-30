@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: .
+memberOf: Game
+methodname: GetUnitNameSuffix
+returns: []
+script: true
+tags:
+- Game/_function
+- function/script
+---
 # Game.GetUnitNameSuffix
 > this function is a member of [[Game]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> Game.GetUnitNameSuffix()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||Game.GetUnitNameSuffix||

@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: IsTurnActiveComplete
+returns: []
+script: true
+tags:
+- Player/_function
+- function/UI
+- function/script
+---
 # Player:IsTurnActiveComplete
 > this function is a member of [[Player]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Player:IsTurnActiveComplete()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||Player:IsTurnActiveComplete||

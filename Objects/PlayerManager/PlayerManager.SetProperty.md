@@ -1,6 +1,18 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: PlayerManager
+methodname: SetProperty
+returns: []
+script: false
+tags:
+- PlayerManager/_function
+- function/UI
+---
 # PlayerManager.SetProperty
 > this function is a member of [[PlayerManager]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> PlayerManager.SetProperty()
+See [[About Get-SetProperty]]

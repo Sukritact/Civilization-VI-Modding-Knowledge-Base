@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: TeamDiplomacy
+methodname: HasDefensivePact
+returns: []
+script: true
+tags:
+- TeamDiplomacy/_function
+- function/script
+---
 # TeamDiplomacy:HasDefensivePact
 > this function is a member of [[TeamDiplomacy]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> TeamDiplomacy:HasDefensivePact()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||TeamDiplomacy:HasDefensivePact||

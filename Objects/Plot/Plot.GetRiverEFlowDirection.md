@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Plot
+methodname: GetRiverEFlowDirection
+returns: []
+script: true
+tags:
+- Plot/_function
+- function/UI
+- function/script
+---
 # Plot:GetRiverEFlowDirection
 > this function is a member of [[Plot]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Plot:GetRiverEFlowDirection()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||Plot:GetRiverEFlowDirection||

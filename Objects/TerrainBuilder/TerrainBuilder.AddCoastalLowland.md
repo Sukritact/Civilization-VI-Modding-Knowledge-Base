@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: TerrainBuilder
+methodname: AddCoastalLowland
+returns: []
+script: false
+tags:
+- TerrainBuilder/_function
+- function/UI
+---
 # TerrainBuilder.AddCoastalLowland
 > this function is a member of [[TerrainBuilder]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> TerrainBuilder.AddCoastalLowland()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||TerrainBuilder.AddCoastalLowland||

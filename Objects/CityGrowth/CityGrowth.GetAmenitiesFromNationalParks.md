@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetAmenitiesFromNationalParks
+returns: []
+script: true
+tags:
+- City/CityGrowth/_function
+- function/script
+---
 # CityGrowth:GetAmenitiesFromNationalParks
 > this function is a member of [[CityGrowth]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityGrowth:GetAmenitiesFromNationalParks()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityGrowth:GetAmenitiesFromNationalParks||

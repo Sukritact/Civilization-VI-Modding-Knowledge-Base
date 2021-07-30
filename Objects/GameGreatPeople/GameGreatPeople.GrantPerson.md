@@ -1,26 +1,31 @@
 ---
-tags:
-- function
-returns: 
-- "`[nil]`"
+UI: true
 arguments:
-- "`IndividualID [number]`"
-- "`GreatPersonClassID [number]`"
-- "`EraID [number]`"
-- "`Cost [number]`"
-- "`PlayerID [number]`"
-- "`Unknown [boolean]`"
+- IndividualID [number]
+- GreatPersonClassID [number]
+- EraID [number]
+- Cost [number]
+- PlayerID [number]
+- Unknown [boolean]
+invoke: ':'
+memberOf: Game
+methodname: GrantPerson
+returns: []
+script: false
+tags:
+- Game/GameGreatPeople/_function
+- function/UI
 ---
-
 # GameGreatPeople:GrantPerson
 > this function is a member of [[GameGreatPeople]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-| Returns          | Function          | Arguments          |
-| ---------------- | ----------------- | ------------------ |
-| `[nil]` | GameGreatPeople:GrantPerson | `IndividualID [number]`<br/>`GreatPersonClassID [number]`<br/>`EraID [number]`<br/>`Cost [number]`<br/>`PlayerID [number]`<br/>`Unknown [boolean]` |
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||GameGreatPeople:GrantPerson|`IndividualID [number]`<br>`GreatPersonClassID [number]`<br>`EraID [number]`<br>`Cost [number]`<br>`PlayerID [number]`<br>`Unknown [boolean]`|
 
+## Notes
 Grants the specified Great Person Individual. The Great Person seems to be placed in the most appropriate location as it would be were the Great Person earned via normal gameplay.
 
 Great Person Recruitment history is updated, and it prevents the same Great Person Individual from being earned normally through gameplay. This contrasts with [[GameGreatPeople.CreatePerson]] which doesn't. However, it is possible to create multiple of the same Great Person this way.

@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: TerrainBuilder
+methodname: GetAdjacentFeatureCount
+returns: []
+script: false
+tags:
+- TerrainBuilder/_function
+- function/UI
+---
 # TerrainBuilder.GetAdjacentFeatureCount
 > this function is a member of [[TerrainBuilder]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> TerrainBuilder.GetAdjacentFeatureCount()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||TerrainBuilder.GetAdjacentFeatureCount||

@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: ChangeFaithBalance
+returns: []
+script: false
+tags:
+- Player/PlayerReligion/_function
+- function/UI
+---
 # PlayerReligion:ChangeFaithBalance
 > this function is a member of [[PlayerReligion]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerReligion:ChangeFaithBalance()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerReligion:ChangeFaithBalance||

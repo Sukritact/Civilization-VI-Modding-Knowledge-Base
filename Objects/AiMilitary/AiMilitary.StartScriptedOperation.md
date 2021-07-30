@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: AiMilitary
+methodname: StartScriptedOperation
+returns: []
+script: false
+tags:
+- AiMilitary/_function
+- function/UI
+---
 # AiMilitary:StartScriptedOperation
 > this function is a member of [[AiMilitary]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> AiMilitary:StartScriptedOperation()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||AiMilitary:StartScriptedOperation||

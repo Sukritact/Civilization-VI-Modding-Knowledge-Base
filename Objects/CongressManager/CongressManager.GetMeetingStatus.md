@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: CongressManager
+methodname: GetMeetingStatus
+returns: []
+script: true
+tags:
+- CongressManager/_function
+- function/script
+---
 # CongressManager:GetMeetingStatus
 > this function is a member of [[CongressManager]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CongressManager:GetMeetingStatus()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CongressManager:GetMeetingStatus||

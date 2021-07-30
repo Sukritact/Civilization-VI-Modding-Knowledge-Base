@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: CreateDistrict
+returns: []
+script: false
+tags:
+- City/CityBuildQueue/_function
+- function/UI
+---
 # CityBuildQueue:CreateDistrict
 > this function is a member of [[CityBuildQueue]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityBuildQueue:CreateDistrict()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||CityBuildQueue:CreateDistrict||

@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: RiverManager
+methodname: GetNumRivers
+returns: []
+script: true
+tags:
+- RiverManager/_function
+- function/UI
+- function/script
+---
 # RiverManager.GetNumRivers
 > this function is a member of [[RiverManager]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> RiverManager.GetNumRivers()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||RiverManager.GetNumRivers||

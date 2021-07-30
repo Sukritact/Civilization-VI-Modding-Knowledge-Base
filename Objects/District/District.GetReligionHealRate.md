@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: District
+methodname: GetReligionHealRate
+returns: []
+script: true
+tags:
+- District/_function
+- function/script
+---
 # District:GetReligionHealRate
 > this function is a member of [[District]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> District:GetReligionHealRate()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||District:GetReligionHealRate||

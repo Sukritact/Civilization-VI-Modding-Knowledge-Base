@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetMaxLoyalty
+returns: []
+script: true
+tags:
+- City/CityCulturalIdentity/_function
+- function/script
+---
 # CityCulturalIdentity:GetMaxLoyalty
 > this function is a member of [[CityCulturalIdentity]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityCulturalIdentity:GetMaxLoyalty()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityCulturalIdentity:GetMaxLoyalty||

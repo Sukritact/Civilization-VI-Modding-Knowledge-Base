@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: .
+memberOf: GameConfiguration
+methodname: GetInUsePlayerIDs
+returns: []
+script: true
+tags:
+- GameConfiguration/_function
+- function/script
+---
 # GameConfiguration.GetInUsePlayerIDs
 > this function is a member of [[GameConfiguration]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> GameConfiguration.GetInUsePlayerIDs()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||GameConfiguration.GetInUsePlayerIDs||

@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: GameClimate
+methodname: GetActiveStormPlotsByIndex
+returns: []
+script: true
+tags:
+- GameClimate/_function
+- function/UI
+- function/script
+---
 # GameClimate.GetActiveStormPlotsByIndex
 > this function is a member of [[GameClimate]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> GameClimate.GetActiveStormPlotsByIndex()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||GameClimate.GetActiveStormPlotsByIndex||

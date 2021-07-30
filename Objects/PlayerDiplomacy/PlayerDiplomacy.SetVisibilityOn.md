@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: PlayerDiplomacy
+methodname: SetVisibilityOn
+returns: []
+script: false
+tags:
+- PlayerDiplomacy/_function
+- function/UI
+---
 # PlayerDiplomacy:SetVisibilityOn
 > this function is a member of [[PlayerDiplomacy]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerDiplomacy:SetVisibilityOn()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerDiplomacy:SetVisibilityOn||

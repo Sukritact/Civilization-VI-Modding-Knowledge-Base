@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: TeamDiplomacy
+methodname: ComputeResearchAgreementTurns
+returns: []
+script: true
+tags:
+- TeamDiplomacy/_function
+- function/script
+---
 # TeamDiplomacy:ComputeResearchAgreementTurns
 > this function is a member of [[TeamDiplomacy]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> TeamDiplomacy:ComputeResearchAgreementTurns()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||TeamDiplomacy:ComputeResearchAgreementTurns||

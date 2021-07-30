@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: GameClimate
+methodname: GetActiveDroughtByIndex
+returns: []
+script: true
+tags:
+- GameClimate/_function
+- function/UI
+- function/script
+---
 # GameClimate.GetActiveDroughtByIndex
 > this function is a member of [[GameClimate]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> GameClimate.GetActiveDroughtByIndex()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||GameClimate.GetActiveDroughtByIndex||

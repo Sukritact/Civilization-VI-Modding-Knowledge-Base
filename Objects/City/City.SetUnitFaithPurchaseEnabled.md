@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: SetUnitFaithPurchaseEnabled
+returns: []
+script: false
+tags:
+- City/_function
+- function/UI
+---
 # City:SetUnitFaithPurchaseEnabled
 > this function is a member of [[City]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> City:SetUnitFaithPurchaseEnabled()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||City:SetUnitFaithPurchaseEnabled||

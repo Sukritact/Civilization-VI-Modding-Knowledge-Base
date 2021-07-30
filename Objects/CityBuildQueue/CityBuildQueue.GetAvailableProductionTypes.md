@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetAvailableProductionTypes
+returns: []
+script: false
+tags:
+- City/CityBuildQueue/_function
+- function/UI
+---
 # CityBuildQueue:GetAvailableProductionTypes
 > this function is a member of [[CityBuildQueue]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityBuildQueue:GetAvailableProductionTypes()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||CityBuildQueue:GetAvailableProductionTypes||

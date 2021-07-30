@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: PlayerDiplomacy
+methodname: IsAtWarWithHumans
+returns: []
+script: false
+tags:
+- PlayerDiplomacy/_function
+- function/UI
+---
 # PlayerDiplomacy:IsAtWarWithHumans
 > this function is a member of [[PlayerDiplomacy]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerDiplomacy:IsAtWarWithHumans()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerDiplomacy:IsAtWarWithHumans||

@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: CityPlots
+methodname: GetWorkingCityID
+returns: []
+script: true
+tags:
+- CityPlots/_function
+- function/script
+---
 # CityPlots:GetWorkingCityID
 > this function is a member of [[CityPlots]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityPlots:GetWorkingCityID()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityPlots:GetWorkingCityID||

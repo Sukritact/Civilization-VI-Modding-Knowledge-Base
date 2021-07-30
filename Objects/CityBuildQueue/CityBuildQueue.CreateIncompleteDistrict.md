@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: CreateIncompleteDistrict
+returns: []
+script: false
+tags:
+- City/CityBuildQueue/_function
+- function/UI
+---
 # CityBuildQueue:CreateIncompleteDistrict
 > this function is a member of [[CityBuildQueue]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityBuildQueue:CreateIncompleteDistrict()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||CityBuildQueue:CreateIncompleteDistrict||

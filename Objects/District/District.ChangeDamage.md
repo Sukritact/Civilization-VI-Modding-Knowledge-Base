@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: District
+methodname: ChangeDamage
+returns: []
+script: false
+tags:
+- District/_function
+- function/UI
+---
 # District:ChangeDamage
 > this function is a member of [[District]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> District:ChangeDamage()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||District:ChangeDamage||

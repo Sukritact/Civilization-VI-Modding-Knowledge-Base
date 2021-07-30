@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: .
+memberOf: UnitManager
+methodname: GetReachableZonesOfControl
+returns: []
+script: true
+tags:
+- UnitManager/_function
+- function/script
+---
 # UnitManager.GetReachableZonesOfControl
 > this function is a member of [[UnitManager]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> UnitManager.GetReachableZonesOfControl()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||UnitManager.GetReachableZonesOfControl||

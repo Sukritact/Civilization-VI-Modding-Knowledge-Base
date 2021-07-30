@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: CreateIncompleteBuilding
+returns: []
+script: false
+tags:
+- City/CityBuildQueue/_function
+- function/UI
+---
 # CityBuildQueue:CreateIncompleteBuilding
 > this function is a member of [[CityBuildQueue]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityBuildQueue:CreateIncompleteBuilding()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||CityBuildQueue:CreateIncompleteBuilding||

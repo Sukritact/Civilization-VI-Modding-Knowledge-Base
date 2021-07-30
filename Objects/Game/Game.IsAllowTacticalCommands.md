@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: Game
+methodname: IsAllowTacticalCommands
+returns: []
+script: true
+tags:
+- Game/_function
+- function/UI
+- function/script
+---
 # Game.IsAllowTacticalCommands
 > this function is a member of [[Game]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> Game.IsAllowTacticalCommands()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||Game.IsAllowTacticalCommands||

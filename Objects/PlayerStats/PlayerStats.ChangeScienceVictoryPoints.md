@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: ChangeScienceVictoryPoints
+returns: []
+script: false
+tags:
+- Player/PlayerStats/_function
+- function/UI
+---
 # PlayerStats:ChangeScienceVictoryPoints
 > this function is a member of [[PlayerStats]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerStats:ChangeScienceVictoryPoints()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerStats:ChangeScienceVictoryPoints||

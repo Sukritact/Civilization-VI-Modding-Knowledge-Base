@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: .
+memberOf: GameConfiguration
+methodname: SetToDefaultGameName
+returns: []
+script: true
+tags:
+- GameConfiguration/_function
+- function/script
+---
 # GameConfiguration.SetToDefaultGameName
 > this function is a member of [[GameConfiguration]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> GameConfiguration.SetToDefaultGameName()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||GameConfiguration.SetToDefaultGameName||

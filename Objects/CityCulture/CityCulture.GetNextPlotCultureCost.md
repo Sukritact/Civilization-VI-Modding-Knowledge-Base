@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetNextPlotCultureCost
+returns: []
+script: true
+tags:
+- City/CityCulture/_function
+- function/script
+---
 # CityCulture:GetNextPlotCultureCost
 > this function is a member of [[CityCulture]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityCulture:GetNextPlotCultureCost()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityCulture:GetNextPlotCultureCost||

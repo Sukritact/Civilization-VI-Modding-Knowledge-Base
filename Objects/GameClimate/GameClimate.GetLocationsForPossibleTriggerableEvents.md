@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: .
+memberOf: GameClimate
+methodname: GetLocationsForPossibleTriggerableEvents
+returns: []
+script: true
+tags:
+- GameClimate/_function
+- function/UI
+- function/script
+---
 # GameClimate.GetLocationsForPossibleTriggerableEvents
 > this function is a member of [[GameClimate]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> GameClimate.GetLocationsForPossibleTriggerableEvents()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||GameClimate.GetLocationsForPossibleTriggerableEvents||

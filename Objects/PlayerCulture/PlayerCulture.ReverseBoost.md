@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: ReverseBoost
+returns: []
+script: false
+tags:
+- Player/PlayerCulture/_function
+- function/UI
+---
 # PlayerCulture:ReverseBoost
 > this function is a member of [[PlayerCulture]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerCulture:ReverseBoost()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerCulture:ReverseBoost||

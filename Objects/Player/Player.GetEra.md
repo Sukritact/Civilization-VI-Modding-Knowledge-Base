@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: GetEra
+returns: []
+script: true
+tags:
+- Player/_function
+- function/UI
+- function/script
+---
 # Player:GetEra
 > this function is a member of [[Player]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Player:GetEra()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||Player:GetEra||

@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Game
+methodname: AddBuilding
+returns: []
+script: false
+tags:
+- Game/GameReligion/_function
+- function/UI
+---
 # GameReligion:AddBuilding
 > this function is a member of [[GameReligion]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> GameReligion:AddBuilding()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||GameReligion:AddBuilding||

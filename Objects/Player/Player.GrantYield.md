@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: GrantYield
+returns: []
+script: false
+tags:
+- Player/_function
+- function/UI
+---
 # Player:GrantYield
 > this function is a member of [[Player]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Player:GrantYield()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||Player:GrantYield||

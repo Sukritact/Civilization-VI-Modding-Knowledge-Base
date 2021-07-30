@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: CalculatePointsPerTurn
+returns: []
+script: false
+tags:
+- Player/PlayerGreatPeoplePoints/_function
+- function/UI
+---
 # PlayerGreatPeoplePoints:CalculatePointsPerTurn
 > this function is a member of [[PlayerGreatPeoplePoints]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerGreatPeoplePoints:CalculatePointsPerTurn()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerGreatPeoplePoints:CalculatePointsPerTurn||

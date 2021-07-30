@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: .
+memberOf: GameConfiguration
+methodname: GetHiddenPlayerCount
+returns: []
+script: true
+tags:
+- GameConfiguration/_function
+- function/script
+---
 # GameConfiguration.GetHiddenPlayerCount
 > this function is a member of [[GameConfiguration]]
 > this method can be invoked with `.`
 -----
 ## Usage
-> GameConfiguration.GetHiddenPlayerCount()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||GameConfiguration.GetHiddenPlayerCount||

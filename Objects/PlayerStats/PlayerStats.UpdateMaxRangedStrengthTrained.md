@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: UpdateMaxRangedStrengthTrained
+returns: []
+script: false
+tags:
+- Player/PlayerStats/_function
+- function/UI
+---
 # PlayerStats:UpdateMaxRangedStrengthTrained
 > this function is a member of [[PlayerStats]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerStats:UpdateMaxRangedStrengthTrained()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerStats:UpdateMaxRangedStrengthTrained||

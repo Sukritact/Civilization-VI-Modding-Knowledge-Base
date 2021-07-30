@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: GetTurnsUntilDominant
+returns: []
+script: true
+tags:
+- Player/PlayerCulture/_function
+- function/script
+---
 # PlayerCulture:GetTurnsUntilDominant
 > this function is a member of [[PlayerCulture]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerCulture:GetTurnsUntilDominant()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||PlayerCulture:GetTurnsUntilDominant||

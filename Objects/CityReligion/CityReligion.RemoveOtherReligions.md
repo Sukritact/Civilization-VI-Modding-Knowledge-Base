@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: RemoveOtherReligions
+returns: []
+script: false
+tags:
+- City/CityReligion/_function
+- function/UI
+---
 # CityReligion:RemoveOtherReligions
 > this function is a member of [[CityReligion]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityReligion:RemoveOtherReligions()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||CityReligion:RemoveOtherReligions||

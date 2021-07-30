@@ -1,6 +1,20 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: City
+methodname: GetCreatorNameFromIndex
+returns: []
+script: true
+tags:
+- City/CityBuildings/_function
+- function/script
+---
 # CityBuildings:GetCreatorNameFromIndex
 > this function is a member of [[CityBuildings]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> CityBuildings:GetCreatorNameFromIndex()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||CityBuildings:GetCreatorNameFromIndex||

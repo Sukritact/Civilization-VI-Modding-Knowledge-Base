@@ -1,6 +1,21 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: IsMajor
+returns: []
+script: true
+tags:
+- Player/_function
+- function/UI
+- function/script
+---
 # Player:IsMajor
 > this function is a member of [[Player]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> Player:IsMajor()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓|✓||Player:IsMajor||

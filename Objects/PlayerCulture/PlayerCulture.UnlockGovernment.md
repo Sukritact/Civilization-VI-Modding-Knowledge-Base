@@ -1,6 +1,20 @@
+---
+UI: true
+arguments: []
+invoke: ':'
+memberOf: Player
+methodname: UnlockGovernment
+returns: []
+script: false
+tags:
+- Player/PlayerCulture/_function
+- function/UI
+---
 # PlayerCulture:UnlockGovernment
 > this function is a member of [[PlayerCulture]]
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
-> PlayerCulture:UnlockGovernment()
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+|✓| ||PlayerCulture:UnlockGovernment||
