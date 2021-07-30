@@ -26,2137 +26,2137 @@
     "GameEvents": {
         "file": {
             "name": "GameEvents.md",
-            "folder": "../Event Objects",
-            "path": "../Event Objects/GameEvents.md",
+            "folder": "../EventObjects",
+            "path": "../EventObjects/GameEvents.md",
             "link": "GameEvents"
         }
     },
     "Events": {
         "file": {
             "name": "Events.md",
-            "folder": "../Event Objects",
-            "path": "../Event Objects/Events.md",
+            "folder": "../EventObjects",
+            "path": "../EventObjects/Events.md",
             "link": "Events"
         }
     },
-    "GovernorEstablished": {
+    "Events.BuildingAddedToMap": {
         "file": {
-            "name": "GovernorEstablished.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernorEstablished.md",
-            "link": "GovernorEstablished"
+            "name": "Events.BuildingAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BuildingAddedToMap.md",
+            "link": "Events.BuildingAddedToMap"
         }
     },
-    "ResourceVisibilityChanged": {
+    "Events.PlotYieldChanged": {
         "file": {
-            "name": "ResourceVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ResourceVisibilityChanged.md",
-            "link": "ResourceVisibilityChanged"
+            "name": "Events.PlotYieldChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlotYieldChanged.md",
+            "link": "Events.PlotYieldChanged"
         }
     },
-    "SpyRemoved": {
+    "Events.UnitMoveComplete": {
         "file": {
-            "name": "SpyRemoved.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/SpyRemoved.md",
-            "link": "SpyRemoved"
+            "name": "Events.UnitMoveComplete.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitMoveComplete.md",
+            "link": "Events.UnitMoveComplete"
         }
     },
-    "UnitVisibilityChanged": {
+    "Events.UnitGreatPersonActivated": {
         "file": {
-            "name": "UnitVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitVisibilityChanged.md",
-            "link": "UnitVisibilityChanged"
+            "name": "Events.UnitGreatPersonActivated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitGreatPersonActivated.md",
+            "link": "Events.UnitGreatPersonActivated"
         }
     },
-    "UnitGreatPersonActivated": {
+    "Events.CityReligionChanged": {
         "file": {
-            "name": "UnitGreatPersonActivated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitGreatPersonActivated.md",
-            "link": "UnitGreatPersonActivated"
+            "name": "Events.CityReligionChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityReligionChanged.md",
+            "link": "Events.CityReligionChanged"
         }
     },
-    "ImprovementVisibilityChanged": {
+    "Events.UnitDamageChanged": {
         "file": {
-            "name": "ImprovementVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ImprovementVisibilityChanged.md",
-            "link": "ImprovementVisibilityChanged"
+            "name": "Events.UnitDamageChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitDamageChanged.md",
+            "link": "Events.UnitDamageChanged"
         }
     },
-    "DiplomacyStatement": {
+    "Events.SpyUpdated": {
         "file": {
-            "name": "DiplomacyStatement.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyStatement.md",
-            "link": "DiplomacyStatement"
+            "name": "Events.SpyUpdated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.SpyUpdated.md",
+            "link": "Events.SpyUpdated"
         }
     },
-    "DistrictRemovedFromMap": {
+    "Events.GoodyHutReward": {
         "file": {
-            "name": "DistrictRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictRemovedFromMap.md",
-            "link": "DistrictRemovedFromMap"
+            "name": "Events.GoodyHutReward.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GoodyHutReward.md",
+            "link": "Events.GoodyHutReward"
         }
     },
-    "PhaseBegin": {
+    "Events.NationalParkAdded": {
         "file": {
-            "name": "PhaseBegin.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PhaseBegin.md",
-            "link": "PhaseBegin"
+            "name": "Events.NationalParkAdded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.NationalParkAdded.md",
+            "link": "Events.NationalParkAdded"
         }
     },
-    "CivicsUnlocked": {
+    "Events.ResourceChanged": {
         "file": {
-            "name": "CivicsUnlocked.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CivicsUnlocked.md",
-            "link": "CivicsUnlocked"
+            "name": "Events.ResourceChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ResourceChanged.md",
+            "link": "Events.ResourceChanged"
         }
     },
-    "PlayerRevived": {
+    "Events.EmergencyStarted": {
         "file": {
-            "name": "PlayerRevived.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerRevived.md",
-            "link": "PlayerRevived"
+            "name": "Events.EmergencyStarted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EmergencyStarted.md",
+            "link": "Events.EmergencyStarted"
         }
     },
-    "CivicBoostTriggered": {
+    "Events.CapitalCityChanged": {
         "file": {
-            "name": "CivicBoostTriggered.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CivicBoostTriggered.md",
-            "link": "CivicBoostTriggered"
+            "name": "Events.CapitalCityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CapitalCityChanged.md",
+            "link": "Events.CapitalCityChanged"
         }
     },
-    "PlayerVictory": {
+    "Events.GreatPeoplePointsChanged": {
         "file": {
-            "name": "PlayerVictory.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerVictory.md",
-            "link": "PlayerVictory"
+            "name": "Events.GreatPeoplePointsChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GreatPeoplePointsChanged.md",
+            "link": "Events.GreatPeoplePointsChanged"
         }
     },
-    "ResourceRemovedFromMap": {
+    "Events.UnitOperationSegmentComplete": {
         "file": {
-            "name": "ResourceRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ResourceRemovedFromMap.md",
-            "link": "ResourceRemovedFromMap"
+            "name": "Events.UnitOperationSegmentComplete.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitOperationSegmentComplete.md",
+            "link": "Events.UnitOperationSegmentComplete"
         }
     },
-    "GameHistoryMomentRecorded": {
+    "Events.CityProductionCompleted": {
         "file": {
-            "name": "GameHistoryMomentRecorded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GameHistoryMomentRecorded.md",
-            "link": "GameHistoryMomentRecorded"
+            "name": "Events.CityProductionCompleted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityProductionCompleted.md",
+            "link": "Events.CityProductionCompleted"
         }
     },
-    "TradeRouteAddedToMap": {
+    "Events.WonderCompleted": {
         "file": {
-            "name": "TradeRouteAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TradeRouteAddedToMap.md",
-            "link": "TradeRouteAddedToMap"
+            "name": "Events.WonderCompleted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.WonderCompleted.md",
+            "link": "Events.WonderCompleted"
         }
     },
-    "UnitOperationStarted": {
+    "Events.EventSoundRequest": {
         "file": {
-            "name": "UnitOperationStarted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitOperationStarted.md",
-            "link": "UnitOperationStarted"
+            "name": "Events.EventSoundRequest.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EventSoundRequest.md",
+            "link": "Events.EventSoundRequest"
         }
     },
-    "WorldTextMessage": {
+    "Events.FeatureAddedToMap": {
         "file": {
-            "name": "WorldTextMessage.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/WorldTextMessage.md",
-            "link": "WorldTextMessage"
+            "name": "Events.FeatureAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.FeatureAddedToMap.md",
+            "link": "Events.FeatureAddedToMap"
         }
     },
-    "UnitEnterFormation": {
+    "Events.DiplomacyDealEnacted": {
         "file": {
-            "name": "UnitEnterFormation.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitEnterFormation.md",
-            "link": "UnitEnterFormation"
+            "name": "Events.DiplomacyDealEnacted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyDealEnacted.md",
+            "link": "Events.DiplomacyDealEnacted"
         }
     },
-    "TradeRouteRangeChanged": {
+    "Events.FeatureChanged": {
         "file": {
-            "name": "TradeRouteRangeChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TradeRouteRangeChanged.md",
-            "link": "TradeRouteRangeChanged"
+            "name": "Events.FeatureChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.FeatureChanged.md",
+            "link": "Events.FeatureChanged"
         }
     },
-    "UnitActivityChanged": {
+    "Events.EmergencyAvailableParticipant": {
         "file": {
-            "name": "UnitActivityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitActivityChanged.md",
-            "link": "UnitActivityChanged"
+            "name": "Events.EmergencyAvailableParticipant.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EmergencyAvailableParticipant.md",
+            "link": "Events.EmergencyAvailableParticipant"
         }
     },
-    "ResearchQueueChanged": {
+    "Events.CameraUpdated": {
         "file": {
-            "name": "ResearchQueueChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ResearchQueueChanged.md",
-            "link": "ResearchQueueChanged"
+            "name": "Events.CameraUpdated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CameraUpdated.md",
+            "link": "Events.CameraUpdated"
         }
     },
-    "GovernmentPolicyChanged": {
+    "Events.TreasuryChanged": {
         "file": {
-            "name": "GovernmentPolicyChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernmentPolicyChanged.md",
-            "link": "GovernmentPolicyChanged"
+            "name": "Events.TreasuryChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TreasuryChanged.md",
+            "link": "Events.TreasuryChanged"
         }
     },
-    "CityReligionChanged": {
+    "Events.WorldTextMessage": {
         "file": {
-            "name": "CityReligionChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityReligionChanged.md",
-            "link": "CityReligionChanged"
+            "name": "Events.WorldTextMessage.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.WorldTextMessage.md",
+            "link": "Events.WorldTextMessage"
         }
     },
-    "DiplomacyIncomingDeal": {
+    "Events.DistrictDamageChanged": {
         "file": {
-            "name": "DiplomacyIncomingDeal.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyIncomingDeal.md",
-            "link": "DiplomacyIncomingDeal"
+            "name": "Events.DistrictDamageChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictDamageChanged.md",
+            "link": "Events.DistrictDamageChanged"
         }
     },
-    "PlayerTurnDeactivated": {
+    "Events.CityNameChanged": {
         "file": {
-            "name": "PlayerTurnDeactivated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerTurnDeactivated.md",
-            "link": "PlayerTurnDeactivated"
+            "name": "Events.CityNameChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityNameChanged.md",
+            "link": "Events.CityNameChanged"
         }
     },
-    "WMDCountChanged": {
+    "Events.TradeRouteAddedToMap": {
         "file": {
-            "name": "WMDCountChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/WMDCountChanged.md",
-            "link": "WMDCountChanged"
+            "name": "Events.TradeRouteAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TradeRouteAddedToMap.md",
+            "link": "Events.TradeRouteAddedToMap"
         }
     },
-    "CityMadePurchase": {
+    "Events.TechBoostTriggered": {
         "file": {
-            "name": "CityMadePurchase.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityMadePurchase.md",
-            "link": "CityMadePurchase"
+            "name": "Events.TechBoostTriggered.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TechBoostTriggered.md",
+            "link": "Events.TechBoostTriggered"
         }
     },
-    "FeatureAddedToMap": {
+    "Events.CulturalIdentityCityConverted": {
         "file": {
-            "name": "FeatureAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/FeatureAddedToMap.md",
-            "link": "FeatureAddedToMap"
+            "name": "Events.CulturalIdentityCityConverted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CulturalIdentityCityConverted.md",
+            "link": "Events.CulturalIdentityCityConverted"
         }
     },
-    "UnitFortificationChanged": {
+    "Events.RiverRemovedFromMap": {
         "file": {
-            "name": "UnitFortificationChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitFortificationChanged.md",
-            "link": "UnitFortificationChanged"
+            "name": "Events.RiverRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RiverRemovedFromMap.md",
+            "link": "Events.RiverRemovedFromMap"
         }
     },
-    "CliffAddedToMap": {
+    "Events.UnitFortificationChanged": {
         "file": {
-            "name": "CliffAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CliffAddedToMap.md",
-            "link": "CliffAddedToMap"
+            "name": "Events.UnitFortificationChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitFortificationChanged.md",
+            "link": "Events.UnitFortificationChanged"
         }
     },
-    "PantheonFounded": {
+    "Events.UnitActivityChanged": {
         "file": {
-            "name": "PantheonFounded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PantheonFounded.md",
-            "link": "PantheonFounded"
+            "name": "Events.UnitActivityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitActivityChanged.md",
+            "link": "Events.UnitActivityChanged"
         }
     },
-    "PlayerAgeChanged": {
+    "Events.TurnEnd": {
         "file": {
-            "name": "PlayerAgeChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerAgeChanged.md",
-            "link": "PlayerAgeChanged"
+            "name": "Events.TurnEnd.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TurnEnd.md",
+            "link": "Events.TurnEnd"
         }
     },
-    "DistrictDamageChanged": {
+    "Events.CitySiegeStatusChanged": {
         "file": {
-            "name": "DistrictDamageChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictDamageChanged.md",
-            "link": "DistrictDamageChanged"
+            "name": "Events.CitySiegeStatusChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CitySiegeStatusChanged.md",
+            "link": "Events.CitySiegeStatusChanged"
         }
     },
-    "GovernorAssigned": {
+    "Events.DiplomacyRefusePeace": {
         "file": {
-            "name": "GovernorAssigned.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernorAssigned.md",
-            "link": "GovernorAssigned"
+            "name": "Events.DiplomacyRefusePeace.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyRefusePeace.md",
+            "link": "Events.DiplomacyRefusePeace"
         }
     },
-    "TechBoostTriggered": {
+    "Events.EventPopupRequest": {
         "file": {
-            "name": "TechBoostTriggered.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TechBoostTriggered.md",
-            "link": "TechBoostTriggered"
+            "name": "Events.EventPopupRequest.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EventPopupRequest.md",
+            "link": "Events.EventPopupRequest"
         }
     },
-    "TeamVictory": {
+    "Events.BeliefAdded": {
         "file": {
-            "name": "TeamVictory.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TeamVictory.md",
-            "link": "TeamVictory"
+            "name": "Events.BeliefAdded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BeliefAdded.md",
+            "link": "Events.BeliefAdded"
         }
     },
-    "CultureChanged": {
+    "Events.DistrictBuildProgressChanged": {
         "file": {
-            "name": "CultureChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CultureChanged.md",
-            "link": "CultureChanged"
+            "name": "Events.DistrictBuildProgressChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictBuildProgressChanged.md",
+            "link": "Events.DistrictBuildProgressChanged"
         }
     },
-    "ImprovementChanged": {
+    "Events.UnitFormationChanged": {
         "file": {
-            "name": "ImprovementChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ImprovementChanged.md",
-            "link": "ImprovementChanged"
+            "name": "Events.UnitFormationChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitFormationChanged.md",
+            "link": "Events.UnitFormationChanged"
         }
     },
-    "NotificationActivated": {
+    "Events.TradeRouteRangeChanged": {
         "file": {
-            "name": "NotificationActivated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/NotificationActivated.md",
-            "link": "NotificationActivated"
+            "name": "Events.TradeRouteRangeChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TradeRouteRangeChanged.md",
+            "link": "Events.TradeRouteRangeChanged"
         }
     },
-    "PlayerOperationComplete": {
+    "Events.WMDFalloutChanged": {
         "file": {
-            "name": "PlayerOperationComplete.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerOperationComplete.md",
-            "link": "PlayerOperationComplete"
+            "name": "Events.WMDFalloutChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.WMDFalloutChanged.md",
+            "link": "Events.WMDFalloutChanged"
         }
     },
-    "CityLiberated": {
+    "Events.NationalParkVisibilityChanged": {
         "file": {
-            "name": "CityLiberated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityLiberated.md",
-            "link": "CityLiberated"
+            "name": "Events.NationalParkVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.NationalParkVisibilityChanged.md",
+            "link": "Events.NationalParkVisibilityChanged"
         }
     },
-    "UnitMoveComplete": {
+    "Events.FaithChanged": {
         "file": {
-            "name": "UnitMoveComplete.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitMoveComplete.md",
-            "link": "UnitMoveComplete"
+            "name": "Events.FaithChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.FaithChanged.md",
+            "link": "Events.FaithChanged"
         }
     },
-    "PlotYieldChanged": {
+    "Events.DistrictCombatChanged": {
         "file": {
-            "name": "PlotYieldChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlotYieldChanged.md",
-            "link": "PlotYieldChanged"
+            "name": "Events.DistrictCombatChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictCombatChanged.md",
+            "link": "Events.DistrictCombatChanged"
         }
     },
-    "GreatWorkMoved": {
+    "Events.GovernorPointsChanged": {
         "file": {
-            "name": "GreatWorkMoved.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GreatWorkMoved.md",
-            "link": "GreatWorkMoved"
+            "name": "Events.GovernorPointsChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernorPointsChanged.md",
+            "link": "Events.GovernorPointsChanged"
         }
     },
-    "TurnEnd": {
+    "Events.CityProductionChanged": {
         "file": {
-            "name": "TurnEnd.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TurnEnd.md",
-            "link": "TurnEnd"
+            "name": "Events.CityProductionChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityProductionChanged.md",
+            "link": "Events.CityProductionChanged"
         }
     },
-    "CityInitialized": {
+    "Events.TradeRouteCapacityChanged": {
         "file": {
-            "name": "CityInitialized.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityInitialized.md",
-            "link": "CityInitialized"
+            "name": "Events.TradeRouteCapacityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TradeRouteCapacityChanged.md",
+            "link": "Events.TradeRouteCapacityChanged"
         }
     },
-    "CultureYieldChanged": {
+    "Events.EmergencyCompleteParticipants": {
         "file": {
-            "name": "CultureYieldChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CultureYieldChanged.md",
-            "link": "CultureYieldChanged"
+            "name": "Events.EmergencyCompleteParticipants.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EmergencyCompleteParticipants.md",
+            "link": "Events.EmergencyCompleteParticipants"
         }
     },
-    "UnitFormArmy": {
+    "Events.AllianceAvailable": {
         "file": {
-            "name": "UnitFormArmy.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitFormArmy.md",
-            "link": "UnitFormArmy"
+            "name": "Events.AllianceAvailable.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.AllianceAvailable.md",
+            "link": "Events.AllianceAvailable"
         }
     },
-    "StatusMessage": {
+    "Events.BarbarianRaidStarted": {
         "file": {
-            "name": "StatusMessage.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/StatusMessage.md",
-            "link": "StatusMessage"
+            "name": "Events.BarbarianRaidStarted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BarbarianRaidStarted.md",
+            "link": "Events.BarbarianRaidStarted"
         }
     },
-    "TradeRouteRemovedFromMap": {
+    "Events.InfluenceGiven": {
         "file": {
-            "name": "TradeRouteRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TradeRouteRemovedFromMap.md",
-            "link": "TradeRouteRemovedFromMap"
+            "name": "Events.InfluenceGiven.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.InfluenceGiven.md",
+            "link": "Events.InfluenceGiven"
         }
     },
-    "DiplomacyMeetMajorMinor": {
+    "Events.BuildingChanged": {
         "file": {
-            "name": "DiplomacyMeetMajorMinor.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyMeetMajorMinor.md",
-            "link": "DiplomacyMeetMajorMinor"
+            "name": "Events.BuildingChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BuildingChanged.md",
+            "link": "Events.BuildingChanged"
         }
     },
-    "CivicQueueChanged": {
+    "Events.DistrictRemovedFromMap": {
         "file": {
-            "name": "CivicQueueChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CivicQueueChanged.md",
-            "link": "CivicQueueChanged"
+            "name": "Events.DistrictRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictRemovedFromMap.md",
+            "link": "Events.DistrictRemovedFromMap"
         }
     },
-    "EmergencyRejected": {
+    "Events.BuildingPillaged": {
         "file": {
-            "name": "EmergencyRejected.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EmergencyRejected.md",
-            "link": "EmergencyRejected"
+            "name": "Events.BuildingPillaged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BuildingPillaged.md",
+            "link": "Events.BuildingPillaged"
         }
     },
-    "CitySiegeStatusChanged": {
+    "Events.CityTileOwnershipChanged": {
         "file": {
-            "name": "CitySiegeStatusChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CitySiegeStatusChanged.md",
-            "link": "CitySiegeStatusChanged"
+            "name": "Events.CityTileOwnershipChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityTileOwnershipChanged.md",
+            "link": "Events.CityTileOwnershipChanged"
         }
     },
-    "CityRemovedFromMap": {
+    "Events.CityProductionUpdated": {
         "file": {
-            "name": "CityRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityRemovedFromMap.md",
-            "link": "CityRemovedFromMap"
+            "name": "Events.CityProductionUpdated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityProductionUpdated.md",
+            "link": "Events.CityProductionUpdated"
         }
     },
-    "UnitFormCorps": {
+    "Events.BuildingVisibilityChanged": {
         "file": {
-            "name": "UnitFormCorps.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitFormCorps.md",
-            "link": "UnitFormCorps"
+            "name": "Events.BuildingVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BuildingVisibilityChanged.md",
+            "link": "Events.BuildingVisibilityChanged"
         }
     },
-    "RemotePlayerTurnEnd": {
+    "Events.UnitPromotionAvailable": {
         "file": {
-            "name": "RemotePlayerTurnEnd.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RemotePlayerTurnEnd.md",
-            "link": "RemotePlayerTurnEnd"
+            "name": "Events.UnitPromotionAvailable.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitPromotionAvailable.md",
+            "link": "Events.UnitPromotionAvailable"
         }
     },
-    "ResearchChanged": {
+    "Events.CityAddedToMap": {
         "file": {
-            "name": "ResearchChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ResearchChanged.md",
-            "link": "ResearchChanged"
+            "name": "Events.CityAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityAddedToMap.md",
+            "link": "Events.CityAddedToMap"
         }
     },
-    "CameraUpdated": {
+    "Events.GreatWorkMoved": {
         "file": {
-            "name": "CameraUpdated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CameraUpdated.md",
-            "link": "CameraUpdated"
+            "name": "Events.GreatWorkMoved.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GreatWorkMoved.md",
+            "link": "Events.GreatWorkMoved"
         }
     },
-    "NaturalWonderRevealed": {
+    "Events.CityDefenseStatusChanged": {
         "file": {
-            "name": "NaturalWonderRevealed.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/NaturalWonderRevealed.md",
-            "link": "NaturalWonderRevealed"
+            "name": "Events.CityDefenseStatusChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityDefenseStatusChanged.md",
+            "link": "Events.CityDefenseStatusChanged"
         }
     },
-    "WMDFalloutChanged": {
+    "Events.DiplomacyDealExpired": {
         "file": {
-            "name": "WMDFalloutChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/WMDFalloutChanged.md",
-            "link": "WMDFalloutChanged"
+            "name": "Events.DiplomacyDealExpired.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyDealExpired.md",
+            "link": "Events.DiplomacyDealExpired"
         }
     },
-    "GovernorPromoted": {
+    "Events.NaturalWonderRevealed": {
         "file": {
-            "name": "GovernorPromoted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernorPromoted.md",
-            "link": "GovernorPromoted"
+            "name": "Events.NaturalWonderRevealed.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.NaturalWonderRevealed.md",
+            "link": "Events.NaturalWonderRevealed"
         }
     },
-    "BuildingAddedToMap": {
+    "Events.DiplomacyMeetMajors": {
         "file": {
-            "name": "BuildingAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BuildingAddedToMap.md",
-            "link": "BuildingAddedToMap"
+            "name": "Events.DiplomacyMeetMajors.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyMeetMajors.md",
+            "link": "Events.DiplomacyMeetMajors"
         }
     },
-    "DiplomacyMakePeace": {
+    "Events.CliffAddedToMap": {
         "file": {
-            "name": "DiplomacyMakePeace.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyMakePeace.md",
-            "link": "DiplomacyMakePeace"
+            "name": "Events.CliffAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CliffAddedToMap.md",
+            "link": "Events.CliffAddedToMap"
         }
     },
-    "BarbarianSpottedCity": {
+    "Events.CulturalIdentityConversionOutcomeChanged": {
         "file": {
-            "name": "BarbarianSpottedCity.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BarbarianSpottedCity.md",
-            "link": "BarbarianSpottedCity"
+            "name": "Events.CulturalIdentityConversionOutcomeChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CulturalIdentityConversionOutcomeChanged.md",
+            "link": "Events.CulturalIdentityConversionOutcomeChanged"
         }
     },
-    "UnitExperienceChanged": {
+    "Events.CityFocusChanged": {
         "file": {
-            "name": "UnitExperienceChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitExperienceChanged.md",
-            "link": "UnitExperienceChanged"
+            "name": "Events.CityFocusChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityFocusChanged.md",
+            "link": "Events.CityFocusChanged"
         }
     },
-    "TradeRouteCapacityChanged": {
+    "Events.Combat": {
         "file": {
-            "name": "TradeRouteCapacityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TradeRouteCapacityChanged.md",
-            "link": "TradeRouteCapacityChanged"
+            "name": "Events.Combat.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.Combat.md",
+            "link": "Events.Combat"
         }
     },
-    "GovernorChanged": {
+    "Events.RouteChanged": {
         "file": {
-            "name": "GovernorChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernorChanged.md",
-            "link": "GovernorChanged"
+            "name": "Events.RouteChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RouteChanged.md",
+            "link": "Events.RouteChanged"
         }
     },
-    "SpyMissionCompleted": {
+    "Events.DiplomacyRelationshipChanged": {
         "file": {
-            "name": "SpyMissionCompleted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/SpyMissionCompleted.md",
-            "link": "SpyMissionCompleted"
+            "name": "Events.DiplomacyRelationshipChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyRelationshipChanged.md",
+            "link": "Events.DiplomacyRelationshipChanged"
         }
     },
-    "EmergencyCompleted": {
+    "Events.GovernorAppointed": {
         "file": {
-            "name": "EmergencyCompleted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EmergencyCompleted.md",
-            "link": "EmergencyCompleted"
+            "name": "Events.GovernorAppointed.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernorAppointed.md",
+            "link": "Events.GovernorAppointed"
         }
     },
-    "DiplomacySessionClosed": {
+    "Events.TradeRouteActivityChanged": {
         "file": {
-            "name": "DiplomacySessionClosed.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacySessionClosed.md",
-            "link": "DiplomacySessionClosed"
+            "name": "Events.TradeRouteActivityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TradeRouteActivityChanged.md",
+            "link": "Events.TradeRouteActivityChanged"
         }
     },
-    "ResearchYieldChanged": {
+    "Events.BeginWonderReveal": {
         "file": {
-            "name": "ResearchYieldChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ResearchYieldChanged.md",
-            "link": "ResearchYieldChanged"
+            "name": "Events.BeginWonderReveal.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BeginWonderReveal.md",
+            "link": "Events.BeginWonderReveal"
         }
     },
-    "EmergencyCompleteParticipants": {
+    "Events.ImprovementAddedToMap": {
         "file": {
-            "name": "EmergencyCompleteParticipants.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EmergencyCompleteParticipants.md",
-            "link": "EmergencyCompleteParticipants"
+            "name": "Events.ImprovementAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ImprovementAddedToMap.md",
+            "link": "Events.ImprovementAddedToMap"
         }
     },
-    "CityPopulationChanged": {
+    "Events.UnitMovementPointsRestored": {
         "file": {
-            "name": "CityPopulationChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityPopulationChanged.md",
-            "link": "CityPopulationChanged"
+            "name": "Events.UnitMovementPointsRestored.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitMovementPointsRestored.md",
+            "link": "Events.UnitMovementPointsRestored"
         }
     },
-    "WMDFalloutVisibilityChanged": {
+    "Events.CityChanged": {
         "file": {
-            "name": "WMDFalloutVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/WMDFalloutVisibilityChanged.md",
-            "link": "WMDFalloutVisibilityChanged"
+            "name": "Events.CityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityChanged.md",
+            "link": "Events.CityChanged"
         }
     },
-    "EventPopupRequest": {
+    "Events.DiplomacyDeclareWar": {
         "file": {
-            "name": "EventPopupRequest.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EventPopupRequest.md",
-            "link": "EventPopupRequest"
+            "name": "Events.DiplomacyDeclareWar.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyDeclareWar.md",
+            "link": "Events.DiplomacyDeclareWar"
         }
     },
-    "NotificationDismissed": {
+    "Events.QuestChanged": {
         "file": {
-            "name": "NotificationDismissed.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/NotificationDismissed.md",
-            "link": "NotificationDismissed"
+            "name": "Events.QuestChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.QuestChanged.md",
+            "link": "Events.QuestChanged"
         }
     },
-    "CityProductionUpdated": {
+    "Events.CivicCompleted": {
         "file": {
-            "name": "CityProductionUpdated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityProductionUpdated.md",
-            "link": "CityProductionUpdated"
+            "name": "Events.CivicCompleted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CivicCompleted.md",
+            "link": "Events.CivicCompleted"
         }
     },
-    "EventSoundRequest": {
+    "Events.UnitTradeChanged": {
         "file": {
-            "name": "EventSoundRequest.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EventSoundRequest.md",
-            "link": "EventSoundRequest"
+            "name": "Events.UnitTradeChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitTradeChanged.md",
+            "link": "Events.UnitTradeChanged"
         }
     },
-    "DiplomacyDealExpired": {
+    "Events.CultureChanged": {
         "file": {
-            "name": "DiplomacyDealExpired.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyDealExpired.md",
-            "link": "DiplomacyDealExpired"
+            "name": "Events.CultureChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CultureChanged.md",
+            "link": "Events.CultureChanged"
         }
     },
-    "EmergencyAvailable": {
+    "Events.ResearchYieldChanged": {
         "file": {
-            "name": "EmergencyAvailable.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EmergencyAvailable.md",
-            "link": "EmergencyAvailable"
+            "name": "Events.ResearchYieldChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ResearchYieldChanged.md",
+            "link": "Events.ResearchYieldChanged"
         }
     },
-    "PlotAppealChanged": {
+    "Events.EndWonderReveal": {
         "file": {
-            "name": "PlotAppealChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlotAppealChanged.md",
-            "link": "PlotAppealChanged"
+            "name": "Events.EndWonderReveal.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EndWonderReveal.md",
+            "link": "Events.EndWonderReveal"
         }
     },
-    "UnitOperationAdded": {
+    "Events.DistrictUnitsChanged": {
         "file": {
-            "name": "UnitOperationAdded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitOperationAdded.md",
-            "link": "UnitOperationAdded"
+            "name": "Events.DistrictUnitsChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictUnitsChanged.md",
+            "link": "Events.DistrictUnitsChanged"
         }
     },
-    "CityOccupationChanged": {
+    "Events.GreatWorkCreated": {
         "file": {
-            "name": "CityOccupationChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityOccupationChanged.md",
-            "link": "CityOccupationChanged"
+            "name": "Events.GreatWorkCreated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GreatWorkCreated.md",
+            "link": "Events.GreatWorkCreated"
         }
     },
-    "DistrictBuildProgressChanged": {
+    "Events.CityWorkerChanged": {
         "file": {
-            "name": "DistrictBuildProgressChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictBuildProgressChanged.md",
-            "link": "DistrictBuildProgressChanged"
+            "name": "Events.CityWorkerChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityWorkerChanged.md",
+            "link": "Events.CityWorkerChanged"
         }
     },
-    "PlayerEraChanged": {
+    "Events.ResourceRemovedFromMap": {
         "file": {
-            "name": "PlayerEraChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerEraChanged.md",
-            "link": "PlayerEraChanged"
+            "name": "Events.ResourceRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ResourceRemovedFromMap.md",
+            "link": "Events.ResourceRemovedFromMap"
         }
     },
-    "PlotMarkerChanged": {
+    "Events.RemotePlayerTurnUnready": {
         "file": {
-            "name": "PlotMarkerChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlotMarkerChanged.md",
-            "link": "PlotMarkerChanged"
+            "name": "Events.RemotePlayerTurnUnready.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RemotePlayerTurnUnready.md",
+            "link": "Events.RemotePlayerTurnUnready"
         }
     },
-    "GreatWorkCreated": {
+    "Events.CityVisibilityChanged": {
         "file": {
-            "name": "GreatWorkCreated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GreatWorkCreated.md",
-            "link": "GreatWorkCreated"
+            "name": "Events.CityVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityVisibilityChanged.md",
+            "link": "Events.CityVisibilityChanged"
         }
     },
-    "RemotePlayerTurnUnready": {
+    "Events.BarbarianSpottedCity": {
         "file": {
-            "name": "RemotePlayerTurnUnready.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RemotePlayerTurnUnready.md",
-            "link": "RemotePlayerTurnUnready"
+            "name": "Events.BarbarianSpottedCity.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BarbarianSpottedCity.md",
+            "link": "Events.BarbarianSpottedCity"
         }
     },
-    "PlayerEraTransitionBegins": {
+    "Events.GreatPeopleTimelineChanged": {
         "file": {
-            "name": "PlayerEraTransitionBegins.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerEraTransitionBegins.md",
-            "link": "PlayerEraTransitionBegins"
+            "name": "Events.GreatPeopleTimelineChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GreatPeopleTimelineChanged.md",
+            "link": "Events.GreatPeopleTimelineChanged"
         }
     },
-    "CityVisibilityChanged": {
+    "Events.ImprovementChanged": {
         "file": {
-            "name": "CityVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityVisibilityChanged.md",
-            "link": "CityVisibilityChanged"
+            "name": "Events.ImprovementChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ImprovementChanged.md",
+            "link": "Events.ImprovementChanged"
         }
     },
-    "PlayerDestroyed": {
+    "Events.MapYieldsChanged": {
         "file": {
-            "name": "PlayerDestroyed.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerDestroyed.md",
-            "link": "PlayerDestroyed"
+            "name": "Events.MapYieldsChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.MapYieldsChanged.md",
+            "link": "Events.MapYieldsChanged"
         }
     },
-    "TreasuryChanged": {
+    "Events.CityTransfered": {
         "file": {
-            "name": "TreasuryChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TreasuryChanged.md",
-            "link": "TreasuryChanged"
+            "name": "Events.CityTransfered.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityTransfered.md",
+            "link": "Events.CityTransfered"
         }
     },
-    "UnitOperationDeactivated": {
+    "Events.CityOccupationChanged": {
         "file": {
-            "name": "UnitOperationDeactivated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitOperationDeactivated.md",
-            "link": "UnitOperationDeactivated"
+            "name": "Events.CityOccupationChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityOccupationChanged.md",
+            "link": "Events.CityOccupationChanged"
         }
     },
-    "TerrainTypeChanged": {
+    "Events.DiplomacyIncomingDeal": {
         "file": {
-            "name": "TerrainTypeChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TerrainTypeChanged.md",
-            "link": "TerrainTypeChanged"
+            "name": "Events.DiplomacyIncomingDeal.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyIncomingDeal.md",
+            "link": "Events.DiplomacyIncomingDeal"
         }
     },
-    "NotificationAdded": {
+    "Events.PlayerAgeChanged": {
         "file": {
-            "name": "NotificationAdded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/NotificationAdded.md",
-            "link": "NotificationAdded"
+            "name": "Events.PlayerAgeChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerAgeChanged.md",
+            "link": "Events.PlayerAgeChanged"
         }
     },
-    "CityUnitsChanged": {
+    "Events.CultureYieldChanged": {
         "file": {
-            "name": "CityUnitsChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityUnitsChanged.md",
-            "link": "CityUnitsChanged"
+            "name": "Events.CultureYieldChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CultureYieldChanged.md",
+            "link": "Events.CultureYieldChanged"
         }
     },
-    "UnitMovementPointsChanged": {
+    "Events.ResourceVisibilityChanged": {
         "file": {
-            "name": "UnitMovementPointsChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitMovementPointsChanged.md",
-            "link": "UnitMovementPointsChanged"
+            "name": "Events.ResourceVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ResourceVisibilityChanged.md",
+            "link": "Events.ResourceVisibilityChanged"
         }
     },
-    "DistrictVisibilityChanged": {
+    "Events.DistrictAddedToMap": {
         "file": {
-            "name": "DistrictVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictVisibilityChanged.md",
-            "link": "DistrictVisibilityChanged"
+            "name": "Events.DistrictAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictAddedToMap.md",
+            "link": "Events.DistrictAddedToMap"
         }
     },
-    "DiplomacyMeetMajors": {
+    "Events.ImprovementOwnershipChanged": {
         "file": {
-            "name": "DiplomacyMeetMajors.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyMeetMajors.md",
-            "link": "DiplomacyMeetMajors"
+            "name": "Events.ImprovementOwnershipChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ImprovementOwnershipChanged.md",
+            "link": "Events.ImprovementOwnershipChanged"
         }
     },
-    "CityWorkerChanged": {
+    "Events.EmergenciesUpdated": {
         "file": {
-            "name": "CityWorkerChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityWorkerChanged.md",
-            "link": "CityWorkerChanged"
+            "name": "Events.EmergenciesUpdated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EmergenciesUpdated.md",
+            "link": "Events.EmergenciesUpdated"
         }
     },
-    "EndTurnBlockingChanged": {
+    "Events.ResearchCompleted": {
         "file": {
-            "name": "EndTurnBlockingChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EndTurnBlockingChanged.md",
-            "link": "EndTurnBlockingChanged"
+            "name": "Events.ResearchCompleted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ResearchCompleted.md",
+            "link": "Events.ResearchCompleted"
         }
     },
-    "GreatPeoplePointsChanged": {
+    "Events.UnitMovementPointsChanged": {
         "file": {
-            "name": "GreatPeoplePointsChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GreatPeoplePointsChanged.md",
-            "link": "GreatPeoplePointsChanged"
+            "name": "Events.UnitMovementPointsChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitMovementPointsChanged.md",
+            "link": "Events.UnitMovementPointsChanged"
         }
     },
-    "TurnBegin": {
+    "Events.NotificationRefreshRequested": {
         "file": {
-            "name": "TurnBegin.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TurnBegin.md",
-            "link": "TurnBegin"
+            "name": "Events.NotificationRefreshRequested.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.NotificationRefreshRequested.md",
+            "link": "Events.NotificationRefreshRequested"
         }
     },
-    "EndTurnDirty": {
+    "Events.CityCommandStarted": {
         "file": {
-            "name": "EndTurnDirty.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EndTurnDirty.md",
-            "link": "EndTurnDirty"
+            "name": "Events.CityCommandStarted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityCommandStarted.md",
+            "link": "Events.CityCommandStarted"
         }
     },
-    "UnitRemovedFromMap": {
+    "Events.PlayerDefeat": {
         "file": {
-            "name": "UnitRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitRemovedFromMap.md",
-            "link": "UnitRemovedFromMap"
+            "name": "Events.PlayerDefeat.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerDefeat.md",
+            "link": "Events.PlayerDefeat"
         }
     },
-    "GovDistrictPolicyLocked": {
+    "Events.PlayerOperationComplete": {
         "file": {
-            "name": "GovDistrictPolicyLocked.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovDistrictPolicyLocked.md",
-            "link": "GovDistrictPolicyLocked"
+            "name": "Events.PlayerOperationComplete.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerOperationComplete.md",
+            "link": "Events.PlayerOperationComplete"
         }
     },
-    "RouteRemovedFromMap": {
+    "Events.UnitKilledInCombat": {
         "file": {
-            "name": "RouteRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RouteRemovedFromMap.md",
-            "link": "RouteRemovedFromMap"
+            "name": "Events.UnitKilledInCombat.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitKilledInCombat.md",
+            "link": "Events.UnitKilledInCombat"
         }
     },
-    "CliffRemovedFromMap": {
+    "Events.UnitOperationAdded": {
         "file": {
-            "name": "CliffRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CliffRemovedFromMap.md",
-            "link": "CliffRemovedFromMap"
+            "name": "Events.UnitOperationAdded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitOperationAdded.md",
+            "link": "Events.UnitOperationAdded"
         }
     },
-    "BuildingPillaged": {
+    "Events.UnitChargesChanged": {
         "file": {
-            "name": "BuildingPillaged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BuildingPillaged.md",
-            "link": "BuildingPillaged"
+            "name": "Events.UnitChargesChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitChargesChanged.md",
+            "link": "Events.UnitChargesChanged"
         }
     },
-    "SystemUpdateUI": {
+    "Events.TradeRouteRemovedFromMap": {
         "file": {
-            "name": "SystemUpdateUI.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/SystemUpdateUI.md",
-            "link": "SystemUpdateUI"
+            "name": "Events.TradeRouteRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TradeRouteRemovedFromMap.md",
+            "link": "Events.TradeRouteRemovedFromMap"
         }
     },
-    "PlayerResourceChanged": {
+    "Events.CivicBoostTriggered": {
         "file": {
-            "name": "PlayerResourceChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerResourceChanged.md",
-            "link": "PlayerResourceChanged"
+            "name": "Events.CivicBoostTriggered.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CivicBoostTriggered.md",
+            "link": "Events.CivicBoostTriggered"
         }
     },
-    "NationalParkVisibilityChanged": {
+    "Events.DiplomacySessionClosed": {
         "file": {
-            "name": "NationalParkVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/NationalParkVisibilityChanged.md",
-            "link": "NationalParkVisibilityChanged"
+            "name": "Events.DiplomacySessionClosed.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacySessionClosed.md",
+            "link": "Events.DiplomacySessionClosed"
         }
     },
-    "DiplomacyDeclareWar": {
+    "Events.UnitCommandStarted": {
         "file": {
-            "name": "DiplomacyDeclareWar.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyDeclareWar.md",
-            "link": "DiplomacyDeclareWar"
+            "name": "Events.UnitCommandStarted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitCommandStarted.md",
+            "link": "Events.UnitCommandStarted"
         }
     },
-    "ImprovementOwnershipChanged": {
+    "Events.NotificationDismissed": {
         "file": {
-            "name": "ImprovementOwnershipChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ImprovementOwnershipChanged.md",
-            "link": "ImprovementOwnershipChanged"
+            "name": "Events.NotificationDismissed.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.NotificationDismissed.md",
+            "link": "Events.NotificationDismissed"
         }
     },
-    "UnitOperationsCleared": {
+    "Events.PlotVisibilityChanged": {
         "file": {
-            "name": "UnitOperationsCleared.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitOperationsCleared.md",
-            "link": "UnitOperationsCleared"
+            "name": "Events.PlotVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlotVisibilityChanged.md",
+            "link": "Events.PlotVisibilityChanged"
         }
     },
-    "RouteAddedToMap": {
+    "Events.UnitMoved": {
         "file": {
-            "name": "RouteAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RouteAddedToMap.md",
-            "link": "RouteAddedToMap"
+            "name": "Events.UnitMoved.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitMoved.md",
+            "link": "Events.UnitMoved"
         }
     },
-    "FeatureChanged": {
+    "Events.UnitRemovedFromMap": {
         "file": {
-            "name": "FeatureChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/FeatureChanged.md",
-            "link": "FeatureChanged"
+            "name": "Events.UnitRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitRemovedFromMap.md",
+            "link": "Events.UnitRemovedFromMap"
         }
     },
-    "UnitKilledInCombat": {
+    "Events.PantheonFounded": {
         "file": {
-            "name": "UnitKilledInCombat.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitKilledInCombat.md",
-            "link": "UnitKilledInCombat"
+            "name": "Events.PantheonFounded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PantheonFounded.md",
+            "link": "Events.PantheonFounded"
         }
     },
-    "BuildingVisibilityChanged": {
+    "Events.DistrictPillaged": {
         "file": {
-            "name": "BuildingVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BuildingVisibilityChanged.md",
-            "link": "BuildingVisibilityChanged"
+            "name": "Events.DistrictPillaged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictPillaged.md",
+            "link": "Events.DistrictPillaged"
         }
     },
-    "WonderCompleted": {
+    "Events.PlayerDarkAgeChanged": {
         "file": {
-            "name": "WonderCompleted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/WonderCompleted.md",
-            "link": "WonderCompleted"
+            "name": "Events.PlayerDarkAgeChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerDarkAgeChanged.md",
+            "link": "Events.PlayerDarkAgeChanged"
         }
     },
-    "NationalParkAdded": {
+    "Events.CityLiberated": {
         "file": {
-            "name": "NationalParkAdded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/NationalParkAdded.md",
-            "link": "NationalParkAdded"
+            "name": "Events.CityLiberated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityLiberated.md",
+            "link": "Events.CityLiberated"
         }
     },
-    "GovernorAppointed": {
+    "Events.CivicChanged": {
         "file": {
-            "name": "GovernorAppointed.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernorAppointed.md",
-            "link": "GovernorAppointed"
+            "name": "Events.CivicChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CivicChanged.md",
+            "link": "Events.CivicChanged"
         }
     },
-    "UnitOperationSegmentComplete": {
+    "Events.UnitCaptured": {
         "file": {
-            "name": "UnitOperationSegmentComplete.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitOperationSegmentComplete.md",
-            "link": "UnitOperationSegmentComplete"
+            "name": "Events.UnitCaptured.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitCaptured.md",
+            "link": "Events.UnitCaptured"
         }
     },
-    "BuildingChanged": {
+    "Events.CacheUpdate": {
         "file": {
-            "name": "BuildingChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BuildingChanged.md",
-            "link": "BuildingChanged"
+            "name": "Events.CacheUpdate.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CacheUpdate.md",
+            "link": "Events.CacheUpdate"
         }
     },
-    "CityLoyaltyChanged": {
+    "Events.UnitTeleported": {
         "file": {
-            "name": "CityLoyaltyChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityLoyaltyChanged.md",
-            "link": "CityLoyaltyChanged"
+            "name": "Events.UnitTeleported.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitTeleported.md",
+            "link": "Events.UnitTeleported"
         }
     },
-    "ImprovementActivated": {
+    "Events.UnitExitFormation": {
         "file": {
-            "name": "ImprovementActivated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ImprovementActivated.md",
-            "link": "ImprovementActivated"
+            "name": "Events.UnitExitFormation.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitExitFormation.md",
+            "link": "Events.UnitExitFormation"
         }
     },
-    "UnitTeleported": {
+    "Events.GovernorEstablished": {
         "file": {
-            "name": "UnitTeleported.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitTeleported.md",
-            "link": "UnitTeleported"
+            "name": "Events.GovernorEstablished.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernorEstablished.md",
+            "link": "Events.GovernorEstablished"
         }
     },
-    "DistrictUnitsChanged": {
+    "Events.GovernmentPolicyObsoleted": {
         "file": {
-            "name": "DistrictUnitsChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictUnitsChanged.md",
-            "link": "DistrictUnitsChanged"
+            "name": "Events.GovernmentPolicyObsoleted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernmentPolicyObsoleted.md",
+            "link": "Events.GovernmentPolicyObsoleted"
         }
     },
-    "UnitExitFormation": {
+    "Events.PhaseBegin": {
         "file": {
-            "name": "UnitExitFormation.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitExitFormation.md",
-            "link": "UnitExitFormation"
+            "name": "Events.PhaseBegin.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PhaseBegin.md",
+            "link": "Events.PhaseBegin"
         }
     },
-    "FeatureVisibilityChanged": {
+    "Events.GovernorChanged": {
         "file": {
-            "name": "FeatureVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/FeatureVisibilityChanged.md",
-            "link": "FeatureVisibilityChanged"
+            "name": "Events.GovernorChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernorChanged.md",
+            "link": "Events.GovernorChanged"
         }
     },
-    "GameEraChanged": {
+    "Events.FeatureVisibilityChanged": {
         "file": {
-            "name": "GameEraChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GameEraChanged.md",
-            "link": "GameEraChanged"
+            "name": "Events.FeatureVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.FeatureVisibilityChanged.md",
+            "link": "Events.FeatureVisibilityChanged"
         }
     },
-    "UnitMovementPointsRestored": {
+    "Events.DiplomacyMakePeace": {
         "file": {
-            "name": "UnitMovementPointsRestored.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitMovementPointsRestored.md",
-            "link": "UnitMovementPointsRestored"
+            "name": "Events.DiplomacyMakePeace.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyMakePeace.md",
+            "link": "Events.DiplomacyMakePeace"
         }
     },
-    "CivicCompleted": {
+    "Events.SpyAdded": {
         "file": {
-            "name": "CivicCompleted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CivicCompleted.md",
-            "link": "CivicCompleted"
+            "name": "Events.SpyAdded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.SpyAdded.md",
+            "link": "Events.SpyAdded"
         }
     },
-    "UnitUpgraded": {
+    "Events.SpyMissionCompleted": {
         "file": {
-            "name": "UnitUpgraded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitUpgraded.md",
-            "link": "UnitUpgraded"
+            "name": "Events.SpyMissionCompleted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.SpyMissionCompleted.md",
+            "link": "Events.SpyMissionCompleted"
         }
     },
-    "UnitParadropped": {
+    "Events.SpyMissionUpdated": {
         "file": {
-            "name": "UnitParadropped.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitParadropped.md",
-            "link": "UnitParadropped"
+            "name": "Events.SpyMissionUpdated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.SpyMissionUpdated.md",
+            "link": "Events.SpyMissionUpdated"
         }
     },
-    "UnitMovementPointsCleared": {
+    "Events.CityInitialized": {
         "file": {
-            "name": "UnitMovementPointsCleared.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitMovementPointsCleared.md",
-            "link": "UnitMovementPointsCleared"
+            "name": "Events.CityInitialized.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityInitialized.md",
+            "link": "Events.CityInitialized"
         }
     },
-    "DistrictCombatChanged": {
+    "Events.UnitAirlifted": {
         "file": {
-            "name": "DistrictCombatChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictCombatChanged.md",
-            "link": "DistrictCombatChanged"
+            "name": "Events.UnitAirlifted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitAirlifted.md",
+            "link": "Events.UnitAirlifted"
         }
     },
-    "UnitCommandStarted": {
+    "Events.UnitActivate": {
         "file": {
-            "name": "UnitCommandStarted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitCommandStarted.md",
-            "link": "UnitCommandStarted"
+            "name": "Events.UnitActivate.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitActivate.md",
+            "link": "Events.UnitActivate"
         }
     },
-    "LocalPlayerTurnUnready": {
+    "Events.CityUnitsChanged": {
         "file": {
-            "name": "LocalPlayerTurnUnready.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/LocalPlayerTurnUnready.md",
-            "link": "LocalPlayerTurnUnready"
+            "name": "Events.CityUnitsChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityUnitsChanged.md",
+            "link": "Events.CityUnitsChanged"
         }
     },
-    "ObjectPairing": {
+    "Events.RemotePlayerTurnBegin": {
         "file": {
-            "name": "ObjectPairing.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ObjectPairing.md",
-            "link": "ObjectPairing"
+            "name": "Events.RemotePlayerTurnBegin.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RemotePlayerTurnBegin.md",
+            "link": "Events.RemotePlayerTurnBegin"
         }
     },
-    "RouteVisibilityChanged": {
+    "Events.ReligionFounded": {
         "file": {
-            "name": "RouteVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RouteVisibilityChanged.md",
-            "link": "RouteVisibilityChanged"
+            "name": "Events.ReligionFounded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ReligionFounded.md",
+            "link": "Events.ReligionFounded"
         }
     },
-    "BuildingBuildProgressChanged": {
+    "Events.DiplomacyMeet": {
         "file": {
-            "name": "BuildingBuildProgressChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BuildingBuildProgressChanged.md",
-            "link": "BuildingBuildProgressChanged"
+            "name": "Events.DiplomacyMeet.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyMeet.md",
+            "link": "Events.DiplomacyMeet"
         }
     },
-    "LocalPlayerChanged": {
+    "Events.ImprovementVisibilityChanged": {
         "file": {
-            "name": "LocalPlayerChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/LocalPlayerChanged.md",
-            "link": "LocalPlayerChanged"
+            "name": "Events.ImprovementVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ImprovementVisibilityChanged.md",
+            "link": "Events.ImprovementVisibilityChanged"
         }
     },
-    "DistrictBuildingRestore": {
+    "Events.ObjectPairing": {
         "file": {
-            "name": "DistrictBuildingRestore.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictBuildingRestore.md",
-            "link": "DistrictBuildingRestore"
+            "name": "Events.ObjectPairing.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ObjectPairing.md",
+            "link": "Events.ObjectPairing"
         }
     },
-    "InfluenceGiven": {
+    "Events.EmergencyAvailable": {
         "file": {
-            "name": "InfluenceGiven.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/InfluenceGiven.md",
-            "link": "InfluenceGiven"
+            "name": "Events.EmergencyAvailable.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EmergencyAvailable.md",
+            "link": "Events.EmergencyAvailable"
         }
     },
-    "InfluenceChanged": {
+    "Events.UnitExperienceChanged": {
         "file": {
-            "name": "InfluenceChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/InfluenceChanged.md",
-            "link": "InfluenceChanged"
+            "name": "Events.UnitExperienceChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitExperienceChanged.md",
+            "link": "Events.UnitExperienceChanged"
         }
     },
-    "ImprovementRemovedFromMap": {
+    "Events.GameHistoryMomentRecorded": {
         "file": {
-            "name": "ImprovementRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ImprovementRemovedFromMap.md",
-            "link": "ImprovementRemovedFromMap"
+            "name": "Events.GameHistoryMomentRecorded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GameHistoryMomentRecorded.md",
+            "link": "Events.GameHistoryMomentRecorded"
         }
     },
-    "UnitDamageChanged": {
+    "Events.CityProjectCompleted": {
         "file": {
-            "name": "UnitDamageChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitDamageChanged.md",
-            "link": "UnitDamageChanged"
+            "name": "Events.CityProjectCompleted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityProjectCompleted.md",
+            "link": "Events.CityProjectCompleted"
         }
     },
-    "GreatPeopleTimelineChanged": {
+    "Events.LocalPlayerTurnUnready": {
         "file": {
-            "name": "GreatPeopleTimelineChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GreatPeopleTimelineChanged.md",
-            "link": "GreatPeopleTimelineChanged"
+            "name": "Events.LocalPlayerTurnUnready.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.LocalPlayerTurnUnready.md",
+            "link": "Events.LocalPlayerTurnUnready"
         }
     },
-    "MapYieldsChanged": {
+    "Events.PlayerEraScoreChanged": {
         "file": {
-            "name": "MapYieldsChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/MapYieldsChanged.md",
-            "link": "MapYieldsChanged"
+            "name": "Events.PlayerEraScoreChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerEraScoreChanged.md",
+            "link": "Events.PlayerEraScoreChanged"
         }
     },
-    "SpyAdded": {
+    "Events.LevyCounterChanged": {
         "file": {
-            "name": "SpyAdded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/SpyAdded.md",
-            "link": "SpyAdded"
+            "name": "Events.LevyCounterChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.LevyCounterChanged.md",
+            "link": "Events.LevyCounterChanged"
         }
     },
-    "UnitTradeChanged": {
+    "Events.LocalPlayerTurnEnd": {
         "file": {
-            "name": "UnitTradeChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitTradeChanged.md",
-            "link": "UnitTradeChanged"
+            "name": "Events.LocalPlayerTurnEnd.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.LocalPlayerTurnEnd.md",
+            "link": "Events.LocalPlayerTurnEnd"
         }
     },
-    "TradeRouteActivityChanged": {
+    "Events.PhaseEnd": {
         "file": {
-            "name": "TradeRouteActivityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/TradeRouteActivityChanged.md",
-            "link": "TradeRouteActivityChanged"
+            "name": "Events.PhaseEnd.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PhaseEnd.md",
+            "link": "Events.PhaseEnd"
         }
     },
-    "PlotVisibilityChanged": {
+    "Events.WMDFalloutVisibilityChanged": {
         "file": {
-            "name": "PlotVisibilityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlotVisibilityChanged.md",
-            "link": "PlotVisibilityChanged"
+            "name": "Events.WMDFalloutVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.WMDFalloutVisibilityChanged.md",
+            "link": "Events.WMDFalloutVisibilityChanged"
         }
     },
-    "OnAiAdvisorUpdated": {
+    "Events.UnitArtifactChanged": {
         "file": {
-            "name": "OnAiAdvisorUpdated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/OnAiAdvisorUpdated.md",
-            "link": "OnAiAdvisorUpdated"
+            "name": "Events.UnitArtifactChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitArtifactChanged.md",
+            "link": "Events.UnitArtifactChanged"
         }
     },
-    "SpyMissionUpdated": {
+    "Events.ResourceAddedToMap": {
         "file": {
-            "name": "SpyMissionUpdated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/SpyMissionUpdated.md",
-            "link": "SpyMissionUpdated"
+            "name": "Events.ResourceAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ResourceAddedToMap.md",
+            "link": "Events.ResourceAddedToMap"
         }
     },
-    "CityProjectCompleted": {
+    "Events.UnitOperationDeactivated": {
         "file": {
-            "name": "CityProjectCompleted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityProjectCompleted.md",
-            "link": "CityProjectCompleted"
+            "name": "Events.UnitOperationDeactivated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitOperationDeactivated.md",
+            "link": "Events.UnitOperationDeactivated"
         }
     },
-    "UnitGreatPersonCreated": {
+    "Events.UnitMovementPointsCleared": {
         "file": {
-            "name": "UnitGreatPersonCreated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitGreatPersonCreated.md",
-            "link": "UnitGreatPersonCreated"
+            "name": "Events.UnitMovementPointsCleared.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitMovementPointsCleared.md",
+            "link": "Events.UnitMovementPointsCleared"
         }
     },
-    "UnitAirlifted": {
+    "Events.PlayerEraChanged": {
         "file": {
-            "name": "UnitAirlifted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitAirlifted.md",
-            "link": "UnitAirlifted"
+            "name": "Events.PlayerEraChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerEraChanged.md",
+            "link": "Events.PlayerEraChanged"
         }
     },
-    "CulturalIdentityCitizenConverted": {
+    "Events.NotificationActivated": {
         "file": {
-            "name": "CulturalIdentityCitizenConverted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CulturalIdentityCitizenConverted.md",
-            "link": "CulturalIdentityCitizenConverted"
+            "name": "Events.NotificationActivated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.NotificationActivated.md",
+            "link": "Events.NotificationActivated"
         }
     },
-    "CityProductionChanged": {
+    "Events.EmergencyRejected": {
         "file": {
-            "name": "CityProductionChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityProductionChanged.md",
-            "link": "CityProductionChanged"
+            "name": "Events.EmergencyRejected.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EmergencyRejected.md",
+            "link": "Events.EmergencyRejected"
         }
     },
-    "UnitGreatPersonChanged": {
+    "Events.TerrainTypeChanged": {
         "file": {
-            "name": "UnitGreatPersonChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitGreatPersonChanged.md",
-            "link": "UnitGreatPersonChanged"
+            "name": "Events.TerrainTypeChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TerrainTypeChanged.md",
+            "link": "Events.TerrainTypeChanged"
         }
     },
-    "EmergenciesUpdated": {
+    "Events.PlayerRestored": {
         "file": {
-            "name": "EmergenciesUpdated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EmergenciesUpdated.md",
-            "link": "EmergenciesUpdated"
+            "name": "Events.PlayerRestored.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerRestored.md",
+            "link": "Events.PlayerRestored"
         }
     },
-    "CityProductionCompleted": {
+    "Events.RouteVisibilityChanged": {
         "file": {
-            "name": "CityProductionCompleted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityProductionCompleted.md",
-            "link": "CityProductionCompleted"
+            "name": "Events.RouteVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RouteVisibilityChanged.md",
+            "link": "Events.RouteVisibilityChanged"
         }
     },
-    "BuildingRemovedFromMap": {
+    "Events.GovernorPromoted": {
         "file": {
-            "name": "BuildingRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BuildingRemovedFromMap.md",
-            "link": "BuildingRemovedFromMap"
+            "name": "Events.GovernorPromoted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernorPromoted.md",
+            "link": "Events.GovernorPromoted"
         }
     },
-    "DiplomacyDealEnacted": {
+    "Events.ResearchChanged": {
         "file": {
-            "name": "DiplomacyDealEnacted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyDealEnacted.md",
-            "link": "DiplomacyDealEnacted"
+            "name": "Events.ResearchChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ResearchChanged.md",
+            "link": "Events.ResearchChanged"
         }
     },
-    "PhaseEnd": {
+    "Events.SystemUpdateUI": {
         "file": {
-            "name": "PhaseEnd.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PhaseEnd.md",
-            "link": "PhaseEnd"
+            "name": "Events.SystemUpdateUI.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.SystemUpdateUI.md",
+            "link": "Events.SystemUpdateUI"
         }
     },
-    "SpyUpdated": {
+    "Events.AllianceEnded": {
         "file": {
-            "name": "SpyUpdated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/SpyUpdated.md",
-            "link": "SpyUpdated"
+            "name": "Events.AllianceEnded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.AllianceEnded.md",
+            "link": "Events.AllianceEnded"
         }
     },
-    "ResourceAddedToMap": {
+    "Events.ResearchQueueChanged": {
         "file": {
-            "name": "ResourceAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ResourceAddedToMap.md",
-            "link": "ResourceAddedToMap"
+            "name": "Events.ResearchQueueChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ResearchQueueChanged.md",
+            "link": "Events.ResearchQueueChanged"
         }
     },
-    "UnitFormationChanged": {
+    "Events.RouteRemovedFromMap": {
         "file": {
-            "name": "UnitFormationChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitFormationChanged.md",
-            "link": "UnitFormationChanged"
+            "name": "Events.RouteRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RouteRemovedFromMap.md",
+            "link": "Events.RouteRemovedFromMap"
         }
     },
-    "BarbarianRaidStarted": {
+    "Events.TeamVictory": {
         "file": {
-            "name": "BarbarianRaidStarted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BarbarianRaidStarted.md",
-            "link": "BarbarianRaidStarted"
+            "name": "Events.TeamVictory.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TeamVictory.md",
+            "link": "Events.TeamVictory"
         }
     },
-    "RouteChanged": {
+    "Events.CityReligionFollowersChanged": {
         "file": {
-            "name": "RouteChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RouteChanged.md",
-            "link": "RouteChanged"
+            "name": "Events.CityReligionFollowersChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityReligionFollowersChanged.md",
+            "link": "Events.CityReligionFollowersChanged"
         }
     },
-    "LevyCounterChanged": {
+    "Events.PlayerRevived": {
         "file": {
-            "name": "LevyCounterChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/LevyCounterChanged.md",
-            "link": "LevyCounterChanged"
+            "name": "Events.PlayerRevived.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerRevived.md",
+            "link": "Events.PlayerRevived"
         }
     },
-    "GovernmentChanged": {
+    "Events.LocalPlayerTurnBegin": {
         "file": {
-            "name": "GovernmentChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernmentChanged.md",
-            "link": "GovernmentChanged"
+            "name": "Events.LocalPlayerTurnBegin.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.LocalPlayerTurnBegin.md",
+            "link": "Events.LocalPlayerTurnBegin"
         }
     },
-    "AllianceEnded": {
+    "Events.GovDistrictPolicyLocked": {
         "file": {
-            "name": "AllianceEnded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/AllianceEnded.md",
-            "link": "AllianceEnded"
+            "name": "Events.GovDistrictPolicyLocked.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovDistrictPolicyLocked.md",
+            "link": "Events.GovDistrictPolicyLocked"
         }
     },
-    "CityReligionFollowersChanged": {
+    "Events.DistrictVisibilityChanged": {
         "file": {
-            "name": "CityReligionFollowersChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityReligionFollowersChanged.md",
-            "link": "CityReligionFollowersChanged"
+            "name": "Events.DistrictVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictVisibilityChanged.md",
+            "link": "Events.DistrictVisibilityChanged"
         }
     },
-    "CityNameChanged": {
+    "Events.UnitGreatPersonChanged": {
         "file": {
-            "name": "CityNameChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityNameChanged.md",
-            "link": "CityNameChanged"
+            "name": "Events.UnitGreatPersonChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitGreatPersonChanged.md",
+            "link": "Events.UnitGreatPersonChanged"
         }
     },
-    "CityDefenseStatusChanged": {
+    "Events.RouteAddedToMap": {
         "file": {
-            "name": "CityDefenseStatusChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityDefenseStatusChanged.md",
-            "link": "CityDefenseStatusChanged"
+            "name": "Events.RouteAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RouteAddedToMap.md",
+            "link": "Events.RouteAddedToMap"
         }
     },
-    "CivicChanged": {
+    "Events.PlayerDestroyed": {
         "file": {
-            "name": "CivicChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CivicChanged.md",
-            "link": "CivicChanged"
+            "name": "Events.PlayerDestroyed.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerDestroyed.md",
+            "link": "Events.PlayerDestroyed"
         }
     },
-    "PlayerEraScoreChanged": {
+    "Events.UnitParadropped": {
         "file": {
-            "name": "PlayerEraScoreChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerEraScoreChanged.md",
-            "link": "PlayerEraScoreChanged"
+            "name": "Events.UnitParadropped.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitParadropped.md",
+            "link": "Events.UnitParadropped"
         }
     },
-    "Combat": {
+    "Events.UnitEnterFormation": {
         "file": {
-            "name": "Combat.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/Combat.md",
-            "link": "Combat"
+            "name": "Events.UnitEnterFormation.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitEnterFormation.md",
+            "link": "Events.UnitEnterFormation"
         }
     },
-    "RemotePlayerTurnBegin": {
+    "Events.PlayerTurnDeactivated": {
         "file": {
-            "name": "RemotePlayerTurnBegin.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RemotePlayerTurnBegin.md",
-            "link": "RemotePlayerTurnBegin"
+            "name": "Events.PlayerTurnDeactivated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerTurnDeactivated.md",
+            "link": "Events.PlayerTurnDeactivated"
         }
     },
-    "FeatureRemovedFromMap": {
+    "Events.OnAiAdvisorUpdated": {
         "file": {
-            "name": "FeatureRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/FeatureRemovedFromMap.md",
-            "link": "FeatureRemovedFromMap"
+            "name": "Events.OnAiAdvisorUpdated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.OnAiAdvisorUpdated.md",
+            "link": "Events.OnAiAdvisorUpdated"
         }
     },
-    "UnitPromoted": {
+    "Events.WMDDetonated": {
         "file": {
-            "name": "UnitPromoted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitPromoted.md",
-            "link": "UnitPromoted"
+            "name": "Events.WMDDetonated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.WMDDetonated.md",
+            "link": "Events.WMDDetonated"
         }
     },
-    "QuestChanged": {
+    "Events.LocalPlayerChanged": {
         "file": {
-            "name": "QuestChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/QuestChanged.md",
-            "link": "QuestChanged"
+            "name": "Events.LocalPlayerChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.LocalPlayerChanged.md",
+            "link": "Events.LocalPlayerChanged"
         }
     },
-    "AllianceAvailable": {
+    "Events.EndTurnBlockingChanged": {
         "file": {
-            "name": "AllianceAvailable.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/AllianceAvailable.md",
-            "link": "AllianceAvailable"
+            "name": "Events.EndTurnBlockingChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EndTurnBlockingChanged.md",
+            "link": "Events.EndTurnBlockingChanged"
         }
     },
-    "CityChanged": {
+    "Events.RiverAddedToMap": {
         "file": {
-            "name": "CityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityChanged.md",
-            "link": "CityChanged"
+            "name": "Events.RiverAddedToMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RiverAddedToMap.md",
+            "link": "Events.RiverAddedToMap"
         }
     },
-    "AnarchyEnds": {
+    "Events.EndTurnDirty": {
         "file": {
-            "name": "AnarchyEnds.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/AnarchyEnds.md",
-            "link": "AnarchyEnds"
+            "name": "Events.EndTurnDirty.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EndTurnDirty.md",
+            "link": "Events.EndTurnDirty"
         }
     },
-    "GovernorPointsChanged": {
+    "Events.PlayerResourceChanged": {
         "file": {
-            "name": "GovernorPointsChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernorPointsChanged.md",
-            "link": "GovernorPointsChanged"
+            "name": "Events.PlayerResourceChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerResourceChanged.md",
+            "link": "Events.PlayerResourceChanged"
         }
     },
-    "EndWonderReveal": {
+    "Events.CliffRemovedFromMap": {
         "file": {
-            "name": "EndWonderReveal.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EndWonderReveal.md",
-            "link": "EndWonderReveal"
+            "name": "Events.CliffRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CliffRemovedFromMap.md",
+            "link": "Events.CliffRemovedFromMap"
         }
     },
-    "GovDistrictPolicyUnlocked": {
+    "Events.UnitFormArmy": {
         "file": {
-            "name": "GovDistrictPolicyUnlocked.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovDistrictPolicyUnlocked.md",
-            "link": "GovDistrictPolicyUnlocked"
+            "name": "Events.UnitFormArmy.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitFormArmy.md",
+            "link": "Events.UnitFormArmy"
         }
     },
-    "GoodyHutReward": {
+    "Events.CityMadePurchase": {
         "file": {
-            "name": "GoodyHutReward.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GoodyHutReward.md",
-            "link": "GoodyHutReward"
+            "name": "Events.CityMadePurchase.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityMadePurchase.md",
+            "link": "Events.CityMadePurchase"
         }
     },
-    "ReligionFounded": {
+    "Events.BuildingBuildProgressChanged": {
         "file": {
-            "name": "ReligionFounded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ReligionFounded.md",
-            "link": "ReligionFounded"
+            "name": "Events.BuildingBuildProgressChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BuildingBuildProgressChanged.md",
+            "link": "Events.BuildingBuildProgressChanged"
         }
     },
-    "BeliefAdded": {
+    "Events.UnitFormCorps": {
         "file": {
-            "name": "BeliefAdded.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BeliefAdded.md",
-            "link": "BeliefAdded"
+            "name": "Events.UnitFormCorps.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitFormCorps.md",
+            "link": "Events.UnitFormCorps"
         }
     },
-    "DistrictAddedToMap": {
+    "Events.ImprovementActivated": {
         "file": {
-            "name": "DistrictAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictAddedToMap.md",
-            "link": "DistrictAddedToMap"
+            "name": "Events.ImprovementActivated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ImprovementActivated.md",
+            "link": "Events.ImprovementActivated"
         }
     },
-    "FaithChanged": {
+    "Events.UnitOperationsCleared": {
         "file": {
-            "name": "FaithChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/FaithChanged.md",
-            "link": "FaithChanged"
+            "name": "Events.UnitOperationsCleared.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitOperationsCleared.md",
+            "link": "Events.UnitOperationsCleared"
         }
     },
-    "RiverRemovedFromMap": {
+    "Events.QueueFlushed": {
         "file": {
-            "name": "RiverRemovedFromMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RiverRemovedFromMap.md",
-            "link": "RiverRemovedFromMap"
+            "name": "Events.QueueFlushed.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.QueueFlushed.md",
+            "link": "Events.QueueFlushed"
         }
     },
-    "UnitAbilityGained": {
+    "Events.GovernmentChanged": {
         "file": {
-            "name": "UnitAbilityGained.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitAbilityGained.md",
-            "link": "UnitAbilityGained"
+            "name": "Events.GovernmentChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernmentChanged.md",
+            "link": "Events.GovernmentChanged"
         }
     },
-    "NationalParkRemoved": {
+    "Events.RemotePlayerTurnEnd": {
         "file": {
-            "name": "NationalParkRemoved.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/NationalParkRemoved.md",
-            "link": "NationalParkRemoved"
+            "name": "Events.RemotePlayerTurnEnd.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.RemotePlayerTurnEnd.md",
+            "link": "Events.RemotePlayerTurnEnd"
         }
     },
-    "CapitalCityChanged": {
+    "Events.GameEraChanged": {
         "file": {
-            "name": "CapitalCityChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CapitalCityChanged.md",
-            "link": "CapitalCityChanged"
+            "name": "Events.GameEraChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GameEraChanged.md",
+            "link": "Events.GameEraChanged"
         }
     },
-    "CulturalIdentityConversionOutcomeChanged": {
+    "Events.CivicsUnlocked": {
         "file": {
-            "name": "CulturalIdentityConversionOutcomeChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CulturalIdentityConversionOutcomeChanged.md",
-            "link": "CulturalIdentityConversionOutcomeChanged"
+            "name": "Events.CivicsUnlocked.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CivicsUnlocked.md",
+            "link": "Events.CivicsUnlocked"
         }
     },
-    "PlayerBordersChanged": {
+    "Events.CityLoyaltyChanged": {
         "file": {
-            "name": "PlayerBordersChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerBordersChanged.md",
-            "link": "PlayerBordersChanged"
+            "name": "Events.CityLoyaltyChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityLoyaltyChanged.md",
+            "link": "Events.CityLoyaltyChanged"
         }
     },
-    "ImprovementAddedToMap": {
+    "Events.SpyRemoved": {
         "file": {
-            "name": "ImprovementAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ImprovementAddedToMap.md",
-            "link": "ImprovementAddedToMap"
+            "name": "Events.SpyRemoved.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.SpyRemoved.md",
+            "link": "Events.SpyRemoved"
         }
     },
-    "UnitActivate": {
+    "Events.UnitPromoted": {
         "file": {
-            "name": "UnitActivate.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitActivate.md",
-            "link": "UnitActivate"
+            "name": "Events.UnitPromoted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitPromoted.md",
+            "link": "Events.UnitPromoted"
         }
     },
-    "RiverAddedToMap": {
+    "Events.PlotAppealChanged": {
         "file": {
-            "name": "RiverAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/RiverAddedToMap.md",
-            "link": "RiverAddedToMap"
+            "name": "Events.PlotAppealChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlotAppealChanged.md",
+            "link": "Events.PlotAppealChanged"
         }
     },
-    "CityTransfered": {
+    "Events.NationalParkRemoved": {
         "file": {
-            "name": "CityTransfered.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityTransfered.md",
-            "link": "CityTransfered"
+            "name": "Events.NationalParkRemoved.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.NationalParkRemoved.md",
+            "link": "Events.NationalParkRemoved"
         }
     },
-    "CulturalIdentityCityConverted": {
+    "Events.BuildingRemovedFromMap": {
         "file": {
-            "name": "CulturalIdentityCityConverted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CulturalIdentityCityConverted.md",
-            "link": "CulturalIdentityCityConverted"
+            "name": "Events.BuildingRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.BuildingRemovedFromMap.md",
+            "link": "Events.BuildingRemovedFromMap"
         }
     },
-    "PlayerDarkAgeChanged": {
+    "Events.WMDCountChanged": {
         "file": {
-            "name": "PlayerDarkAgeChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerDarkAgeChanged.md",
-            "link": "PlayerDarkAgeChanged"
+            "name": "Events.WMDCountChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.WMDCountChanged.md",
+            "link": "Events.WMDCountChanged"
         }
     },
-    "CityTileOwnershipChanged": {
+    "Events.GovDistrictPolicyUnlocked": {
         "file": {
-            "name": "CityTileOwnershipChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityTileOwnershipChanged.md",
-            "link": "CityTileOwnershipChanged"
+            "name": "Events.GovDistrictPolicyUnlocked.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovDistrictPolicyUnlocked.md",
+            "link": "Events.GovDistrictPolicyUnlocked"
         }
     },
-    "DiplomacyRelationshipChanged": {
+    "Events.CivicQueueChanged": {
         "file": {
-            "name": "DiplomacyRelationshipChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyRelationshipChanged.md",
-            "link": "DiplomacyRelationshipChanged"
+            "name": "Events.CivicQueueChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CivicQueueChanged.md",
+            "link": "Events.CivicQueueChanged"
         }
     },
-    "CityAddedToMap": {
+    "Events.DiplomacyMeetMajorMinor": {
         "file": {
-            "name": "CityAddedToMap.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityAddedToMap.md",
-            "link": "CityAddedToMap"
+            "name": "Events.DiplomacyMeetMajorMinor.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyMeetMajorMinor.md",
+            "link": "Events.DiplomacyMeetMajorMinor"
         }
     },
-    "BeginWonderReveal": {
+    "Events.TurnBegin": {
         "file": {
-            "name": "BeginWonderReveal.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/BeginWonderReveal.md",
-            "link": "BeginWonderReveal"
+            "name": "Events.TurnBegin.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.TurnBegin.md",
+            "link": "Events.TurnBegin"
         }
     },
-    "NotificationRefreshRequested": {
+    "Events.UnitUpgraded": {
         "file": {
-            "name": "NotificationRefreshRequested.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/NotificationRefreshRequested.md",
-            "link": "NotificationRefreshRequested"
+            "name": "Events.UnitUpgraded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitUpgraded.md",
+            "link": "Events.UnitUpgraded"
         }
     },
-    "GovernmentPolicyObsoleted": {
+    "Events.NotificationAdded": {
         "file": {
-            "name": "GovernmentPolicyObsoleted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/GovernmentPolicyObsoleted.md",
-            "link": "GovernmentPolicyObsoleted"
+            "name": "Events.NotificationAdded.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.NotificationAdded.md",
+            "link": "Events.NotificationAdded"
         }
     },
-    "DiplomacyMeet": {
+    "Events.DiplomacyStatement": {
         "file": {
-            "name": "DiplomacyMeet.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyMeet.md",
-            "link": "DiplomacyMeet"
+            "name": "Events.DiplomacyStatement.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DiplomacyStatement.md",
+            "link": "Events.DiplomacyStatement"
         }
     },
-    "UnitPromotionAvailable": {
+    "Events.DistrictBuildingRestore": {
         "file": {
-            "name": "UnitPromotionAvailable.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitPromotionAvailable.md",
-            "link": "UnitPromotionAvailable"
+            "name": "Events.DistrictBuildingRestore.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.DistrictBuildingRestore.md",
+            "link": "Events.DistrictBuildingRestore"
         }
     },
-    "DiplomacyRefusePeace": {
+    "Events.UnitEmbarkedStateChanged": {
         "file": {
-            "name": "DiplomacyRefusePeace.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DiplomacyRefusePeace.md",
-            "link": "DiplomacyRefusePeace"
+            "name": "Events.UnitEmbarkedStateChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitEmbarkedStateChanged.md",
+            "link": "Events.UnitEmbarkedStateChanged"
         }
     },
-    "PlayerRestored": {
+    "Events.AnarchyEnds": {
         "file": {
-            "name": "PlayerRestored.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerRestored.md",
-            "link": "PlayerRestored"
+            "name": "Events.AnarchyEnds.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.AnarchyEnds.md",
+            "link": "Events.AnarchyEnds"
         }
     },
-    "CityFocusChanged": {
+    "Events.PlayerEraTransitionBegins": {
         "file": {
-            "name": "CityFocusChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityFocusChanged.md",
-            "link": "CityFocusChanged"
+            "name": "Events.PlayerEraTransitionBegins.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerEraTransitionBegins.md",
+            "link": "Events.PlayerEraTransitionBegins"
         }
     },
-    "DistrictPillaged": {
+    "Events.AnarchyBegins": {
         "file": {
-            "name": "DistrictPillaged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/DistrictPillaged.md",
-            "link": "DistrictPillaged"
+            "name": "Events.AnarchyBegins.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.AnarchyBegins.md",
+            "link": "Events.AnarchyBegins"
         }
     },
-    "UnitEmbarkedStateChanged": {
+    "Events.PlayerTurnActivated": {
         "file": {
-            "name": "UnitEmbarkedStateChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitEmbarkedStateChanged.md",
-            "link": "UnitEmbarkedStateChanged"
+            "name": "Events.PlayerTurnActivated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerTurnActivated.md",
+            "link": "Events.PlayerTurnActivated"
         }
     },
-    "ResourceChanged": {
+    "Events.UnitOperationStarted": {
         "file": {
-            "name": "ResourceChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ResourceChanged.md",
-            "link": "ResourceChanged"
+            "name": "Events.UnitOperationStarted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitOperationStarted.md",
+            "link": "Events.UnitOperationStarted"
         }
     },
-    "UnitArtifactChanged": {
+    "Events.UnitVisibilityChanged": {
         "file": {
-            "name": "UnitArtifactChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitArtifactChanged.md",
-            "link": "UnitArtifactChanged"
+            "name": "Events.UnitVisibilityChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitVisibilityChanged.md",
+            "link": "Events.UnitVisibilityChanged"
         }
     },
-    "UnitMoved": {
+    "Events.GovernmentPolicyChanged": {
         "file": {
-            "name": "UnitMoved.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitMoved.md",
-            "link": "UnitMoved"
+            "name": "Events.GovernmentPolicyChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernmentPolicyChanged.md",
+            "link": "Events.GovernmentPolicyChanged"
         }
     },
-    "LocalPlayerTurnEnd": {
+    "Events.PlayerVictory": {
         "file": {
-            "name": "LocalPlayerTurnEnd.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/LocalPlayerTurnEnd.md",
-            "link": "LocalPlayerTurnEnd"
+            "name": "Events.PlayerVictory.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerVictory.md",
+            "link": "Events.PlayerVictory"
         }
     },
-    "PlayerDefeat": {
+    "Events.ImprovementRemovedFromMap": {
         "file": {
-            "name": "PlayerDefeat.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerDefeat.md",
-            "link": "PlayerDefeat"
+            "name": "Events.ImprovementRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.ImprovementRemovedFromMap.md",
+            "link": "Events.ImprovementRemovedFromMap"
         }
     },
-    "CityCommandStarted": {
+    "Events.EmergencyCompleted": {
         "file": {
-            "name": "CityCommandStarted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CityCommandStarted.md",
-            "link": "CityCommandStarted"
+            "name": "Events.EmergencyCompleted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.EmergencyCompleted.md",
+            "link": "Events.EmergencyCompleted"
         }
     },
-    "UnitCaptured": {
+    "Events.PlotMarkerChanged": {
         "file": {
-            "name": "UnitCaptured.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitCaptured.md",
-            "link": "UnitCaptured"
+            "name": "Events.PlotMarkerChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlotMarkerChanged.md",
+            "link": "Events.PlotMarkerChanged"
         }
     },
-    "WMDDetonated": {
+    "Events.StatusMessage": {
         "file": {
-            "name": "WMDDetonated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/WMDDetonated.md",
-            "link": "WMDDetonated"
+            "name": "Events.StatusMessage.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.StatusMessage.md",
+            "link": "Events.StatusMessage"
         }
     },
-    "PlayerTurnActivated": {
+    "Events.CityPopulationChanged": {
         "file": {
-            "name": "PlayerTurnActivated.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/PlayerTurnActivated.md",
-            "link": "PlayerTurnActivated"
+            "name": "Events.CityPopulationChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityPopulationChanged.md",
+            "link": "Events.CityPopulationChanged"
         }
     },
-    "EmergencyStarted": {
+    "Events.FeatureRemovedFromMap": {
         "file": {
-            "name": "EmergencyStarted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EmergencyStarted.md",
-            "link": "EmergencyStarted"
+            "name": "Events.FeatureRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.FeatureRemovedFromMap.md",
+            "link": "Events.FeatureRemovedFromMap"
         }
     },
-    "LocalPlayerTurnBegin": {
+    "Events.GovernorAssigned": {
         "file": {
-            "name": "LocalPlayerTurnBegin.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/LocalPlayerTurnBegin.md",
-            "link": "LocalPlayerTurnBegin"
+            "name": "Events.GovernorAssigned.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.GovernorAssigned.md",
+            "link": "Events.GovernorAssigned"
         }
     },
-    "QueueFlushed": {
+    "Events.CityRemovedFromMap": {
         "file": {
-            "name": "QueueFlushed.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/QueueFlushed.md",
-            "link": "QueueFlushed"
+            "name": "Events.CityRemovedFromMap.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CityRemovedFromMap.md",
+            "link": "Events.CityRemovedFromMap"
         }
     },
-    "AnarchyBegins": {
+    "Events.CulturalIdentityCitizenConverted": {
         "file": {
-            "name": "AnarchyBegins.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/AnarchyBegins.md",
-            "link": "AnarchyBegins"
+            "name": "Events.CulturalIdentityCitizenConverted.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.CulturalIdentityCitizenConverted.md",
+            "link": "Events.CulturalIdentityCitizenConverted"
         }
     },
-    "UnitChargesChanged": {
+    "Events.InfluenceChanged": {
         "file": {
-            "name": "UnitChargesChanged.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/UnitChargesChanged.md",
-            "link": "UnitChargesChanged"
+            "name": "Events.InfluenceChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.InfluenceChanged.md",
+            "link": "Events.InfluenceChanged"
         }
     },
-    "EmergencyAvailableParticipant": {
+    "Events.UnitGreatPersonCreated": {
         "file": {
-            "name": "EmergencyAvailableParticipant.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/EmergencyAvailableParticipant.md",
-            "link": "EmergencyAvailableParticipant"
+            "name": "Events.UnitGreatPersonCreated.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitGreatPersonCreated.md",
+            "link": "Events.UnitGreatPersonCreated"
         }
     },
-    "CacheUpdate": {
+    "Events.PlayerBordersChanged": {
         "file": {
-            "name": "CacheUpdate.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/CacheUpdate.md",
-            "link": "CacheUpdate"
+            "name": "Events.PlayerBordersChanged.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.PlayerBordersChanged.md",
+            "link": "Events.PlayerBordersChanged"
         }
     },
-    "ResearchCompleted": {
+    "Events.UnitAbilityGained": {
         "file": {
-            "name": "ResearchCompleted.md",
-            "folder": "../Event Objects/Events",
-            "path": "../Event Objects/Events/ResearchCompleted.md",
-            "link": "ResearchCompleted"
+            "name": "Events.UnitAbilityGained.md",
+            "folder": "../EventObjects/Events",
+            "path": "../EventObjects/Events/Events.UnitAbilityGained.md",
+            "link": "Events.UnitAbilityGained"
         }
     },
-    "DiploSurpriseDeclareWar": {
+    "GameEvents.PlayerTurnStartComplete": {
         "file": {
-            "name": "DiploSurpriseDeclareWar.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/DiploSurpriseDeclareWar.md",
-            "link": "DiploSurpriseDeclareWar"
+            "name": "GameEvents.PlayerTurnStartComplete.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.PlayerTurnStartComplete.md",
+            "link": "GameEvents.PlayerTurnStartComplete"
         }
     },
-    "OnUnitRetreated": {
+    "GameEvents.OnDistrictConstructed": {
         "file": {
-            "name": "OnUnitRetreated.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnUnitRetreated.md",
-            "link": "OnUnitRetreated"
+            "name": "GameEvents.OnDistrictConstructed.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnDistrictConstructed.md",
+            "link": "GameEvents.OnDistrictConstructed"
         }
     },
-    "OnPlayerGaveInfluenceToken": {
+    "GameEvents.OnRandomEventOccurred": {
         "file": {
-            "name": "OnPlayerGaveInfluenceToken.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnPlayerGaveInfluenceToken.md",
-            "link": "OnPlayerGaveInfluenceToken"
+            "name": "GameEvents.OnRandomEventOccurred.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnRandomEventOccurred.md",
+            "link": "GameEvents.OnRandomEventOccurred"
         }
     },
-    "OnRandomEventOccurred": {
+    "GameEvents.DiploSurpriseDeclareWar": {
         "file": {
-            "name": "OnRandomEventOccurred.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnRandomEventOccurred.md",
-            "link": "OnRandomEventOccurred"
+            "name": "GameEvents.DiploSurpriseDeclareWar.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.DiploSurpriseDeclareWar.md",
+            "link": "GameEvents.DiploSurpriseDeclareWar"
         }
     },
-    "PlotOwnershipChanged": {
+    "GameEvents.OnPillage": {
         "file": {
-            "name": "PlotOwnershipChanged.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/PlotOwnershipChanged.md",
-            "link": "PlotOwnershipChanged"
+            "name": "GameEvents.OnPillage.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnPillage.md",
+            "link": "GameEvents.OnPillage"
         }
     },
-    "OnPlayerCommandSetObjectState": {
+    "GameEvents.PolicyChanged": {
         "file": {
-            "name": "OnPlayerCommandSetObjectState.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnPlayerCommandSetObjectState.md",
-            "link": "OnPlayerCommandSetObjectState"
+            "name": "GameEvents.PolicyChanged.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.PolicyChanged.md",
+            "link": "GameEvents.PolicyChanged"
         }
     },
-    "PolicyChanged": {
+    "GameEvents.PlotOwnershipChanged": {
         "file": {
-            "name": "PolicyChanged.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/PolicyChanged.md",
-            "link": "PolicyChanged"
+            "name": "GameEvents.PlotOwnershipChanged.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.PlotOwnershipChanged.md",
+            "link": "GameEvents.PlotOwnershipChanged"
         }
     },
-    "BuildingPillageStateChanged": {
+    "GameEvents.OnPlayerGaveInfluenceToken": {
         "file": {
-            "name": "BuildingPillageStateChanged.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/BuildingPillageStateChanged.md",
-            "link": "BuildingPillageStateChanged"
+            "name": "GameEvents.OnPlayerGaveInfluenceToken.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnPlayerGaveInfluenceToken.md",
+            "link": "GameEvents.OnPlayerGaveInfluenceToken"
         }
     },
-    "PlayerTurnStartComplete": {
+    "GameEvents.BuildingConstructed": {
         "file": {
-            "name": "PlayerTurnStartComplete.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/PlayerTurnStartComplete.md",
-            "link": "PlayerTurnStartComplete"
+            "name": "GameEvents.BuildingConstructed.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.BuildingConstructed.md",
+            "link": "GameEvents.BuildingConstructed"
         }
     },
-    "OnPillage": {
+    "GameEvents.HasFourCities": {
         "file": {
-            "name": "OnPillage.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnPillage.md",
-            "link": "OnPillage"
+            "name": "GameEvents.HasFourCities.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.HasFourCities.md",
+            "link": "GameEvents.HasFourCities"
         }
     },
-    "HasFourCities": {
+    "GameEvents.PlotPropertyChanged": {
         "file": {
-            "name": "HasFourCities.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/HasFourCities.md",
-            "link": "HasFourCities"
+            "name": "GameEvents.PlotPropertyChanged.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.PlotPropertyChanged.md",
+            "link": "GameEvents.PlotPropertyChanged"
         }
     },
-    "CityBuilt": {
+    "GameEvents.OnCityPopulationChanged": {
         "file": {
-            "name": "CityBuilt.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/CityBuilt.md",
-            "link": "CityBuilt"
+            "name": "GameEvents.OnCityPopulationChanged.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnCityPopulationChanged.md",
+            "link": "GameEvents.OnCityPopulationChanged"
         }
     },
-    "PlotPropertyChanged": {
+    "GameEvents.CityBuilt": {
         "file": {
-            "name": "PlotPropertyChanged.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/PlotPropertyChanged.md",
-            "link": "PlotPropertyChanged"
+            "name": "GameEvents.CityBuilt.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.CityBuilt.md",
+            "link": "GameEvents.CityBuilt"
         }
     },
-    "UnitAddedToMap": {
+    "GameEvents.EventPopupChoice": {
         "file": {
-            "name": "UnitAddedToMap.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/UnitAddedToMap.md",
-            "link": "UnitAddedToMap"
+            "name": "GameEvents.EventPopupChoice.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.EventPopupChoice.md",
+            "link": "GameEvents.EventPopupChoice"
         }
     },
-    "PlayerTurnStarted": {
+    "GameEvents.FoundNewWorld": {
         "file": {
-            "name": "PlayerTurnStarted.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/PlayerTurnStarted.md",
-            "link": "PlayerTurnStarted"
+            "name": "GameEvents.FoundNewWorld.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.FoundNewWorld.md",
+            "link": "GameEvents.FoundNewWorld"
         }
     },
-    "EventPopupChoice": {
+    "GameEvents.OnGameTurnStarted": {
         "file": {
-            "name": "EventPopupChoice.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/EventPopupChoice.md",
-            "link": "EventPopupChoice"
+            "name": "GameEvents.OnGameTurnStarted.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnGameTurnStarted.md",
+            "link": "GameEvents.OnGameTurnStarted"
         }
     },
-    "BuildingConstructed": {
+    "GameEvents.BuildingPillageStateChanged": {
         "file": {
-            "name": "BuildingConstructed.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/BuildingConstructed.md",
-            "link": "BuildingConstructed"
+            "name": "GameEvents.BuildingPillageStateChanged.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.BuildingPillageStateChanged.md",
+            "link": "GameEvents.BuildingPillageStateChanged"
         }
     },
-    "FoundNewWorld": {
+    "GameEvents.OnCivicCulturevated": {
         "file": {
-            "name": "FoundNewWorld.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/FoundNewWorld.md",
-            "link": "FoundNewWorld"
+            "name": "GameEvents.OnCivicCulturevated.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnCivicCulturevated.md",
+            "link": "GameEvents.OnCivicCulturevated"
         }
     },
-    "OnDistrictConstructed": {
+    "GameEvents.PlayerTurnStarted": {
         "file": {
-            "name": "OnDistrictConstructed.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnDistrictConstructed.md",
-            "link": "OnDistrictConstructed"
+            "name": "GameEvents.PlayerTurnStarted.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.PlayerTurnStarted.md",
+            "link": "GameEvents.PlayerTurnStarted"
         }
     },
-    "OnNewMajorityReligion": {
+    "GameEvents.UnitAddedToMap": {
         "file": {
-            "name": "OnNewMajorityReligion.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnNewMajorityReligion.md",
-            "link": "OnNewMajorityReligion"
+            "name": "GameEvents.UnitAddedToMap.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.UnitAddedToMap.md",
+            "link": "GameEvents.UnitAddedToMap"
         }
     },
-    "OnGameTurnStarted": {
+    "GameEvents.OnUnitRetreated": {
         "file": {
-            "name": "OnGameTurnStarted.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnGameTurnStarted.md",
-            "link": "OnGameTurnStarted"
+            "name": "GameEvents.OnUnitRetreated.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnUnitRetreated.md",
+            "link": "GameEvents.OnUnitRetreated"
         }
     },
-    "CityConquered": {
+    "GameEvents.OnNewMajorityReligion": {
         "file": {
-            "name": "CityConquered.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/CityConquered.md",
-            "link": "CityConquered"
+            "name": "GameEvents.OnNewMajorityReligion.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnNewMajorityReligion.md",
+            "link": "GameEvents.OnNewMajorityReligion"
         }
     },
-    "OnCivicCulturevated": {
+    "GameEvents.OnFaithEarned": {
         "file": {
-            "name": "OnCivicCulturevated.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnCivicCulturevated.md",
-            "link": "OnCivicCulturevated"
+            "name": "GameEvents.OnFaithEarned.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnFaithEarned.md",
+            "link": "GameEvents.OnFaithEarned"
         }
     },
-    "OnFaithEarned": {
+    "GameEvents.CityConquered": {
         "file": {
-            "name": "OnFaithEarned.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnFaithEarned.md",
-            "link": "OnFaithEarned"
+            "name": "GameEvents.CityConquered.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.CityConquered.md",
+            "link": "GameEvents.CityConquered"
         }
     },
-    "OnCityPopulationChanged": {
+    "GameEvents.OnPlayerCommandSetObjectState": {
         "file": {
-            "name": "OnCityPopulationChanged.md",
-            "folder": "../Event Objects/GameEvents",
-            "path": "../Event Objects/GameEvents/OnCityPopulationChanged.md",
-            "link": "OnCityPopulationChanged"
+            "name": "GameEvents.OnPlayerCommandSetObjectState.md",
+            "folder": "../EventObjects/GameEvents",
+            "path": "../EventObjects/GameEvents/GameEvents.OnPlayerCommandSetObjectState.md",
+            "link": "GameEvents.OnPlayerCommandSetObjectState"
         }
     },
     "GameEras.GetPlayerCommemorateChoices": {
