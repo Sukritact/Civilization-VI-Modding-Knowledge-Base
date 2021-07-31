@@ -1,10 +1,13 @@
 ---
 UI: false
-arguments: []
+arguments:
+- MaxInteger [number]
+- Reason [string]
 invoke: .
 memberOf: TerrainBuilder
 methodname: GetRandomNumber
-returns: []
+returns:
+- RandomInteger [number]
 script: true
 tags:
 - TerrainBuilder/_function
@@ -17,4 +20,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||TerrainBuilder.GetRandomNumber||
+| |✓|`RandomInteger [number]`|TerrainBuilder.GetRandomNumber|`MaxInteger [number]`<br>`Reason [string]`|

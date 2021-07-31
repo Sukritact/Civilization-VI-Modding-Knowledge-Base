@@ -2785,8 +2785,8 @@
           "Name": "Game.GetRandNum",
           "UI": 0,
           "Script": 1,
-          "Returns": [],
-          "Arguments": []
+          "Returns": ["RandomInteger [number]"],
+          "Arguments": ["MaxInteger [number]", "Reason [string]"]
         },
         {
           "Name": "Game.GetRandomSeed",
@@ -8810,8 +8810,8 @@
           "Name": "TerrainBuilder.GetRandomNumber",
           "UI": 0,
           "Script": 1,
-          "Returns": [],
-          "Arguments": []
+          "Returns": ["RandomInteger [number]"],
+          "Arguments": ["MaxInteger [number]", "Reason [string]"]
         },
         {
           "Name": "TerrainBuilder.SetContinentType",

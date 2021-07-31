@@ -50,7 +50,7 @@ This file is a description of an object. This object is accessible as a global v
 |✓|✓||:|[[Game.GetProperties\|GetProperties]]||
 |✓|✓||:|[[Game.GetProperty\|GetProperty]]||
 |✓|✓|<code>[[QuestsManager]]<code/>|.|[[Game.GetQuestsManager\|GetQuestsManager]]||
-|✓| ||.|[[Game.GetRandNum\|GetRandNum]]||
+|✓| |`RandomInteger [number]`|.|[[Game.GetRandNum\|GetRandNum]]|`MaxInteger [number]`<br>`Reason [string]`|
 |✓| ||.|[[Game.GetRandomSeed\|GetRandomSeed]]||
 |✓|✓|<code>[[GameReligion]]<code/>|.|[[Game.GetReligion\|GetReligion]]||
 | |✓|<code>[[GameTechs]]<code/>|.|[[Game.GetTechs\|GetTechs]]||

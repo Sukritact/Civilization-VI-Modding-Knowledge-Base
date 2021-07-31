@@ -19,7 +19,7 @@ This file is a description of an object. This object is accessible as a global v
 |✓| ||.|[[TerrainBuilder.GetFeaturePlacementPlotList\|GetFeaturePlacementPlotList]]||
 |✓| ||.|[[TerrainBuilder.GetFractalFlags\|GetFractalFlags]]||
 |✓| ||.|[[TerrainBuilder.GetInlandCorner\|GetInlandCorner]]||
-|✓| ||.|[[TerrainBuilder.GetRandomNumber\|GetRandomNumber]]||
+|✓| |`RandomInteger [number]`|.|[[TerrainBuilder.GetRandomNumber\|GetRandomNumber]]|`MaxInteger [number]`<br>`Reason [string]`|
 |✓| ||.|[[TerrainBuilder.SetContinentType\|SetContinentType]]||
 |✓| ||.|[[TerrainBuilder.SetFeatureType\|SetFeatureType]]||
 |✓| ||.|[[TerrainBuilder.SetMultiPlotFeatureType\|SetMultiPlotFeatureType]]||

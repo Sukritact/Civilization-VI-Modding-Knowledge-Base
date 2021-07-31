@@ -8,7 +8,7 @@ arguments:
 - PlayerID [number]
 - Unknown [boolean]
 invoke: ':'
-memberOf: Game/GameGreatPeople
+memberOf: Game
 methodname: GrantPerson
 returns: []
 script: true
@@ -23,7 +23,9 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameGreatPeople:GrantPerson|`IndividualID [number]`<br>`GreatPersonClassID [number]`<br>`EraID [number]`<br>`Cost [number]`<br>`PlayerID [number]`<br>`Unknown [boolean]`|## Notes
+| |✓||GameGreatPeople:GrantPerson|`IndividualID [number]`<br>`GreatPersonClassID [number]`<br>`EraID [number]`<br>`Cost [number]`<br>`PlayerID [number]`<br>`Unknown [boolean]`|
+
+## Notes
 Grants the specified Great Person Individual. The Great Person seems to be placed in the most appropriate location as it would be were the Great Person earned via normal gameplay.
 
 Great Person Recruitment history is updated, and it prevents the same Great Person Individual from being earned normally through gameplay. This contrasts with [[GameGreatPeople.CreatePerson]] which doesn't. However, it is possible to create multiple of the same Great Person this way.

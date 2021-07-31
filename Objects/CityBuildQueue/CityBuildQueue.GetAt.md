@@ -3,7 +3,7 @@ UI: true
 arguments:
 - QueuePosition [number]
 invoke: ':'
-memberOf: City/CityBuildQueue
+memberOf: City
 methodname: GetAt
 returns:
 - QueueEntry [table]
@@ -19,7 +19,9 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |`QueueEntry [table]`|CityBuildQueue:GetAt|`QueuePosition [number]`|## Notes
+|✓| |`QueueEntry [table]`|CityBuildQueue:GetAt|`QueuePosition [number]`|
+
+## Notes
 Unlike standard Lua arrays `QueuePosition [number]` starts at 0. It returns a `table` representing whatever order is in the Build Queue at that position, or `null` if there is nothing queued at that position.
 
 The table it returns is as follows:
