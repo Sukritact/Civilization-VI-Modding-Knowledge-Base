@@ -21,3 +21,6 @@ tags:
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
 | |✓|`RandomInteger [number]`|TerrainBuilder.GetRandomNumber|`MaxInteger [number]`<br>`Reason [string]`|
+
+## Notes
+Returns a random integer between 0 and `MaxInteger [number]` - 1 inclusive. So if you feed in 2 as a parameter, it returns either 0 or 1.

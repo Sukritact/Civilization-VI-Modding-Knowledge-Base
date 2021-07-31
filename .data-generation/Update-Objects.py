@@ -7,8 +7,8 @@ import os
 # Defines
 # ===========================================================================
 yamlRegex		= re.compile(r'^\s*(---\s.*?\s*---)\s*', re.S)
-usageRegex		= re.compile(r'(## Usage.*?)($|###?)', re.S)
-methodsRegex	= re.compile(r'(## Methods.*?)($|###?)', re.S)
+usageRegex		= re.compile(r'(## Usage.*?)(\s*($|###*))', re.S)
+methodsRegex	= re.compile(r'(## Methods.*?)(\s*($|###*))', re.S)
 
 NamesRegex		= re.compile(r'(\w+)(.(\w+))?.md')
 

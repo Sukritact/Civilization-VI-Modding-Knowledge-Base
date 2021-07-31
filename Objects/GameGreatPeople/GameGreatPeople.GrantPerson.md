@@ -8,7 +8,7 @@ arguments:
 - PlayerID [number]
 - Unknown [boolean]
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameGreatPeople
 methodname: GrantPerson
 returns: []
 script: true

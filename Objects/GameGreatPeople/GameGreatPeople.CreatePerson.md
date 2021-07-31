@@ -6,7 +6,7 @@ arguments:
 - X [number]
 - Y [number]
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameGreatPeople
 methodname: CreatePerson
 returns: []
 script: true

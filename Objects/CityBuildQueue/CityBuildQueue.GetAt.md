@@ -3,7 +3,7 @@ UI: true
 arguments:
 - QueuePosition [number]
 invoke: ':'
-memberOf: City
+memberOf: City/CityBuildQueue
 methodname: GetAt
 returns:
 - QueueEntry [table]
