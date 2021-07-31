@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerCulture
 methodname: GetExtraTradeRouteTourismModifier
 returns: []
 script: false

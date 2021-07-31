@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityBuildQueue
 methodname: GetSize
 returns: []
 script: false

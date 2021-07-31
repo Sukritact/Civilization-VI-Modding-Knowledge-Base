@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerReligion
 methodname: HasReligiousFoundingUnit
 returns: []
 script: false

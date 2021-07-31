@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerWMDs
 methodname: GetWeaponCount
 returns: []
 script: true

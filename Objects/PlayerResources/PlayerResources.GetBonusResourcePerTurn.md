@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerResources
 methodname: GetBonusResourcePerTurn
 returns: []
 script: false

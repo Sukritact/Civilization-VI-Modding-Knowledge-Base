@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityBuildQueue
 methodname: GetConstructionsAtLocation
 returns: []
 script: false

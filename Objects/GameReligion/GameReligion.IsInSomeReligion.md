@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameReligion
 methodname: IsInSomeReligion
 returns: []
 script: true

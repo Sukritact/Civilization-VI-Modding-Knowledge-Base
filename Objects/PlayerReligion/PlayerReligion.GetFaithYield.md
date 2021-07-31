@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerReligion
 methodname: GetFaithYield
 returns: []
 script: true

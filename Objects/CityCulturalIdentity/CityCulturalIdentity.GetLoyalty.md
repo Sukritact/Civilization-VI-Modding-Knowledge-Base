@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityCulturalIdentity
 methodname: GetLoyalty
 returns: []
 script: false

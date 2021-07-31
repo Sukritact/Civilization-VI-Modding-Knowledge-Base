@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameReligion
 methodname: AddBuilding
 returns: []
 script: true

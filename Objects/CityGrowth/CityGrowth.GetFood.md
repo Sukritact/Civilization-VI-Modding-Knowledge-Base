@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityGrowth
 methodname: GetFood
 returns: []
 script: false

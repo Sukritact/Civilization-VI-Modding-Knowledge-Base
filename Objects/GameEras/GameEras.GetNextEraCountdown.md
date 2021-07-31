@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameEras
 methodname: GetNextEraCountdown
 returns: []
 script: false

@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerStats
 methodname: UpdateMaxMeleeStrengthTrained
 returns: []
 script: true

@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameFalloutManager
 methodname: GetFalloutPreventsWork
 returns: []
 script: true

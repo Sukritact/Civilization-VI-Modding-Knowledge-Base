@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerCulture
 methodname: SetCurrentGovernment
 returns: []
 script: true

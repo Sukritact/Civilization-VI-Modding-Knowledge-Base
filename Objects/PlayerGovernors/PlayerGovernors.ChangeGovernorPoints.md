@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerGovernors
 methodname: ChangeGovernorPoints
 returns: []
 script: true

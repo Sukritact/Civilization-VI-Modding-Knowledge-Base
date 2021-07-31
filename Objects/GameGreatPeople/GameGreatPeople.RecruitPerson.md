@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameGreatPeople
 methodname: RecruitPerson
 returns: []
 script: true

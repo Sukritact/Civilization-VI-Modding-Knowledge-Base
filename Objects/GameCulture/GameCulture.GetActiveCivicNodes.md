@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameCulture
 methodname: GetActiveCivicNodes
 returns: []
 script: false

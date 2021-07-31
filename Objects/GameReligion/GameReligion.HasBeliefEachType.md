@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameReligion
 methodname: HasBeliefEachType
 returns: []
 script: true

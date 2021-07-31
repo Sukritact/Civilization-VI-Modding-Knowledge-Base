@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerTechs
 methodname: GetTurnsToResearch
 returns: []
 script: true

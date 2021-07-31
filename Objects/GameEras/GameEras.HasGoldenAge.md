@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameEras
 methodname: HasGoldenAge
 returns: []
 script: false

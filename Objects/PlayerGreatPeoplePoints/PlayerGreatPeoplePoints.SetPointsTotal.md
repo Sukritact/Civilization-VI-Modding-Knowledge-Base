@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerGreatPeoplePoints
 methodname: SetPointsTotal
 returns: []
 script: true

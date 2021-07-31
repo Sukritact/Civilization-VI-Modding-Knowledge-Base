@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityCulture
 methodname: GetNextPlot
 returns: []
 script: false

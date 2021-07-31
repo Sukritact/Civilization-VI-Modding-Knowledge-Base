@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityBuildQueue
 methodname: CreateIncompleteDistrict
 returns: []
 script: true

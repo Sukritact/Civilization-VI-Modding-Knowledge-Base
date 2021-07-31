@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerReligion
 methodname: SetFaithBalance
 returns: []
 script: true

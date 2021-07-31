@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityGrowth
 methodname: GetAmenitiesFromNaturalWonders
 returns: []
 script: false

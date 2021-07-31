@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerGovernors
 methodname: GetGovernorList
 returns: []
 script: false

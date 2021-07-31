@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerResources
 methodname: IsResourceBanned
 returns: []
 script: false

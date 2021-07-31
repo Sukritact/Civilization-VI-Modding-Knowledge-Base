@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerWMDs
 methodname: ChangeWeaponCount
 returns: []
 script: true

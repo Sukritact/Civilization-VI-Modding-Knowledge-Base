@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityBuildings
 methodname: GetPlayerFromIndex
 returns: []
 script: false

@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerTreasury
 methodname: ChangeGoldBalance
 returns: []
 script: true

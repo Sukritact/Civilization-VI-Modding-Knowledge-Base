@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerTreasury
 methodname: GetWMDMaintenance
 returns: []
 script: true

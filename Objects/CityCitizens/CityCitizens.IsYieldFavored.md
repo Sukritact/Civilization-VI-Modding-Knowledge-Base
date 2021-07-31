@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityCitizens
 methodname: IsYieldFavored
 returns: []
 script: true

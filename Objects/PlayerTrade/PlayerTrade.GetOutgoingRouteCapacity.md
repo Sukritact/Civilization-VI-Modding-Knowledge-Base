@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerTrade
 methodname: GetOutgoingRouteCapacity
 returns: []
 script: true

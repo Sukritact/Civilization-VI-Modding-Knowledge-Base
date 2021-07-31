@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityDistricts
 methodname: GetNumZonedDistrictsRequiringPopulation
 returns: []
 script: false

@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityReligion
 methodname: GetMajorityReligion
 returns: []
 script: true

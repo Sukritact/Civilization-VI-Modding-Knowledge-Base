@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerTechs
 methodname: TriggerBoost
 returns: []
 script: true

@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityDistricts
 methodname: GetDistrictAtLocation
 returns: []
 script: true

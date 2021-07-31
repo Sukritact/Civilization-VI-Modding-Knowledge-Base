@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameEras
 methodname: ChangePlayerEraScore
 returns: []
 script: true

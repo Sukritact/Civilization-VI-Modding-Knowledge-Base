@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerEras
 methodname: SetStartingEra
 returns: []
 script: true

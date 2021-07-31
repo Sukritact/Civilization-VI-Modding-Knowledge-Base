@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameFalloutManager
 methodname: GetReactorCount
 returns: []
 script: true

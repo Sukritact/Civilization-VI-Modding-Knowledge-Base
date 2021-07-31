@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityBuildings
 methodname: SetPillaged
 returns: []
 script: true

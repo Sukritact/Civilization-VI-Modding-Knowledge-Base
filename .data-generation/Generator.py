@@ -93,9 +93,9 @@ for object_entry in data["Objects"]:
 					processed = ""
 
 					if val in objects:
-						processed = "<code>[["+val+"]]<code/>"
+						processed = "<code>[[" + val + "]]<code/>"
 					else:
-						processed = "`"+val+"`"
+						processed = "`" + val + "`"
 					listNew.append(processed)
 
 			returnsString = "<br>".join(returns)

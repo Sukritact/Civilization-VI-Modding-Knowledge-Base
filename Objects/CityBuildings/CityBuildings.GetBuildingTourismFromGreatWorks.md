@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityBuildings
 methodname: GetBuildingTourismFromGreatWorks
 returns: []
 script: false

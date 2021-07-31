@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameGreatPeople
 methodname: CanRejectPerson
 returns: []
 script: true

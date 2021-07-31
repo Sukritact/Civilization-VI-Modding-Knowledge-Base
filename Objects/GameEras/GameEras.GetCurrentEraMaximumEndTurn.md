@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameEras
 methodname: GetCurrentEraMaximumEndTurn
 returns: []
 script: false

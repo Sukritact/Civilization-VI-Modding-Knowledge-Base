@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerInfluence
 methodname: CanLevyMilitary
 returns: []
 script: false

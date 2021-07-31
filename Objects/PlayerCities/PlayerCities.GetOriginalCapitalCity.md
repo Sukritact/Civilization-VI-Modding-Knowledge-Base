@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerCities
 methodname: GetOriginalCapitalCity
 returns: []
 script: true

@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerUnits
 methodname: RecomputeAllCosts
 returns: []
 script: true

@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameDiplomacy
 methodname: SetAlliesShareVisFlag
 returns: []
 script: true

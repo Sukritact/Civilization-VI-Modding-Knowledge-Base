@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerInfluence
 methodname: GiveFreeTokenToPlayer
 returns: []
 script: true

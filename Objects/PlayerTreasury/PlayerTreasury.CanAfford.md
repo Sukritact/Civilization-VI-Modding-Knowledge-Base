@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerTreasury
 methodname: CanAfford
 returns: []
 script: false

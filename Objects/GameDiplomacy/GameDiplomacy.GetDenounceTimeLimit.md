@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameDiplomacy
 methodname: GetDenounceTimeLimit
 returns: []
 script: false

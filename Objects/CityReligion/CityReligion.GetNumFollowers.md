@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityReligion
 methodname: GetNumFollowers
 returns: []
 script: true

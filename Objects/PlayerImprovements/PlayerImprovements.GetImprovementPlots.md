@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerImprovements
 methodname: GetImprovementPlots
 returns: []
 script: false

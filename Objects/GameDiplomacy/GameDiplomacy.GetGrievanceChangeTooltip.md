@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameDiplomacy
 methodname: GetGrievanceChangeTooltip
 returns: []
 script: true

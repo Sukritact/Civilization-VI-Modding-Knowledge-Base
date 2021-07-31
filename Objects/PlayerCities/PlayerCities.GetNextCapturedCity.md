@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerCities
 methodname: GetNextCapturedCity
 returns: []
 script: false

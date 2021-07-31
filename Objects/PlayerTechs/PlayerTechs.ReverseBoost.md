@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerTechs
 methodname: ReverseBoost
 returns: []
 script: true

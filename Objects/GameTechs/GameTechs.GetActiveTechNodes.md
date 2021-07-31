@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameTechs
 methodname: GetActiveTechNodes
 returns: []
 script: false

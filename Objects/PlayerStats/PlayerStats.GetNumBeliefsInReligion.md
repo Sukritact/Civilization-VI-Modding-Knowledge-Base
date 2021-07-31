@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerStats
 methodname: GetNumBeliefsInReligion
 returns: []
 script: true

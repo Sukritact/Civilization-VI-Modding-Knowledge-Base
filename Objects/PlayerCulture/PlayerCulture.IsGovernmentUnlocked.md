@@ -3,7 +3,7 @@ UI: true
 arguments:
 - GovernmentID [number]
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerCulture
 methodname: IsGovernmentUnlocked
 returns:
 - IsUnlocked [boolean]

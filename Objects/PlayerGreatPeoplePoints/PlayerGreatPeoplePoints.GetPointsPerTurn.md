@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerGreatPeoplePoints
 methodname: GetPointsPerTurn
 returns: []
 script: false

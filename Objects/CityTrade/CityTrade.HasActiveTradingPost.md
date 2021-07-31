@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityTrade
 methodname: HasActiveTradingPost
 returns: []
 script: false

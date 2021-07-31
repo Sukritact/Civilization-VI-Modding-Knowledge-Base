@@ -6,7 +6,7 @@ arguments:
 - X [number]
 - Y [number]
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameGreatPeople
 methodname: CreatePerson
 returns: []
 script: true
@@ -21,9 +21,7 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓||GameGreatPeople:CreatePerson|`PlayerID [number]`<br>`IndividualID [number]`<br>`X [number]`<br>`Y [number]`|
-
-## Notes
+| |✓||GameGreatPeople:CreatePerson|`PlayerID [number]`<br>`IndividualID [number]`<br>`X [number]`<br>`Y [number]`|## Notes
   
 Creates the specified Great Person Individual. Units created this way will stack on the specified tile with no limit.  
   

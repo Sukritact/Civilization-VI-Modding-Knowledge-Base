@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerUnits
 methodname: GetProcessingState
 returns: []
 script: false

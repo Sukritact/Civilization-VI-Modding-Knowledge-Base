@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityGold
 methodname: IsBuildingFaithPurchaseEnabled
 returns: []
 script: false

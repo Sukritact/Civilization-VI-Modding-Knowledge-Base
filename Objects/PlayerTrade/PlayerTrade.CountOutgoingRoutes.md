@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerTrade
 methodname: CountOutgoingRoutes
 returns: []
 script: true

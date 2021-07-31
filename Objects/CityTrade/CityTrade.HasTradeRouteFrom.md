@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityTrade
 methodname: HasTradeRouteFrom
 returns: []
 script: false

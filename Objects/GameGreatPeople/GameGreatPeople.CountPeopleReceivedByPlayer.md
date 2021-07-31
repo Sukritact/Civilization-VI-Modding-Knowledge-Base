@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameGreatPeople
 methodname: CountPeopleReceivedByPlayer
 returns: []
 script: false

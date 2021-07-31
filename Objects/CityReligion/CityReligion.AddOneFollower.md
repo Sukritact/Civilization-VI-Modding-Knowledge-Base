@@ -2,7 +2,7 @@
 UI: false
 arguments: []
 invoke: ':'
-memberOf: City
+memberOf: City/CityReligion
 methodname: AddOneFollower
 returns: []
 script: true

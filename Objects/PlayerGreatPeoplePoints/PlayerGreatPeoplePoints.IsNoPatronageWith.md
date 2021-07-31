@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Player
+memberOf: Player/PlayerGreatPeoplePoints
 methodname: IsNoPatronageWith
 returns: []
 script: false

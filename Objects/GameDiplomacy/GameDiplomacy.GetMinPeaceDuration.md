@@ -2,7 +2,7 @@
 UI: true
 arguments: []
 invoke: ':'
-memberOf: Game
+memberOf: Game/GameDiplomacy
 methodname: GetMinPeaceDuration
 returns: []
 script: false
