@@ -44,7 +44,8 @@ def DumpChildren(objectName, indent):
 
 	indent = indent + "\t"
 
-	for child in object_entry['children']:
+	children = sorted(object_entry['children'].keys(), key=lambda x:x.lower())
+	for child in children:
 		DumpChildren(child, indent)
 
 for objectName in sortedobjects:
