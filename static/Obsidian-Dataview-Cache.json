@@ -3536,6 +3536,512 @@
             "link": "CityGold"
         }
     },
+    "UnitReligion.GetSpreadCharges": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetSpreadCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetSpreadCharges.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetSpreadCharges.md",
+            "link": "UnitReligion.GetSpreadCharges"
+        }
+    },
+    "UnitReligion.ChangeEvictPercent": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "ChangeEvictPercent",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.ChangeEvictPercent.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.ChangeEvictPercent.md",
+            "link": "UnitReligion.ChangeEvictPercent"
+        }
+    },
+    "UnitReligion.ChangeReligiousStrength": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "ChangeReligiousStrength",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.ChangeReligiousStrength.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.ChangeReligiousStrength.md",
+            "link": "UnitReligion.ChangeReligiousStrength"
+        }
+    },
+    "UnitReligion.SetNoForeignSpread": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "SetNoForeignSpread",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.SetNoForeignSpread.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.SetNoForeignSpread.md",
+            "link": "UnitReligion.SetNoForeignSpread"
+        }
+    },
+    "UnitReligion.ChangeNWDeferredCharges": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "ChangeNWDeferredCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.ChangeNWDeferredCharges.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.ChangeNWDeferredCharges.md",
+            "link": "UnitReligion.ChangeNWDeferredCharges"
+        }
+    },
+    "UnitReligion.SetInitiationAmount": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "SetInitiationAmount",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.SetInitiationAmount.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.SetInitiationAmount.md",
+            "link": "UnitReligion.SetInitiationAmount"
+        }
+    },
+    "UnitReligion.GetForeignSpreadModifier": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetForeignSpreadModifier",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetForeignSpreadModifier.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetForeignSpreadModifier.md",
+            "link": "UnitReligion.GetForeignSpreadModifier"
+        }
+    },
+    "UnitReligion.GetEvictPercent": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetEvictPercent",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetEvictPercent.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetEvictPercent.md",
+            "link": "UnitReligion.GetEvictPercent"
+        }
+    },
+    "UnitReligion.IsNoForeignSpread": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "IsNoForeignSpread",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.IsNoForeignSpread.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.IsNoForeignSpread.md",
+            "link": "UnitReligion.IsNoForeignSpread"
+        }
+    },
+    "UnitReligion.ChangeForeignSpreadModifier": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "ChangeForeignSpreadModifier",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.ChangeForeignSpreadModifier.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.ChangeForeignSpreadModifier.md",
+            "link": "UnitReligion.ChangeForeignSpreadModifier"
+        }
+    },
+    "UnitReligion.SetConvertsBarbarians": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "SetConvertsBarbarians",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.SetConvertsBarbarians.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.SetConvertsBarbarians.md",
+            "link": "UnitReligion.SetConvertsBarbarians"
+        }
+    },
+    "UnitReligion.SetRelicUponDeath": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "SetRelicUponDeath",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.SetRelicUponDeath.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.SetRelicUponDeath.md",
+            "link": "UnitReligion.SetRelicUponDeath"
+        }
+    },
+    "UnitReligion.IsRelicUponDeath": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "IsRelicUponDeath",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.IsRelicUponDeath.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.IsRelicUponDeath.md",
+            "link": "UnitReligion.IsRelicUponDeath"
+        }
+    },
+    "UnitReligion": {
+        "tags": [
+            "Unit/UnitReligion",
+            "object/instance"
+        ],
+        "file": {
+            "name": "UnitReligion.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.md",
+            "link": "UnitReligion"
+        }
+    },
+    "UnitReligion.GetInitiationYield": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetInitiationYield",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetInitiationYield.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetInitiationYield.md",
+            "link": "UnitReligion.GetInitiationYield"
+        }
+    },
+    "UnitReligion.SetReligionType": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "SetReligionType",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.SetReligionType.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.SetReligionType.md",
+            "link": "UnitReligion.SetReligionType"
+        }
+    },
+    "UnitReligion.SetInitiationYield": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "SetInitiationYield",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.SetInitiationYield.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.SetInitiationYield.md",
+            "link": "UnitReligion.SetInitiationYield"
+        }
+    },
+    "UnitReligion.IsConvertsBarbarians": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "IsConvertsBarbarians",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.IsConvertsBarbarians.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.IsConvertsBarbarians.md",
+            "link": "UnitReligion.IsConvertsBarbarians"
+        }
+    },
+    "UnitReligion.GetReligiousStrength": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetReligiousStrength",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetReligiousStrength.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetReligiousStrength.md",
+            "link": "UnitReligion.GetReligiousStrength"
+        }
+    },
+    "UnitReligion.GetReligionType": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetReligionType",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetReligionType.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetReligionType.md",
+            "link": "UnitReligion.GetReligionType"
+        }
+    },
+    "UnitReligion.GetReligiousHealCharges": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetReligiousHealCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetReligiousHealCharges.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetReligiousHealCharges.md",
+            "link": "UnitReligion.GetReligiousHealCharges"
+        }
+    },
+    "UnitReligion.GetInitiationAmount": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetInitiationAmount",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetInitiationAmount.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetInitiationAmount.md",
+            "link": "UnitReligion.GetInitiationAmount"
+        }
+    },
+    "UnitReligion.ChangeSpreadCharges": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "ChangeSpreadCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.ChangeSpreadCharges.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.ChangeSpreadCharges.md",
+            "link": "UnitReligion.ChangeSpreadCharges"
+        }
+    },
+    "UnitReligion.GetNWDeferredCharges": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "GetNWDeferredCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.GetNWDeferredCharges.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.GetNWDeferredCharges.md",
+            "link": "UnitReligion.GetNWDeferredCharges"
+        }
+    },
+    "UnitReligion.SetForeignSpreadModifier": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "SetForeignSpreadModifier",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.SetForeignSpreadModifier.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.SetForeignSpreadModifier.md",
+            "link": "UnitReligion.SetForeignSpreadModifier"
+        }
+    },
+    "UnitReligion.SetEvictPercent": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "SetEvictPercent",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.SetEvictPercent.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.SetEvictPercent.md",
+            "link": "UnitReligion.SetEvictPercent"
+        }
+    },
+    "UnitReligion.ChangeReligiousHealCharges": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitReligion",
+        "methodname": "ChangeReligiousHealCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitReligion/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitReligion.ChangeReligiousHealCharges.md",
+            "folder": "../Objects/UnitReligion",
+            "path": "../Objects/UnitReligion/UnitReligion.ChangeReligiousHealCharges.md",
+            "link": "UnitReligion.ChangeReligiousHealCharges"
+        }
+    },
     "GameFalloutManager.SetFalloutDamageOverride": {
         "UI": false,
         "arguments": [],
@@ -9866,6 +10372,269 @@
             "link": "AiMilitary"
         }
     },
+    "UnitExperience.SetExperienceLocked": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "SetExperienceLocked",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.SetExperienceLocked.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.SetExperienceLocked.md",
+            "link": "UnitExperience.SetExperienceLocked"
+        }
+    },
+    "UnitExperience.GetVeteranName": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "GetVeteranName",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.GetVeteranName.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.GetVeteranName.md",
+            "link": "UnitExperience.GetVeteranName"
+        }
+    },
+    "UnitExperience.GetLevel": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "GetLevel",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitExperience.GetLevel.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.GetLevel.md",
+            "link": "UnitExperience.GetLevel"
+        }
+    },
+    "UnitExperience.GetExperienceForNextLevel": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "GetExperienceForNextLevel",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.GetExperienceForNextLevel.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.GetExperienceForNextLevel.md",
+            "link": "UnitExperience.GetExperienceForNextLevel"
+        }
+    },
+    "UnitExperience.HasPromotion": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "HasPromotion",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.HasPromotion.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.HasPromotion.md",
+            "link": "UnitExperience.HasPromotion"
+        }
+    },
+    "UnitExperience.GetExperiencePoints": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "GetExperiencePoints",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.GetExperiencePoints.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.GetExperiencePoints.md",
+            "link": "UnitExperience.GetExperiencePoints"
+        }
+    },
+    "UnitExperience.CanPromote": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "CanPromote",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.CanPromote.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.CanPromote.md",
+            "link": "UnitExperience.CanPromote"
+        }
+    },
+    "UnitExperience.SetVeteranName": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "SetVeteranName",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.SetVeteranName.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.SetVeteranName.md",
+            "link": "UnitExperience.SetVeteranName"
+        }
+    },
+    "UnitExperience.ChangeStoredPromotions": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "ChangeStoredPromotions",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.ChangeStoredPromotions.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.ChangeStoredPromotions.md",
+            "link": "UnitExperience.ChangeStoredPromotions"
+        }
+    },
+    "UnitExperience.SetPromotion": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "SetPromotion",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.SetPromotion.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.SetPromotion.md",
+            "link": "UnitExperience.SetPromotion"
+        }
+    },
+    "UnitExperience": {
+        "tags": [
+            "Unit/UnitExperience",
+            "object/instance"
+        ],
+        "file": {
+            "name": "UnitExperience.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.md",
+            "link": "UnitExperience"
+        }
+    },
+    "UnitExperience.GetPromotions": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "GetPromotions",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitExperience.GetPromotions.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.GetPromotions.md",
+            "link": "UnitExperience.GetPromotions"
+        }
+    },
+    "UnitExperience.ChangeExperience": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "ChangeExperience",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitExperience.ChangeExperience.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.ChangeExperience.md",
+            "link": "UnitExperience.ChangeExperience"
+        }
+    },
+    "UnitExperience.GetUnit": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitExperience",
+        "methodname": "GetUnit",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitExperience/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitExperience.GetUnit.md",
+            "folder": "../Objects/UnitExperience",
+            "path": "../Objects/UnitExperience/UnitExperience.GetUnit.md",
+            "link": "UnitExperience.GetUnit"
+        }
+    },
     "AiGrandStrategic.GetCivicsRecommendations": {
         "UI": true,
         "arguments": [],
@@ -13723,16 +14492,1821 @@
             "link": "DealManager.EditWorkingDeal"
         }
     },
+    "Unit.GetUpgradeResourceCost": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetUpgradeResourceCost",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetUpgradeResourceCost.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetUpgradeResourceCost.md",
+            "link": "Unit.GetUpgradeResourceCost"
+        }
+    },
+    "Unit.IsDelayedDeath": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsDelayedDeath",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsDelayedDeath.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsDelayedDeath.md",
+            "link": "Unit.IsDelayedDeath"
+        }
+    },
+    "Unit.GetFormationUnits": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetFormationUnits",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetFormationUnits.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetFormationUnits.md",
+            "link": "Unit.GetFormationUnits"
+        }
+    },
+    "Unit.GetTypeHash": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetTypeHash",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetTypeHash.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetTypeHash.md",
+            "link": "Unit.GetTypeHash"
+        }
+    },
+    "Unit.GetDomain": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetDomain",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetDomain.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetDomain.md",
+            "link": "Unit.GetDomain"
+        }
+    },
+    "Unit.GetSpyOperation": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetSpyOperation",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetSpyOperation.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetSpyOperation.md",
+            "link": "Unit.GetSpyOperation"
+        }
+    },
+    "Unit.GetReligionType": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetReligionType",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetReligionType.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetReligionType.md",
+            "link": "Unit.GetReligionType"
+        }
+    },
+    "Unit.GetArchaeologyHomeCity": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetArchaeologyHomeCity",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetArchaeologyHomeCity.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetArchaeologyHomeCity.md",
+            "link": "Unit.GetArchaeologyHomeCity"
+        }
+    },
+    "Unit.GetBombardCombat": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetBombardCombat",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetBombardCombat.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetBombardCombat.md",
+            "link": "Unit.GetBombardCombat"
+        }
+    },
+    "Unit.GetSpreadCharges": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetSpreadCharges",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetSpreadCharges.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetSpreadCharges.md",
+            "link": "Unit.GetSpreadCharges"
+        }
+    },
+    "Unit.GetDamage": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetDamage",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetDamage.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetDamage.md",
+            "link": "Unit.GetDamage"
+        }
+    },
+    "Unit.GetChildIDs": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetChildIDs",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetChildIDs.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetChildIDs.md",
+            "link": "Unit.GetChildIDs"
+        }
+    },
+    "Unit.IsReadyToAutomate": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsReadyToAutomate",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsReadyToAutomate.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsReadyToAutomate.md",
+            "link": "Unit.IsReadyToAutomate"
+        }
+    },
+    "Unit.GetOperationParameter": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetOperationParameter",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetOperationParameter.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetOperationParameter.md",
+            "link": "Unit.GetOperationParameter"
+        }
+    },
+    "Unit.GetAirUnits": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetAirUnits",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetAirUnits.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetAirUnits.md",
+            "link": "Unit.GetAirUnits"
+        }
+    },
+    "Unit.SetDamage": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "SetDamage",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.SetDamage.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.SetDamage.md",
+            "link": "Unit.SetDamage"
+        }
+    },
+    "Unit.GetFormationClass": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetFormationClass",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetFormationClass.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetFormationClass.md",
+            "link": "Unit.GetFormationClass"
+        }
+    },
+    "Unit.GetHeroClassType": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetHeroClassType",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetHeroClassType.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetHeroClassType.md",
+            "link": "Unit.GetHeroClassType"
+        }
+    },
+    "Unit.IsAutomated": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsAutomated",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.IsAutomated.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsAutomated.md",
+            "link": "Unit.IsAutomated"
+        }
+    },
+    "Unit.GetAirSlots": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetAirSlots",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetAirSlots.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetAirSlots.md",
+            "link": "Unit.GetAirSlots"
+        }
+    },
+    "Unit.ChangeDamage": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "ChangeDamage",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.ChangeDamage.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.ChangeDamage.md",
+            "link": "Unit.ChangeDamage"
+        }
+    },
+    "Unit.GetSpyOperationEndTurn": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetSpyOperationEndTurn",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetSpyOperationEndTurn.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetSpyOperationEndTurn.md",
+            "link": "Unit.GetSpyOperationEndTurn"
+        }
+    },
+    "Unit.HasPendingOperations": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "HasPendingOperations",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.HasPendingOperations.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.HasPendingOperations.md",
+            "link": "Unit.HasPendingOperations"
+        }
+    },
+    "Unit.GetAbility": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetAbility",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetAbility.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetAbility.md",
+            "link": "Unit.GetAbility"
+        }
+    },
+    "Unit.GetFortifyTurns": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetFortifyTurns",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetFortifyTurns.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetFortifyTurns.md",
+            "link": "Unit.GetFortifyTurns"
+        }
+    },
+    "Unit.GetLootName": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetLootName",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetLootName.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetLootName.md",
+            "link": "Unit.GetLootName"
+        }
+    },
+    "Unit.GetPursuingSpyName": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetPursuingSpyName",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetPursuingSpyName.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetPursuingSpyName.md",
+            "link": "Unit.GetPursuingSpyName"
+        }
+    },
+    "Unit.GetLocation": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetLocation",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetLocation.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetLocation.md",
+            "link": "Unit.GetLocation"
+        }
+    },
+    "Unit.GetGreatPerson": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetGreatPerson",
+        "returns": [
+            "UnitGreatPerson"
+        ],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetGreatPerson.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetGreatPerson.md",
+            "link": "Unit.GetGreatPerson"
+        }
+    },
+    "Unit.GetOperationType": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetOperationType",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetOperationType.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetOperationType.md",
+            "link": "Unit.GetOperationType"
+        }
+    },
+    "Unit.GetOriginalOwner": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetOriginalOwner",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetOriginalOwner.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetOriginalOwner.md",
+            "link": "Unit.GetOriginalOwner"
+        }
+    },
+    "Unit.GetRange": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetRange",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetRange.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetRange.md",
+            "link": "Unit.GetRange"
+        }
+    },
+    "Unit.GetFormationUnitIDs": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetFormationUnitIDs",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetFormationUnitIDs.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetFormationUnitIDs.md",
+            "link": "Unit.GetFormationUnitIDs"
+        }
+    },
+    "Unit.GetArchaeology": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetArchaeology",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetArchaeology.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetArchaeology.md",
+            "link": "Unit.GetArchaeology"
+        }
+    },
+    "Unit.GetBarbarianTargetPlayer": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetBarbarianTargetPlayer",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetBarbarianTargetPlayer.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetBarbarianTargetPlayer.md",
+            "link": "Unit.GetBarbarianTargetPlayer"
+        }
+    },
+    "Unit.GetDisasterCharges": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetDisasterCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetDisasterCharges.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetDisasterCharges.md",
+            "link": "Unit.GetDisasterCharges"
+        }
+    },
+    "Unit.IsDead": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsDead",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsDead.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsDead.md",
+            "link": "Unit.IsDead"
+        }
+    },
+    "Unit.GetFormationMovesRemaining": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetFormationMovesRemaining",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetFormationMovesRemaining.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetFormationMovesRemaining.md",
+            "link": "Unit.GetFormationMovesRemaining"
+        }
+    },
+    "Unit.GetUnitType": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetUnitType",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetUnitType.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetUnitType.md",
+            "link": "Unit.GetUnitType"
+        }
+    },
+    "Unit.ChangeActionCharges": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "ChangeActionCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.ChangeActionCharges.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.ChangeActionCharges.md",
+            "link": "Unit.ChangeActionCharges"
+        }
+    },
+    "Unit.GetActionCharges": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetActionCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetActionCharges.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetActionCharges.md",
+            "link": "Unit.GetActionCharges"
+        }
+    },
+    "Unit.GetReligiousHealCharges": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetReligiousHealCharges",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetReligiousHealCharges.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetReligiousHealCharges.md",
+            "link": "Unit.GetReligiousHealCharges"
+        }
+    },
+    "Unit.HasMovedIntoZOC": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "HasMovedIntoZOC",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.HasMovedIntoZOC.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.HasMovedIntoZOC.md",
+            "link": "Unit.HasMovedIntoZOC"
+        }
+    },
+    "Unit.GetTrade": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetTrade",
+        "returns": [
+            "UnitTrade"
+        ],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetTrade.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetTrade.md",
+            "link": "Unit.GetTrade"
+        }
+    },
+    "Unit.GetUpgradeCost": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetUpgradeCost",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetUpgradeCost.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetUpgradeCost.md",
+            "link": "Unit.GetUpgradeCost"
+        }
+    },
+    "Unit.GetName": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetName",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetName.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetName.md",
+            "link": "Unit.GetName"
+        }
+    },
+    "Unit.GetProperties": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetProperties",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetProperties.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetProperties.md",
+            "link": "Unit.GetProperties"
+        }
+    },
+    "Unit.GetFormationUnitCount": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetFormationUnitCount",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetFormationUnitCount.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetFormationUnitCount.md",
+            "link": "Unit.GetFormationUnitCount"
+        }
+    },
+    "Unit.GetMaxMoves": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetMaxMoves",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetMaxMoves.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetMaxMoves.md",
+            "link": "Unit.GetMaxMoves"
+        }
+    },
+    "Unit.GetRockBand": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetRockBand",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetRockBand.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetRockBand.md",
+            "link": "Unit.GetRockBand"
+        }
+    },
+    "Unit.GetPlotId": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetPlotId",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetPlotId.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetPlotId.md",
+            "link": "Unit.GetPlotId"
+        }
+    },
+    "Unit.GetOwner": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetOwner",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetOwner.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetOwner.md",
+            "link": "Unit.GetOwner"
+        }
+    },
     "Unit": {
         "tags": [
             "Unit",
-            "object/static"
+            "object/instance"
         ],
         "file": {
             "name": "Unit.md",
             "folder": "../Objects/Unit",
             "path": "../Objects/Unit/Unit.md",
             "link": "Unit"
+        }
+    },
+    "Unit.IgnoresZOC": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IgnoresZOC",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IgnoresZOC.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IgnoresZOC.md",
+            "link": "Unit.IgnoresZOC"
+        }
+    },
+    "Unit.GetParentID": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetParentID",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetParentID.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetParentID.md",
+            "link": "Unit.GetParentID"
+        }
+    },
+    "Unit.GetType": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetType",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetType.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetType.md",
+            "link": "Unit.GetType"
+        }
+    },
+    "Unit.HasHiddenVisibility": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "HasHiddenVisibility",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.HasHiddenVisibility.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.HasHiddenVisibility.md",
+            "link": "Unit.HasHiddenVisibility"
+        }
+    },
+    "Unit.GetFormationMaxMoves": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetFormationMaxMoves",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetFormationMaxMoves.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetFormationMaxMoves.md",
+            "link": "Unit.GetFormationMaxMoves"
+        }
+    },
+    "Unit.GetBuildCharges": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetBuildCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetBuildCharges.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetBuildCharges.md",
+            "link": "Unit.GetBuildCharges"
+        }
+    },
+    "Unit.IsGreatPerson": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsGreatPerson",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsGreatPerson.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsGreatPerson.md",
+            "link": "Unit.IsGreatPerson"
+        }
+    },
+    "Unit.IsReadyToSelect": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsReadyToSelect",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsReadyToSelect.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsReadyToSelect.md",
+            "link": "Unit.IsReadyToSelect"
+        }
+    },
+    "Unit.IsHero": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsHero",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsHero.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsHero.md",
+            "link": "Unit.IsHero"
+        }
+    },
+    "Unit.GetBarbarianTribeIndex": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetBarbarianTribeIndex",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetBarbarianTribeIndex.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetBarbarianTribeIndex.md",
+            "link": "Unit.GetBarbarianTribeIndex"
+        }
+    },
+    "Unit.IsCannotAttack": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsCannotAttack",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.IsCannotAttack.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsCannotAttack.md",
+            "link": "Unit.IsCannotAttack"
+        }
+    },
+    "Unit.ChangeMovesRemaining": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "ChangeMovesRemaining",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.ChangeMovesRemaining.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.ChangeMovesRemaining.md",
+            "link": "Unit.ChangeMovesRemaining"
+        }
+    },
+    "Unit.SetMilitaryFormation": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "SetMilitaryFormation",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.SetMilitaryFormation.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.SetMilitaryFormation.md",
+            "link": "Unit.SetMilitaryFormation"
+        }
+    },
+    "Unit.GetMaxDamage": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetMaxDamage",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetMaxDamage.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetMaxDamage.md",
+            "link": "Unit.GetMaxDamage"
+        }
+    },
+    "Unit.GetComponentID": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetComponentID",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetComponentID.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetComponentID.md",
+            "link": "Unit.GetComponentID"
+        }
+    },
+    "Unit.GetY": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetY",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetY.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetY.md",
+            "link": "Unit.GetY"
+        }
+    },
+    "Unit.SetActionCharges": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "SetActionCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.SetActionCharges.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.SetActionCharges.md",
+            "link": "Unit.SetActionCharges"
+        }
+    },
+    "Unit.GetMilitaryFormation": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetMilitaryFormation",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetMilitaryFormation.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetMilitaryFormation.md",
+            "link": "Unit.GetMilitaryFormation"
+        }
+    },
+    "Unit.GetCombat": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetCombat",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetCombat.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetCombat.md",
+            "link": "Unit.GetCombat"
+        }
+    },
+    "Unit.GetParkCharges": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetParkCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetParkCharges.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetParkCharges.md",
+            "link": "Unit.GetParkCharges"
+        }
+    },
+    "Unit.GetRangedCombat": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetRangedCombat",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetRangedCombat.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetRangedCombat.md",
+            "link": "Unit.GetRangedCombat"
+        }
+    },
+    "Unit.GetID": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetID",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetID.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetID.md",
+            "link": "Unit.GetID"
+        }
+    },
+    "Unit.GetProperty": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetProperty",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetProperty.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetProperty.md",
+            "link": "Unit.GetProperty"
+        }
+    },
+    "Unit.IsReadyToMove": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsReadyToMove",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsReadyToMove.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsReadyToMove.md",
+            "link": "Unit.IsReadyToMove"
+        }
+    },
+    "Unit.SetProperty": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "SetProperty",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.SetProperty.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.SetProperty.md",
+            "link": "Unit.SetProperty"
+        }
+    },
+    "Unit.ChangeExtraMoves": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "ChangeExtraMoves",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.ChangeExtraMoves.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.ChangeExtraMoves.md",
+            "link": "Unit.ChangeExtraMoves"
+        }
+    },
+    "Unit.GetX": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetX",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetX.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetX.md",
+            "link": "Unit.GetX"
+        }
+    },
+    "Unit.GetAttacksRemaining": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetAttacksRemaining",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetAttacksRemaining.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetAttacksRemaining.md",
+            "link": "Unit.GetAttacksRemaining"
+        }
+    },
+    "Unit.GetReligion": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetReligion",
+        "returns": [
+            "UnitReligion"
+        ],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetReligion.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetReligion.md",
+            "link": "Unit.GetReligion"
+        }
+    },
+    "Unit.GetFormationID": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetFormationID",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetFormationID.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetFormationID.md",
+            "link": "Unit.GetFormationID"
+        }
+    },
+    "Unit.GetMovementMovesRemaining": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetMovementMovesRemaining",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetMovementMovesRemaining.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetMovementMovesRemaining.md",
+            "link": "Unit.GetMovementMovesRemaining"
+        }
+    },
+    "Unit.GetAntiAirCombat": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetAntiAirCombat",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetAntiAirCombat.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetAntiAirCombat.md",
+            "link": "Unit.GetAntiAirCombat"
+        }
+    },
+    "Unit.GetMovesRemaining": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetMovesRemaining",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetMovesRemaining.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetMovesRemaining.md",
+            "link": "Unit.GetMovesRemaining"
+        }
+    },
+    "Unit.GetReligiousStrength": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetReligiousStrength",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetReligiousStrength.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetReligiousStrength.md",
+            "link": "Unit.GetReligiousStrength"
+        }
+    },
+    "Unit.IsHuman": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsHuman",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsHuman.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsHuman.md",
+            "link": "Unit.IsHuman"
+        }
+    },
+    "Unit.SetFortifyTurns": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "SetFortifyTurns",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.SetFortifyTurns.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.SetFortifyTurns.md",
+            "link": "Unit.SetFortifyTurns"
+        }
+    },
+    "Unit.GetExperience": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetExperience",
+        "returns": [
+            "UnitExperience"
+        ],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetExperience.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetExperience.md",
+            "link": "Unit.GetExperience"
+        }
+    },
+    "Unit.GetExtraMoves": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetExtraMoves",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.GetExtraMoves.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetExtraMoves.md",
+            "link": "Unit.GetExtraMoves"
+        }
+    },
+    "Unit.IsEmbarked": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "IsEmbarked",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "Unit.IsEmbarked.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.IsEmbarked.md",
+            "link": "Unit.IsEmbarked"
+        }
+    },
+    "Unit.GetGreatWorkIndex": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit",
+        "methodname": "GetGreatWorkIndex",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "Unit.GetGreatWorkIndex.md",
+            "folder": "../Objects/Unit",
+            "path": "../Objects/Unit/Unit.GetGreatWorkIndex.md",
+            "link": "Unit.GetGreatWorkIndex"
         }
     },
     "PlayerDiplomacy.NeverMakePeaceWith": {
@@ -22889,6 +25463,230 @@
             "link": "Map.IsWrapY"
         }
     },
+    "UnitGreatPerson.IsGreatPerson": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "IsGreatPerson",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.IsGreatPerson.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.IsGreatPerson.md",
+            "link": "UnitGreatPerson.IsGreatPerson"
+        }
+    },
+    "UnitGreatPerson.GetIndividualHash": {
+        "UI": false,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetIndividualHash",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetIndividualHash.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetIndividualHash.md",
+            "link": "UnitGreatPerson.GetIndividualHash"
+        }
+    },
+    "UnitGreatPerson": {
+        "tags": [
+            "Unit/UnitGreatPerson",
+            "object/instance"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.md",
+            "link": "UnitGreatPerson"
+        }
+    },
+    "UnitGreatPerson.GetIndividual": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetIndividual",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetIndividual.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetIndividual.md",
+            "link": "UnitGreatPerson.GetIndividual"
+        }
+    },
+    "UnitGreatPerson.GetClass": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetClass",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetClass.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetClass.md",
+            "link": "UnitGreatPerson.GetClass"
+        }
+    },
+    "UnitGreatPerson.GetActionCharges": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetActionCharges",
+        "returns": [],
+        "script": true,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI",
+            "function/script"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetActionCharges.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetActionCharges.md",
+            "link": "UnitGreatPerson.GetActionCharges"
+        }
+    },
+    "UnitGreatPerson.GetPassiveNameText": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetPassiveNameText",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetPassiveNameText.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetPassiveNameText.md",
+            "link": "UnitGreatPerson.GetPassiveNameText"
+        }
+    },
+    "UnitGreatPerson.HasPassiveEffect": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "HasPassiveEffect",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.HasPassiveEffect.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.HasPassiveEffect.md",
+            "link": "UnitGreatPerson.HasPassiveEffect"
+        }
+    },
+    "UnitGreatPerson.GetPassiveEffectText": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetPassiveEffectText",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetPassiveEffectText.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetPassiveEffectText.md",
+            "link": "UnitGreatPerson.GetPassiveEffectText"
+        }
+    },
+    "UnitGreatPerson.GetAreaHighlightPlots": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetAreaHighlightPlots",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetAreaHighlightPlots.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetAreaHighlightPlots.md",
+            "link": "UnitGreatPerson.GetAreaHighlightPlots"
+        }
+    },
+    "UnitGreatPerson.GetActivationHighlightPlots": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetActivationHighlightPlots",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetActivationHighlightPlots.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetActivationHighlightPlots.md",
+            "link": "UnitGreatPerson.GetActivationHighlightPlots"
+        }
+    },
+    "UnitGreatPerson.GetUnit": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitGreatPerson",
+        "methodname": "GetUnit",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitGreatPerson/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitGreatPerson.GetUnit.md",
+            "folder": "../Objects/UnitGreatPerson",
+            "path": "../Objects/UnitGreatPerson/UnitGreatPerson.GetUnit.md",
+            "link": "UnitGreatPerson.GetUnit"
+        }
+    },
     "PlayerDistricts.Members": {
         "UI": true,
         "arguments": [],
@@ -28425,6 +31223,56 @@
             "folder": "../Objects/Player",
             "path": "../Objects/Player/Player.GetAgendasAndVisibilities.md",
             "link": "Player.GetAgendasAndVisibilities"
+        }
+    },
+    "UnitTrade.GetLastDestinationTradeCityComponentID": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitTrade",
+        "methodname": "GetLastDestinationTradeCityComponentID",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitTrade/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitTrade.GetLastDestinationTradeCityComponentID.md",
+            "folder": "../Objects/UnitTrade",
+            "path": "../Objects/UnitTrade/UnitTrade.GetLastDestinationTradeCityComponentID.md",
+            "link": "UnitTrade.GetLastDestinationTradeCityComponentID"
+        }
+    },
+    "UnitTrade.GetLastOriginTradeCityComponentID": {
+        "UI": true,
+        "arguments": [],
+        "invoke": ":",
+        "memberOf": "Unit/UnitTrade",
+        "methodname": "GetLastOriginTradeCityComponentID",
+        "returns": [],
+        "script": false,
+        "tags": [
+            "Unit/UnitTrade/_function",
+            "function/UI"
+        ],
+        "file": {
+            "name": "UnitTrade.GetLastOriginTradeCityComponentID.md",
+            "folder": "../Objects/UnitTrade",
+            "path": "../Objects/UnitTrade/UnitTrade.GetLastOriginTradeCityComponentID.md",
+            "link": "UnitTrade.GetLastOriginTradeCityComponentID"
+        }
+    },
+    "UnitTrade": {
+        "tags": [
+            "Unit/UnitTrade",
+            "object/instance"
+        ],
+        "file": {
+            "name": "UnitTrade.md",
+            "folder": "../Objects/UnitTrade",
+            "path": "../Objects/UnitTrade/UnitTrade.md",
+            "link": "UnitTrade"
         }
     },
     "PlayerCulture.IsPolicyObsolete": {
