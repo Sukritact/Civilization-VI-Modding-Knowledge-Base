@@ -78,6 +78,7 @@ Welcome to the Civilization VI Modding Knowledge Base. This site aims to be a co
 - [[GameRandomEvents]]
 - [[ImprovementBuilder]]
 - [[Map]]
+	- [[CityPlots]]
 - [[MapConfiguration]]
 - [[MapFeatureManager]]
 - [[NotificationManager]]
