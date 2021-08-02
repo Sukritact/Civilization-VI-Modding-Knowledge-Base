@@ -15,7 +15,7 @@ NamesRegex		= re.compile(r'(\w+)(.(\w+))?.md')
 # ----------------------------------------------------------------------
 # Process Object Hierarchy
 # ----------------------------------------------------------------------
-with open('Objects.json') as js_file:
+with open('Objects.json', encoding='utf-8') as js_file:
 	data = json.load(js_file)
 
 objects = {}
@@ -142,6 +142,7 @@ def UpdateFile(path, objectData, methodData):
 
 	with open(path, 'r', encoding='utf-8') as file:
 		content		= file.read()
+		print(path)
 		yamlMatch	= yamlRegex.match(content)
 		yamlEnd		= yamlMatch.span(1)[1]
 		if methodData:
@@ -225,10 +226,10 @@ for objectEntry in data["Objects"]:
 
 		if not os.path.isfile(methodPath):
 			os.makedirs(os.path.dirname(methodPath), exist_ok=True)
-			f = open(methodPath, "w")
+			f = open(methodPath, "w", encoding='utf-8')
 			f.write('---\n')
+			f.write('\n')
 			f.write('---\n')
-			f.write('# ' + method["Name"] + "\n")
 			f.write('# ' + method["Name"] + "\n")
 			f.write('> this function is a member of [[' + objectName + "]]\n")
 			if methodData["invoke"] == ":":
@@ -237,6 +238,7 @@ for objectEntry in data["Objects"]:
 				f.write('> this method can be invoked with `.`\n')
 			f.write('-----\n')
 			f.write('## Usage\n')
+			f.close()
 
 		UpdateFile(methodPath, objectData, methodData)
 
@@ -246,8 +248,9 @@ for objectEntry in data["Objects"]:
 
 	if not os.path.isfile(objectPath):
 		os.makedirs(os.path.dirname(objectPath), exist_ok=True)
-		f = open(objectPath, "w")
+		f = open(objectPath, "w", encoding='utf-8')
 		f.write('---\n')
+		f.write('\n')
 		f.write('---\n')
 
 		f.write('# ' + objectName + "\n")
@@ -260,5 +263,6 @@ for objectEntry in data["Objects"]:
 			f.write('This file is a description of an Instance’s Metatable. There is no accessible variable of this name. Most of its methods will expect an implicit "self" argument and should be invoked with a `:`.\n')
 		f.write('\n')
 		f.write('## Methods\n')
+		f.close()
 
 	UpdateFile(objectPath, objectData, False)

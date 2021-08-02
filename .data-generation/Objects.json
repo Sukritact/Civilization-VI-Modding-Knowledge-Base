@@ -10717,6 +10717,1044 @@
           "Arguments": []
         }
       ]
+    },
+    {
+      "Name"    : "UnitGreatPerson",
+      "Type"    : "Instance",
+      "Methods" : [
+        {
+          "Name"    : "UnitGreatPerson:GetActionCharges",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:GetActivationHighlightPlots",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:GetAreaHighlightPlots",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:GetClass",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:GetIndividual",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:GetIndividualHash",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:GetPassiveEffectText",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:GetPassiveNameText",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:GetUnit",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:HasPassiveEffect",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitGreatPerson:IsGreatPerson",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        }
+      ]
+    },
+    {
+      "Name"    : "UnitTrade",
+      "Type"    : "Instance",
+      "Methods" : [
+        {
+          "Name"    : "UnitTrade:GetLastDestinationTradeCityComponentID",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitTrade:GetLastOriginTradeCityComponentID",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        }
+      ]
+    },
+    {
+      "Name"    : "UnitExperience",
+      "Type"    : "Instance",
+      "Methods" : [
+        {
+          "Name"    : "UnitExperience:CanPromote",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:ChangeExperience",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:ChangeStoredPromotions",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:GetExperienceForNextLevel",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:GetExperiencePoints",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:GetLevel",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:GetPromotions",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:GetUnit",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:GetVeteranName",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:HasPromotion",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:SetExperienceLocked",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:SetPromotion",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitExperience:SetVeteranName",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        }
+      ]
+    },
+    {
+      "Name"    : "Unit",
+      "Type"    : "Instance",
+      "Methods" : [
+        {
+          "Name"    : "Unit:ChangeActionCharges",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:ChangeDamage",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:ChangeExtraMoves",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:ChangeMovesRemaining",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetAbility",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetActionCharges",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetAirSlots",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetAirUnits",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetAntiAirCombat",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetArchaeology",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetArchaeologyHomeCity",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetAttacksRemaining",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetBarbarianTargetPlayer",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetBarbarianTribeIndex",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetBombardCombat",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetBuildCharges",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetChildIDs",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetCombat",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetComponentID",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetDamage",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetDisasterCharges",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetDomain",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetExperience",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : ["UnitExperience"],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetExtraMoves",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetFormationClass",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetFormationID",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetFormationMaxMoves",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetFormationMovesRemaining",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetFormationUnitCount",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetFormationUnitIDs",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetFormationUnits",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetFortifyTurns",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetGreatPerson",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : ["UnitGreatPerson"],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetGreatWorkIndex",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetHeroClassType",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetID",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetLocation",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetLootName",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetMaxDamage",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetMaxMoves",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetMilitaryFormation",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetMovementMovesRemaining",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetMovesRemaining",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetName",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetOperationParameter",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetOperationType",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetOriginalOwner",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetOwner",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetParentID",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetParkCharges",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetPlotId",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetProperties",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetProperty",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetPursuingSpyName",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetRange",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetRangedCombat",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetReligion",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : ["UnitReligion"],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetReligionType",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetReligiousHealCharges",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetReligiousStrength",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetRockBand",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetSpreadCharges",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetSpyOperation",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetSpyOperationEndTurn",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetTrade",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : ["UnitTrade"],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetType",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetTypeHash",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetUnitType",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetUpgradeCost",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetUpgradeResourceCost",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetX",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:GetY",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:HasHiddenVisibility",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:HasMovedIntoZOC",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:HasPendingOperations",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IgnoresZOC",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsAutomated",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsCannotAttack",
+          "UI"    : 1,
+          "Script"  : 0,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsDead",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsDelayedDeath",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsEmbarked",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsGreatPerson",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsHero",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsHuman",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsReadyToAutomate",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsReadyToMove",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:IsReadyToSelect",
+          "UI"    : 1,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:SetActionCharges",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:SetDamage",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:SetFortifyTurns",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:SetMilitaryFormation",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "Unit:SetProperty",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        }
+      ]
+    },
+    {
+      "Name"    : "UnitReligion",
+      "Type"    : "Instance",
+      "Methods" : [
+        {
+          "Name"    : "UnitReligion:ChangeEvictPercent",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:ChangeForeignSpreadModifier",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:ChangeNWDeferredCharges",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:ChangeReligiousHealCharges",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:ChangeReligiousStrength",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:ChangeSpreadCharges",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetEvictPercent",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetForeignSpreadModifier",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetInitiationAmount",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetInitiationYield",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetNWDeferredCharges",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetReligionType",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetReligiousHealCharges",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetReligiousStrength",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:GetSpreadCharges",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:IsConvertsBarbarians",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:IsNoForeignSpread",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:IsRelicUponDeath",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:SetConvertsBarbarians",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:SetEvictPercent",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:SetForeignSpreadModifier",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:SetInitiationAmount",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:SetInitiationYield",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:SetNoForeignSpread",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:SetRelicUponDeath",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        },
+        {
+          "Name"    : "UnitReligion:SetReligionType",
+          "UI"    : 0,
+          "Script"  : 1,
+          "Returns" : [],
+          "Arguments" : []
+        }
+      ]
     }
   ]
 }
