@@ -6829,7 +6829,11 @@
     },
     "GameGreatPeople.GetPatronizeCost": {
         "UI": true,
-        "arguments": [],
+        "arguments": [
+            "PlayerID [number]",
+            "IndividualID [number]",
+            "YieldType [number]"
+        ],
         "invoke": ":",
         "memberOf": "Game/GameGreatPeople",
         "methodname": "GetPatronizeCost",
@@ -6934,7 +6938,10 @@
     },
     "GameGreatPeople.GetRecruitCost": {
         "UI": true,
-        "arguments": [],
+        "arguments": [
+            "PlayerID [number]",
+            "IndividualID [number]"
+        ],
         "invoke": ":",
         "memberOf": "Game/GameGreatPeople",
         "methodname": "GetRecruitCost",
@@ -15020,7 +15027,9 @@
         "invoke": ":",
         "memberOf": "Unit",
         "methodname": "GetLocation",
-        "returns": [],
+        "returns": [
+            "UnitLocation [table]"
+        ],
         "script": true,
         "tags": [
             "Unit/_function",
@@ -18205,7 +18214,9 @@
         "invoke": ":",
         "memberOf": "District",
         "methodname": "GetCity",
-        "returns": [],
+        "returns": [
+            "City"
+        ],
         "script": true,
         "tags": [
             "District/_function",
@@ -25984,11 +25995,15 @@
     },
     "PlayerUnits.FindID": {
         "UI": true,
-        "arguments": [],
+        "arguments": [
+            "UnitID [number]"
+        ],
         "invoke": ":",
         "memberOf": "Player/PlayerUnits",
         "methodname": "FindID",
-        "returns": [],
+        "returns": [
+            "Unit"
+        ],
         "script": true,
         "tags": [
             "Player/PlayerUnits/_function",
