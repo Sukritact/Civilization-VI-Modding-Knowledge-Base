@@ -18,7 +18,7 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 | |✓||:|[[District.GetAirUnits\|GetAirUnits]]||
 | |✓||:|[[District.GetAttackStrength\|GetAttackStrength]]||
 | |✓||:|[[District.GetBaseDefenseStrength\|GetBaseDefenseStrength]]||
-|✓|✓||:|[[District.GetCity\|GetCity]]||
+|✓|✓|<code>[[City]]<code/>|:|[[District.GetCity\|GetCity]]||
 | |✓||:|[[District.GetComponentID\|GetComponentID]]||
 |✓|✓||:|[[District.GetDamage\|GetDamage]]||
 |✓|✓||:|[[District.GetDefenseStrength\|GetDefenseStrength]]||

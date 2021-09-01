@@ -4,7 +4,8 @@ arguments: []
 invoke: ':'
 memberOf: Unit
 methodname: GetLocation
-returns: []
+returns:
+- UnitLocation [table]
 script: true
 tags:
 - Unit/_function
@@ -18,4 +19,7 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓||Unit:GetLocation||
+|✓|✓|`UnitLocation [table]`|Unit:GetLocation||
+
+## Notes
+The function returns a table with two indices: `x`, and `y`.

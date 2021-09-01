@@ -12,7 +12,7 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |:------:|:---:| -------:|:---- |:---- |:--------- |
 |✓| ||:|[[PlayerUnits.Create\|Create]]||
 |✓| ||:|[[PlayerUnits.Destroy\|Destroy]]||
-|✓|✓||:|[[PlayerUnits.FindID\|FindID]]||
+|✓|✓|<code>[[Unit]]<code/>|:|[[PlayerUnits.FindID\|FindID]]|`UnitID [number]`|
 |✓|✓||:|[[PlayerUnits.GetCount\|GetCount]]||
 | |✓||:|[[PlayerUnits.GetFirstReadyUnit\|GetFirstReadyUnit]]||
 | |✓||:|[[PlayerUnits.GetNextExtractingArchaeologist\|GetNextExtractingArchaeologist]]||

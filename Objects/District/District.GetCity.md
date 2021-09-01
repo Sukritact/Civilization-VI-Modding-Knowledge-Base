@@ -4,7 +4,8 @@ arguments: []
 invoke: ':'
 memberOf: District
 methodname: GetCity
-returns: []
+returns:
+- City
 script: true
 tags:
 - District/_function
@@ -18,4 +19,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓||District:GetCity||
+|✓|✓|<code>[[City]]<code/>|District:GetCity||

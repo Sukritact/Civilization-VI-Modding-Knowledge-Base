@@ -1,10 +1,12 @@
 ---
 UI: true
-arguments: []
+arguments:
+- UnitID [number]
 invoke: ':'
 memberOf: Player/PlayerUnits
 methodname: FindID
-returns: []
+returns:
+- Unit
 script: true
 tags:
 - Player/PlayerUnits/_function
@@ -18,4 +20,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓||PlayerUnits:FindID||
+|✓|✓|<code>[[Unit]]<code/>|PlayerUnits:FindID|`UnitID [number]`|

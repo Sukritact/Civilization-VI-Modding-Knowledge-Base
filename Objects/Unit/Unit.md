@@ -46,7 +46,7 @@ This file is a description of an object. This object is accessible as a global v
 | |✓||:|[[Unit.GetGreatWorkIndex\|GetGreatWorkIndex]]||
 |✓|✓||:|[[Unit.GetHeroClassType\|GetHeroClassType]]||
 |✓|✓||:|[[Unit.GetID\|GetID]]||
-|✓|✓||:|[[Unit.GetLocation\|GetLocation]]||
+|✓|✓|`UnitLocation [table]`|:|[[Unit.GetLocation\|GetLocation]]||
 | |✓||:|[[Unit.GetLootName\|GetLootName]]||
 |✓|✓||:|[[Unit.GetMaxDamage\|GetMaxDamage]]||
 |✓|✓||:|[[Unit.GetMaxMoves\|GetMaxMoves]]||

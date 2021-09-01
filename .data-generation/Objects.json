@@ -954,7 +954,7 @@
           "Name": "District:GetCity",
           "UI": 1,
           "Script": 1,
-          "Returns": [],
+          "Returns": ["City"],
           "Arguments": []
         },
         {
@@ -8914,8 +8914,8 @@
           "Name": "PlayerUnits:FindID",
           "UI": 1,
           "Script": 1,
-          "Returns": [],
-          "Arguments": []
+          "Returns": ["Unit"],
+          "Arguments": ["UnitID [number]"]
         },
         {
           "Name": "PlayerUnits:GetCount",
@@ -11178,7 +11178,7 @@
           "Name"    : "Unit:GetLocation",
           "UI"    : 1,
           "Script"  : 1,
-          "Returns" : [],
+          "Returns" : ["UnitLocation [table]"],
           "Arguments" : []
         },
         {
