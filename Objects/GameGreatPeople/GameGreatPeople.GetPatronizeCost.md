@@ -1,6 +1,9 @@
 ---
 UI: true
-arguments: []
+arguments:
+- PlayerID [number]
+- IndividualID [number]
+- YieldType [number]
 invoke: ':'
 memberOf: Game/GameGreatPeople
 methodname: GetPatronizeCost
@@ -18,4 +21,13 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓||GameGreatPeople:GetPatronizeCost||
+|✓|✓||GameGreatPeople:GetPatronizeCost|`PlayerID [number]`<br>`IndividualID [number]`<br>`YieldType [number]`|
+
+## Notes
+  
+`YieldType [number]` corresponds to an entry in the `YieldTypes` global table, NOT the Index of the yield in the game database.
+
+For instance, see this code sample:
+
+> `pGreatPeople:GetPatronizeCost(displayPlayerID, entry.Individual, YieldTypes.GOLD)`
+

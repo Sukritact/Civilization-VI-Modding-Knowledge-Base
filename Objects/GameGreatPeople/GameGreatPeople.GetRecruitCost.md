@@ -1,6 +1,8 @@
 ---
 UI: true
-arguments: []
+arguments:
+- PlayerID [number]
+- IndividualID [number]
 invoke: ':'
 memberOf: Game/GameGreatPeople
 methodname: GetRecruitCost
@@ -18,4 +20,4 @@ tags:
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓||GameGreatPeople:GetRecruitCost||
+|✓|✓||GameGreatPeople:GetRecruitCost|`PlayerID [number]`<br>`IndividualID [number]`|

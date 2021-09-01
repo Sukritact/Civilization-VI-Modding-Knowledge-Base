@@ -6033,14 +6033,21 @@
           "UI": 1,
           "Script": 1,
           "Returns": [],
-          "Arguments": []
+          "Arguments": [
+            "PlayerID [number]",
+            "IndividualID [number]",
+            "YieldType [number]"
+          ]
         },
         {
           "Name": "GameGreatPeople:GetRecruitCost",
           "UI": 1,
           "Script": 1,
           "Returns": [],
-          "Arguments": []
+          "Arguments": [
+            "PlayerID [number]",
+            "IndividualID [number]"
+          ]
         },
         {
           "Name": "GameGreatPeople:GetRejectCost",

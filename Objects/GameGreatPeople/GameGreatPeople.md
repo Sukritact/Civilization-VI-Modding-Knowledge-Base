@@ -17,8 +17,8 @@ This file is a description of an Instance’s Metatable. There is no accessible 
 |✓| ||:|[[GameGreatPeople.CreatePerson\|CreatePerson]]|`PlayerID [number]`<br>`IndividualID [number]`<br>`X [number]`<br>`Y [number]`|
 | |✓||:|[[GameGreatPeople.GetEarnConditionsText\|GetEarnConditionsText]]||
 | |✓||:|[[GameGreatPeople.GetPastTimeline\|GetPastTimeline]]||
-|✓|✓||:|[[GameGreatPeople.GetPatronizeCost\|GetPatronizeCost]]||
-|✓|✓||:|[[GameGreatPeople.GetRecruitCost\|GetRecruitCost]]||
+|✓|✓||:|[[GameGreatPeople.GetPatronizeCost\|GetPatronizeCost]]|`PlayerID [number]`<br>`IndividualID [number]`<br>`YieldType [number]`|
+|✓|✓||:|[[GameGreatPeople.GetRecruitCost\|GetRecruitCost]]|`PlayerID [number]`<br>`IndividualID [number]`|
 |✓|✓||:|[[GameGreatPeople.GetRejectCost\|GetRejectCost]]||
 |✓|✓||:|[[GameGreatPeople.GetTimeline\|GetTimeline]]||
 |✓| ||:|[[GameGreatPeople.GrantPerson\|GrantPerson]]|`IndividualID [number]`<br>`GreatPersonClassID [number]`<br>`EraID [number]`<br>`Cost [number]`<br>`PlayerID [number]`<br>`Unknown [boolean]`|
