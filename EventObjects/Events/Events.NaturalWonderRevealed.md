@@ -1,6 +1,7 @@
 # Events.NaturalWonderRevealed
 ## Description
-TBD
+>[!WARNING]
+>This event only fires for the local player!
 
 ## Usage
 > `Events.NaturalWonderRevealed(iX [number], iY [number], eFeature [number], bIsFirstToFind [boolean])`

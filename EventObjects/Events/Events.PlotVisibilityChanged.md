@@ -1,6 +1,7 @@
 # Events.PlotVisibilityChanged
 ## Description
-TBD
+>[!WARNING]
+>This event only fires for the local player!
 
 ## Usage
 > `Events.PlotVisibilityChanged(iX [number], iY [number], visibilityType [number])`

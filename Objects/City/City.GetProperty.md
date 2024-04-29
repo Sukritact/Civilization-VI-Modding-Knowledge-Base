@@ -17,3 +17,6 @@ tags:
 -----
 ## Usage
 See [[About Get-SetProperty]]
+
+## Notes
+City Properties are lost when ownership is transferred to another Player.
